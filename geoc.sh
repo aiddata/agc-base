@@ -55,7 +55,7 @@ types=$(find "$cbase"/prep/"$prep"/* -type d)
 for atype in $types; do
 	atype="${atype##*/}"
 
-	parallel -q python "$base"/geoc.py "$cbase" "$prep" "$geoc" {} ::: "$cbase"/prep/"$prep"/"$atype"/*
+	parallel -q python "$base"/geoc.py "$cbase" "$country" "$prep" "$geoc" {} ::: "$cbase"/prep/"$prep"/"$atype"/*
 
 done
 
