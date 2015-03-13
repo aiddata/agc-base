@@ -21,6 +21,12 @@ sudo apt-get update
 sudo apt-get install -y mongodb-org
 
 -------------------------------------------------
+geonames mongodb import
+
+example:
+mongoimport --drop -db geonames --collection malawi --type tsv --file /home/usery/agc/malawi/geonames.tsv --fieldFile /home/usery/agc/geonames_fieldFile
+
+-------------------------------------------------
 python packages (sudo pip install -U 'package')
 
 numpy
@@ -29,3 +35,13 @@ geopy [ use modified GeoNames class ]
 shapely
 pyshp
 pymongo
+
+-------------------------------------------------
+remove duplicates from geoc.py output
+
+sort -u /path/to/duplicates.tsv > /path/to/unique.tsv
+
+or
+
+awk '!a[$0]++' /path/to/duplicates.tsv > /path/to/unique.tsv
+
