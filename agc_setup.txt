@@ -10,7 +10,7 @@ python-pdfminer
 libreoffice-base
 parallel
 mongodb (see below)
-matplotlib (should be installed already)
+matplotlib (agc-error only - should be installed already)
 
 -------------------------------------------------
 mongodb installation
@@ -27,14 +27,14 @@ example:
 mongoimport --drop -db geonames --collection malawi --type tsv --file /home/usery/agc/malawi/geonames.tsv --fieldFile /home/usery/agc/geonames_fieldFile
 
 -------------------------------------------------
-python packages (sudo pip install -U 'package')
+agc-base python packages (sudo pip install -U 'package')
 
 numpy
+
 nltk [ run nltk.download() ]
-geopy [ use modified GeoNames class ]
-shapely
-pyshp
+geopy [ use modified GeoNames class ] - NO LONGER USED
 pymongo
+
 
 -------------------------------------------------
 remove duplicates from geoc.py output
@@ -45,3 +45,9 @@ or
 
 awk '!a[$0]++' /path/to/duplicates.tsv > /path/to/unique.tsv
 
+-------------------------------------------------
+agc-error python packages
+
+numpy
+shapely
+pyshp
