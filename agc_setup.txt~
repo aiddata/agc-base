@@ -1,0 +1,53 @@
+ubuntu 14.04 (32)
+
+-------------------------------------------------
+ubuntu packages (sudo apt-get install 'package')
+
+tesseract-ocr
+pdftk
+graphicsmagick
+python-pdfminer
+libreoffice-base
+parallel
+mongodb (see below)
+matplotlib (agc-error only - should be installed already)
+
+-------------------------------------------------
+mongodb installation
+
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+echo 'deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' | sudo tee /etc/apt/sources.list.d/mongodb.list
+sudo apt-get update
+sudo apt-get install -y mongodb-org
+
+-------------------------------------------------
+geonames mongodb import
+
+example:
+mongoimport --drop -db geonames --collection malawi --type tsv --file /home/usery/agc/malawi/geonames.tsv --fieldFile /home/usery/agc/geonames_fieldFile
+
+-------------------------------------------------
+agc-base python packages (sudo pip install -U 'package')
+
+numpy
+
+nltk [ run nltk.download() ]
+geopy [ use modified GeoNames class ] - NO LONGER USED
+pymongo
+
+
+-------------------------------------------------
+remove duplicates from geoc.py output
+
+sort -u /path/to/duplicates.tsv > /path/to/unique.tsv
+
+or
+
+awk '!a[$0]++' /path/to/duplicates.tsv > /path/to/unique.tsv
+
+-------------------------------------------------
+agc-error python packages
+
+numpy
+shapely
+pyshp
