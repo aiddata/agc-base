@@ -1,0 +1,5050 @@
+**‘r
+i; ‘ah
+
+CLINTON
+FOUNDATION
+
+*ﬁ4ﬁ5‘?
+
+A Proposal to the
+Government of the Kingdom of Norway
+to Support
+Successful District-Level Implementation
+ofthe
+
+Malawi Ministry of Health
+PMTCT Programme
+
+Clinton Foundation HIV/AIDS Initiative
+Malawi
+
+Submitted
+27 May 2008
+
+TABLE OF CONTENTS
+
+ 
+
+Section Page
+I. EXECUTIVE SUMMARY ...................................................................................... .. 4
+ll. CONTEXT ......................................................................................................... .. 5
+1. GLOBAL HIV & PMTCT CONTEXT ................................................................. .. 5
+2. CHAI GLOBAL PMTCT PROJECTS ................................................................. .. 5
+
+3 MALAWI HIV & PMTCT ................................................................................ .. 6
+a. Situation Assessment .............................................................................. .. 6
+
+b. Government Response ............................................................................ .. 7
+
+c. Challenges to the National PMTCT Programme ...................................... .. 9
+
+d. CHAI ’5 Work In Malawi ......................................................................... .. 16
+
+Ill. CHAI PROPOSED SOLUTONS ...................................................................... .. 17
+1. INTRODUCTION ......................................................................................... .. 17
+2. VISION & MISSION FOR THE PMTCT PROGRAMME .................................. .. 18
+3. GOALS ........................................................................................................ .. 18
+4. SELECTION OF TARGET DI STRI CT— MACHI NGA ...................................... .. 19
+5. STRATEGIC ACTIONS ................................................................................ .. 22
+6. PROGRAMME MANAGEMENT ..................................................................... .. 31
+7. FUNDING REQUEST & BUDGET ................................................................. .. 37
+APPENDICES ....................................................................................................... .. 38
+
+W
+
+Table 1: Malawi Population & HIV Data ................................................................ .. 6
+Table 2: Historical Perspective of PMTCT in Malawi ............................................. .. 7
+Table 3: Malawi PMTCT Scale-Up Results ............................................................. .. 8
+Table 4: Challenges in Community Mobilisation ................................................. .. 10
+Table 5: Population per Qualified Health Professional ....................................... .. 11
+Table 6: Human Resource Challenges ................................................................. .. 12
+Table 7: Infrastructure & Transport Challenges ................................................. .. 13
+Table 8: Supply Chain Challenges ....................................................................... .. 13
+Table 9: Patient Care & Compliance Challenges ................................................. .. 14
+Table 10: Challenges Related to Integrated Service/ Cascade Linkages .......... .. 14
+Table 11 : Challenges in Community-Based Care and Follow-Up ........................ .. 15
+Table 12: M&E Challenges ................................................................................... .. 15
+Table 13: Machinga District Population and Pregnancies, 2007-2011 ............... .. 19
+Table 14: Machinga District Demographics, 2008 .............................................. .. 20
+Table 15: Machinga District Hospital PMTCT/ ANC Data ................................... .. 20
+Table 16: PMTCT Activity in Machinga District ................................................... .. 21
+Table 17: Potential Impact of PMTCT Project in Machinga District ................... .. 21
+Table 18: Eight Strategic Actions ........................................................................ .. 22
+Table 19: Risk Assessment .................................................................................. .. 34
+Table 20: Budget Summary ................................................................................. .. 37
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 2 of 53
+
+List of Figures
+
+Figure 1 : Trends in PMTCT Scale-Up ..................................................................... .. 8
+Figure 2: Phases for CHAI ’s Proposed Solutions ................................................ .. 17
+Figure 3: Project Activities, 2008-2011 .............................................................. .. 23
+Figure 4: Programme Management .................................................................... .. 31
+
+List of Appendices
+
+Appendix 1: MALAWI HIV PREVALENCE BY DISTRI CT ....................................... .. 38
+Appendix 2: MACHI NGA DISTRICT PMTCT DATA ............................................... .. 38
+Appendix 3: MACHI NGA DISTRICT PMTCT READINESS ..................................... .. 39
+Appendix 4: Machinga District ART Data ............................................................ .. 39
+Appendix 5: MAP of MALAWI — Machinga Highlighted ....................................... .. 40
+Appendix 6: MACHI NGA DISTRICT MAP & ART SITES ....................................... .. 41
+Appendix 7: SERVI CES PROVIDED TO ANC CLIENTS ......................................... .. 42
+Appendix 8: COMBINATION ARV PROPHYLAXI S ADMINISTRATION ................. .. 43
+Appendix 9: HI V DIAGNOSIS IN BREASTFEEDING INFANTS ............................. .. 44
+Appendix 10: STEPS FOR COUNSELLI NG HI V+ MOTHERS ................................. .. 45
+Appendix 11 : PMTCT MONTHLY REPORT FORM ................................................. .. 46
+Appendix 12: CHAI WORK IN MALAWI ............................................................... .. 47
+Appendix 13: CHAI MALAWI ORGANIZATION .................................................... .. 51
+Appendix 14: CARE PARTNERS ........................................................................... .. 52
+Appendix 15: ABBREVIATIONS ........................................................................... .. 53
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 3 of 53
+
+I. EXECUTIVE SUMMARY
+
+The HIV AIDS pandemic rages relentlessly in Sub-Saharan Africa. Women, infants and
+children account for more than 60% of new HIV infections. Each year, globally, half a
+million children become infected with HIV. Most of these infections are in developing
+countries, and more than 90% come from mother-to-child transmission. Without
+intervention, there is a 30-45% chance that, in breastfeeding populations, a baby born to an
+HIV positive (HIV+) mother will become infected.
+
+Malawi, ranked as one of the world’s poorest nations, also has one of the highest HIV AIDS
+prevalence rates. The N80 projected that in 2007 about 80,000 HIV positive women gave
+birth, and of the exposed infants, only 15.3% received any prophylaxis. Recognizing the
+urgent need to address the growing infection through vertical transmission, the Government
+of Malawi (GOM) initiated a Prevention of Mother-To-Child Transmission (PMTCT)
+programme in 1999. The roll-out saw limited progress until 2007 when the Ministry of
+Health (MOH) initiated a five-year scale up plan. This programme has resulted in impressive
+growth, but severely limited resources hinder the comprehensive roll out of high quality
+servnces.
+
+Numerous challenges and bottlenecks impede the programme. These include a critical
+shortage of human resources in the health sector, a poorly managed and inconsistent supply
+chain, resulting in frequent stock outs of essential drugs and diagnostics, inadequate
+infrastructure, poor transport services, and difficulties in community mobilisation and lack of
+male involvement which hinders uptake of services and good adherence to drug regimens.
+Additionally there are many difficulties in establishing effective home-based care, without
+which it is almost impossible to achieve comprehensive patient care and follow through.
+
+The Clinton Foundation HIV/AIDS Initiative (CHAI) has focused on expanding HIV/AIDS care
+globally. CHAI has worked to lower the cost of treatment worldwide, partnered with
+governments to implement large-scale treatment and prevention programmes, expanded
+access to treatment in rural areas, and helped make treatment universally available for
+children. In 2007 CHAI launched a global effort in PMTCT.
+
+In 2008 CHAI-Malawi plans to support the national PMTCT programme of the GOM whose
+vision is an HIV-free generation. CHAI’s plan is to help achieve this vision by supporting the
+comprehensive and effective implementation of all elements of the Malawi Ministry of Health
+(MOH) PMTCT programme in the Machinga District, population 447,243. CHAI-Malawi has
+already participated in writing Malawi’s updated ART and PMTCT guidelines.
+
+For this proposal, CHAI has developed a comprehensive set of eight strategic actions aimed
+at achieving success in prevention of infection through two primary targets:
+
+0 A significant increase in the full range of uptake of PMTCT services
+0 A dramatic decrease in the rate of mother-to-child transmission of HIV (MTCT)
+
+At all stages of the project CHAI will implement interventions only after consultation with
+and approval from all national and local leadership in the health sector. The project plan
+provides for the rapid acceleration of infrastructural enhancements in order to satisfactorily
+service the intended increase in patients accessing care. CHAI will work closely with the
+MOH on high quality monitoring and evaluation (M&E) in accordance with their guidelines,
+and will also provide additional assessments of the programme in cooperation with the MOH
+and DHO. Activities will also be evaluated to ensure sustainability. In partnership with the
+Malawi MOH, CHAI Malawi will engage aggressively to demonstrate success in the PMTCT
+programme in the target district in order to create a pathway for success nationwide.
+
+This proposal requests funding from the Government of the Kingdom of Norway for
+comprehensive PMTCT support in the selected district of Machinga. The budget is
+approximately $618 for each of 8,613 HIV+ mother-infant pairs in care, or $5.33 million
+over three years. CHAI could later support a second district if additional funds are available.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 4 of 53
+
+I I . CONTEXT
+1. GLOBAL HIV & PMTCT CONTEXT
+
+HIV is a global pandemic that disproportionately affects women and young children. In 2007
+an estimated 33.2 million people were living with HIV worldwide, including about 15.4
+million women and 2.5 million children under the age of 15. In sub-Saharan Africa, women,
+infants and children account for more than 60% of new HIV infections. Each year, half a
+million children become infected with HIV. Most of these infections are in developing
+countries, and more than 90% come from mother-to-child transmission (also called vertical
+transmission) during pregnancy, labour and delivery, or breastfeeding. Without intervention,
+there is a 30-45%1 chance that a baby born to an HIV-infected mother will become infected.
+
+The most effective way to prevent mother-to-child transmission of HIV involves treatment
+with triple antiretroviral drug regimens and avoidance of breastfeeding. In high-income
+countries, where these options have been available since the mid 19903, mother-to-child
+transmission (MTCT) rates have been reduced to below 2%. In the developing world,
+however, prevention programmes have been based primarily on the provision of a single-
+dose of nevirapine for the mother and infant at the time of birth, and on exclusive
+breastfeeding. For the last eight years, these interventions have been accepted as the most
+logical in settings with limited health services and where follow-up was neither possible nor
+expected. Most programmes focused solely on pregnant women who presented at antenatal
+clinics. These efforts are hindered by low antenatal participation, poor access to testing and
+counselling, and inadequate stocks of drugs at PMTCT sites. It is estimated that only 16%2
+of pregnant women in low- and middle-income countries were tested for HIV in 2006. While
+this has increased from an estimated 10% in 2005, there is much that needs to be done to
+reduce MTCT on a global scale.
+
+2. CHAI GLOBAL PMTCT PROJECTS
+
+The Clinton Foundation’s HIV/AI DS Initiative (CHAI) recognizes the urgent need to break
+this cycle of new paediatric infections — the vast majority of which are caused by vertical
+transmission. CHAI is working with 9 partner governments to demonstrate that it is possible
+to dramatically reduce MTCT in resource-poor settings by increasing the delivery of
+comprehensive and high quality PMTCT services. This is predicated upon offering a fee-
+free, high quality package of PMTCT services, developed and scaled-up in partnership with
+host governments and other NGO partners. CHAI is not involved in providing direct patient
+care, but works with governments to enhance the scale-up of their PMTCT programmes, fill
+gaps in infrastructure, train and support technical staff, improve the supply chain, and
+develop appropriate interventions to ensure mother-infant follow-up.
+
+The CHAI PMTCT programmes will support the Millennium Development Goals (MDG) of
+reducing maternal and child mortality. Each project expects to support the upgrade of
+services offered at local health facilities and forge strong linkages with the community to
+achieve universal coverage of the targeted population — women of child-bearing age (WCBA)
+and children. The programmes also aim to increase the number of people across the
+population who seek and receive HIV detection and treatment services.
+
+ 
+
+1 PMTCT Guidelines (DRAFT), 2nd Edition, 2008, Malawi Ministry of Health, Page 1
+2 Source: PMTCT High Level Global Partners Forum 2007, 27
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 5 of 53
+
+3. MALAWI HIV & PMTCT
+a. Situation Assessment
+
+Malawi is a geographically small, landlocked country in Southern/Central Africa with a rapidly
+increasing high density population, currently estimated at 13.6 million. Malawi, ranked as
+one of the world’s poorest nations, also has one of the highest HIV AIDS prevalence rates.
+As in the rest of Sub-Saharan Africa, infants born to sero-positive mothers account for the
+majority of new HIV cases each year, accelerating the already dramatic spread of HIV.
+
+Table 1: Malawi Population & HIV Data3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Scope or
+
+Year Population of HIV Measurement Range Data
+2007 HIV prevalence — All ages (men, women, and children) National 12.0 %
+HIV prevalence — Women of child-bearing age 15-49 National 12.6%
+Urban 17.1%
+Semi-urban 16.3%
+Rural 12.0%
+2008 People living with HIV 924,248
+Children (<15 years) living with HIV 101,939
+Adults in need of ART 263,334
+Children in need of ART 26,454
+Projected number of births 637,850
+Exposed children (ante-natal, intrapartum, and post-natal) 80,369
+. . . . 30% 24,111
+Children Contracting HIV/ AI DS If no PMTCT Intervention to 45% to 36,166
+
+ 
+
+ 
+
+ 
+
+Without intervention, the majority of these children will die in early infancy or by their
+second birthdays. Moreover, sero-positive mothers may continue to put others at risk of
+infection and/or have more at-risk pregnancies.
+
+Malawi has twenty-eight geographical districts spread across vast rural distances and
+communities are very poorly connected by extremely bad roads, many of which become
+impassable in the rainy season. Each district is led by a District Commissioner or Chief
+Executive and health services are administered by a District Health Officer (DHO).
+
+In 1985, the first case of HIV in Malawi was reported. In 1989, the Malawi Government
+announced a five-year AIDS plan, but it was not until 1994 that the new Malawi government
+more fully recognized the wide-spread impact of this disease and the urgent need for
+intervention. However, by this point AIDS had already damaged Malawi’s social and
+economic infrastructure. This belated recognition of HIV/AIDS as a major health issue is
+one of the reasons Malawi is now one of Africa’s most afflicted countries. AIDS related
+diseases are a leading cause of death among Malawians and the links between AIDS,
+Tuberculosis, and Malaria make the pandemic an increasingly significant global threat.
+
+In response to the high prevalence of HIV in the population and rising mortality, the MOH
+developed sophisticated Anti Retroviral Therapy (ART) guidelines and is successfully
+executing a national ART scale-up plan.
+
+By the end of 2007, the scale-up had resulted in over 147,000 people ever initiated on
+treatment with over 100,000 (68.5%) known to be alive and on treatment. This exceeded
+the MOH target of 110,000 ever initiated. However, with a target of 90,000 (82%) alive and
+
+ 
+
+3 HIV and Syphilis Sero —Survey And National HIV Prevalence and AIDS Estimates Report, 2007, Malawi Ministry
+of Health & National AIDS Commission (NAC)
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 6 of 53
+
+ 
+
+on treatment, the mortality rate has been considerably worse than expected. Women
+account for over 89,000 (61%) of those ever initiated and children account for nearly 12,000
+(31%)“.
+
+To date, the National AIDS Commission (NAC) estimates that 43.4% of adults and 40.3% of
+children in need are receiving ARTS. The MOH recognizes this impressive ART scale up in
+Malawi must be accompanied by aggressive HIV prevention strategies, both for adults and
+for children (e.g. PMTCT). Without successful prevention efforts, the country will have little
+chance of containing the HIV/AI DS epidemic.
+
+With a Gross National Income (GNI) per capita of US$230, Malawi ranks number 201 out of
+209 countries in the world, according to World Bank figures6. As a result, the MOH functions
+with very limited resources, significantly reducing the impact it can have on the AIDS
+pandemic in Malawi, and contributing to continued widespread infection.
+
+b. Government Response
+
+In order to effectively reverse the progression of HIV/AIDS, pregnant women are the critical
+population group for success and must be targeted in order to reach a large portion of the
+general population. The GOM fully recognizes it must reduce the high level of new
+infections through vertical transmission by providing a high quality package of interventions
+to pregnant women. Their enrolment in the PMTCT programme not only reduces the spread
+of the disease, but provides an entry point to register HIV positive women and children into
+HIV/AIDS care and treatment programmes. Without this vital entry point it is impossible to
+achieve the critically needed increase in HIV/AIDS detection and treatment. The chart below
+illustrates the commitment of the MOH to Maternal and Child Health Services and the
+impressive scale up of the national PMTCT programme. The historical perspective of the
+provision of PMTCT services in Malawi is as follows:
+
+Table 2: Historical Perspective of PMTCT in Malawi
+
+ 
+
+Year(s) Progress
+
+ 
+
+1999-2002 PMTCT services piloted at 3 sites
+
+ 
+
+2003 PMTCT programme launched
+
+ 
+
+2003 National guidelines, Handbook and training package for PMTCT developed
+
+ 
+
+2003-2006 Number of PMTCT sites increased from 3 to 140
+
+ 
+
+2003-2006 1004 providers trained and cumulative total of 231,568 ANC mothers tested
+
+ 
+
+2007 Initiation of 6 month acceleration to integrate PMTCT into all 542 ANC sites
+Adopted WHO-CDC comprehensive PMTCT training package
+
+ 
+
+End of 2007 Number of PMTCT sites increased to 360
+
+ 
+
+April 2008 Finalization of national PMTCT Guidelines; Ongoing training using
+unpublished guidelines
+
+ 
+
+ 
+
+May 2008 PMTCT Guidelines include combination regimens for H|V+ pregnant women
+and their infants
+
+ 
+
+ 
+
+Figure 1 below depicts the rapid scale up of MCH services from only three PMTCT sites in
+2001 to 357 sites by the end of 2007.
+
+ 
+
+4 Malawi MOH Quarterly ART Report, 4th Quarter, 2007
+
+5 HIV and Syphilis Sero —Survey And National HIV Prevalence and AIDS Estimates Report, 2007, Malawi Ministry
+of Health & National AIDS Commission
+
+6 World Development Indicators Database, World Bank, 11 April 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 7 of 53
+
+ 
+
+Figure 1: Trends in PMTCT Scale-Up
+
+Trends in Scale-up of Facilities Providing PMTCT Services
+
+ 
+
+ 
+
+ 
+
+ 
+
+Number of Facilities
+- PMTCT Sites
+- MCH Sites
+31
+3 7 17
+2001 2002 2003 2004
+
+Source: 2007 PMTCT Report, Malawi MOH
+
+152
+119 I
+
+2006
+
+2005
+
+ 
+
+2007
+
+Despite rapid scale up, the table below indicates there is still a long way to go, and much
+help needed, to have a major impact on the prevention of MTCT in Malawi.
+
+Table 3: Malawi PMTCT Scale-Up Results7
+
+ 
+
+MALAWI PMTCT NATIONAL SCALE-UP RESULTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+% of HIV+ % of
+% of Pregnant Projected #
+Estimated Women of All HIV+
+Total # Accessing Pregnant
+Total # for Deliveries Services Women
+Indicator 2007 [575.000] [24,653] [72,450]*
+Pregnant Women Tested & 280,446 48.8% — —
+Counselled in ANC & Maternity
+Pregnant Women tested HIV + in 24,653** — — —
+ANC & Maternity
+HIV+ pregnant women received 18,991 — 77% 26.2%
+stVP
+Pregnant HIV+ women on CPT 4,167 — 16.9% 5.8%
+Exposed infants on stVP 12,039 — 48.8% 16.6%
+Exposed infants tested at 6 weeks 2,435 — 9.9% 3.4%
+with DNA PCR
+Exposed infants on CPT 2,991 — 12.1% 4.1%
+Exposed infants tested by 18 months 2,027 — 8.2% 2.8%
+
+using rapid tests
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: MOH HIV and AIDS Unit, PMTCT of HIV Annual Report, Jan-Dec 2007, dated Feb 2008.
+Based on incomplete data at time of the report
+
+* Using 12.6% Prevalence Rate of all WCBA from HIV and Syphilis Sero —Survey And National HIV Prevalence and AIDS
+
+Estimates Report, 2007. ** Using these PMTCT numbers the % of PW tested positive out of those tested is a rate of 8.8%
+
+ 
+
+ 
+
+7 Malawi MOH HIV and AIDS Unit PMTCT of HIV; Annual Report, Jan-Dec 2007;
+Malawi MOH DRAFI' PMTCT Guidelines, 2nd Edition, 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 8 of 53
+
+ 
+
+Most data sources indicate that anywhere from 80% to more than 90% of pregnant women
+in Malawi attend ANC services at least once during their pregnancies8. However, a large
+percentage of these women do not access the full range of ANC, L&D, and FP services,
+resulting in limited uptake of all components of PMTCT care and treatment. Most Health
+Centres face significant difficulty in fully implementing the guidelines due to a severe
+shortage of resources and health personnel. This underscores the need for systems-
+strengthening along with concentrated implementation assistance.
+
+The WHO has a broad four-pronged approach to the prevention of vertical transmission:
+1. Primary prevention of HIV infection.
+2. Prevention of unintended pregnancies among women living with HIV.
+3. Prevention of HIV transmission from mothers living with HIV to their infants.
+4. Care, treatment, and support for mothers living with HIV, their children, and families.
+
+With this in mind, the GOM has expanded the scope and status of the PTMCT Programme,
+declaring the three-fold vision of the programme to be:
+
+1. Bring about an HIV free generation in Malawi
+
+2. Reduce paediatric HIV infection
+
+3. Improve the quality of life of parents living with HIV
+The MOH has initiated a national 5-Year Scale-Up plan to drive achievement of this vision.
+The Objectives of the MOH PMTCT Programme are as follows:
+
+0 Offer routine HIV testing and counselling to all pregnant women, partners, and
+families, and to all family planning clients.
+
+0 Increase access to family planning services for HIV-positive WCBA.
+
+0 Provide comprehensive, high quality PMTCT care, treatment, and support to
+pregnant and lactating women and their families.
+
+0 Strengthen the Maternal & Child Health (MCH) service delivery system through
+integrating PMTCT activities in MCH and community services.
+
+0. Challenges to the National PMTCT Programme
+The MOH has identified the following challenges to successful implementation:
+
+0 Programme implementation is often slow due to delayed disbursements of funds.
+
+0 Shortage of staff at all levels.
+
+0 PMTCT data management is not aligned with the Health Management Information
+System (HMIS).
+
+0 Weak linkages between maternal and child health for PMTCT to facilitate the
+continuum of care leading to limited follow-up of H|V+ mothers and exposed infants.
+
+0 Vertical HIV programme planning, implementation, and management has allowed
+rapid expansion of HIV and other programmes but has led to missed opportunities to
+fully integrate PMTCT into MCH and other relevant services.
+
+0 Poor community mobilization including weak linkages between facilities and the
+community, low levels of couple testing and counselling, and limited PMTCT uptake
+limit enhanced support for women, children and family members living with HIV.
+
+0 Scaling up provision of more efficacious ARV regimens for PMTCT.
+
+Additionally the MOH has identified the following barriers and bottlenecks:
+
+o Frequent stock-outs of HIV test kits.
+
+ 
+
+8 MOH: Health Management Information Bulletin, Annual Report July 2006 -June 2007, May 2008
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 9 of 53
+
+o Timely disbursement of funds from the Global Fund and partners to effectively
+implement the PMTCT programme at the district level.
+
+Inadequate infrastructure.
+
+Insufficient and suboptimal staff housing makes retention of technical staff difficult.
+Lack of involvement of male partners in PMTCT.
+
+Inadequate laboratory equipment, supplies and services to support clinical care.
+
+After extensive discussions with the MOH PMTCT Coordinator and Technical Assistant and
+with implementing partners, and after conducting extensive and detailed site assessments,
+CHAI has determined that the following gaps or challenges are key factors contributing to
+the low PMTCT coverage in Malawi:
+
+(1) Challenges in Community Mobilisation and Male Involvement
+
+Lack of education and awareness of HIV related issues are still prevalent, particularly in rural
+areas. About 50% of Malawian women give birth at home, with Traditional Birth Attendants
+(TBAs) performing deliveries. Many are HIV+ but unaware of their status and/or not on ARV
+treatment or prophylaxis. The infants of these mothers, and the women performing the
+deliveries, are at heightened risk for infection. Common practices include early mixed
+feeding and extended breastfeeding both of which heighten the risk of vertical transmission
+of HIV.
+
+Historically, Malawi’s culture has not empowered women and it is still difficult for women to
+make safe choices around sex. Furthermore, many women still fear disclosing their HIV
+status to partners, which may cause poor up-take of the full range of PMTCT services
+(including delivering in health facilities) among pregnant women, poor adherence to
+treatment, and failure to use Family Planning services. Lack of male involvement in
+HIV/AIDS awareness and prevention increases the continued risks of infection and re-
+infection for women. In concert with the scale-up of the PMTCT Programme the MOH has
+instituted some effective community mobilisation measures, but further and sustained
+interventions will be required to achieve measurable impact. Effective community
+sensitisation has the potential not only to increase up-take of services by pregnant women
+and thus prevent MTCT, but also to augment a climate of knowledge that helps reduce high
+risk behaviours and enhance prevention activities. In fact, the prevention of MTCT properly
+begins, not simply with pregnant women in ANC, but rather by providing all WCBA proper
+education, a safer environment, and tools of enhanced empowerment. All of these efforts
+will enable them to make safer personal and family health decisions that will prevent
+infection and reduce the number of unintended pregnancies among infected women.
+
+Table 4: Challenges in Education, Community Mobilisation, and Male involvement
+
+ 
+
+1. Challenges in Education, Community Mobilisation and Male Involvement
+
+ 
+
+0 Access to rural leaders
+0 Cultural resistance to open discussion regarding sexual behaviour/Stigma
+
+ 
+
+0 Lack of empowerment of women
+0 Lack of awareness regarding HIV
+0 Cultural norm to deliver babies at home
+
+ 
+
+Fear of disclosure
+Lack of male involvement in family issues, especially reproductive issues
+
+ 
+
+Resignation to fate of HIV
+
+Multiple concurrent sexual partners
+
+Teenagers sexually highly active
+
+Cultural traditions and practices including polygamy, sexual initiation rites and
+cleansings, child brides
+
+ 
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 10 of 53
+
+(2) Human Resource Challenges: Critical Shortage of Technical Staff
+at Health Facilities9
+
+The lack of adequate numbers of technical staff in health facilities is a major human
+resource crisis in Malawi as indicated in the table below.
+
+Table 5: Population per Qualified Health Professional
+
+ 
+
+Average Population Per Qualified Health Professional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ratio of Population to Professional
+Doctors Clinicians* * Nurses
+Sector Population*
+Malawi 13,187,632 (100.0%) 70,147:1 8,268:1 3,050:1
+Urban 1,786,434 (13.5%) 15,534:1 3,892:1 1,204:1
+Rural 11,401,198 (86.5%) 156,181:1 10,036:1 4,015:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Mid-Year, 2007
+** Clinicians = the sum of physicians, clinical assistants, and medical assistants
+
+ 
+
+ 
+
+Source: Report on Malawi Health Sector Employee Census conducted December 2007. Final Draft 18 April, 2008
+
+ 
+
+ 
+
+The WHO recommends that the minimum staffing for a health facility consists of two
+clinicians (doctors, clinical officers or medical assistants), 2 nurses/midwives, and at least 1
+environmental health officer or health assistant. However, in Malawi, only 6% of the 901
+primary level facilities meet minimum staff norms (see Table 5 above).
+
+Conditions are not favourable for health worker retention in government service. Among
+those who left government service, 39% left because of low pay and 35% left because of
+poor working conditionsg.
+
+Currently Malawi faces an extremely high vacancy rate for nursing positions throughout the
+country, and rural areas face the severest difficulty in securing technical staff. The shortage
+of lab technicians who are critical to HIV diagnosis, care, and treatment, limits the country’s
+ability to perform lab tests such as CD4 counts, haemoglobin tests, and liver function
+monitoring. At the end of 2007, the government sector employed only 208 lab technicians
+for the whole country.
+
+The MOH has undertaken extensive PMTCT training but many workers either have not had
+PMTCT training or require up-dated training in line with the new PMTCT guidelines to equip
+them with the skills in testing, counselling and staging. Since the numbers of staff at most
+facilities is already sub-minimal, when a staff member is absent (e.g., for training) no testing
+or counselling can take place. The excessive work-load on the existing technical staff causes
+extreme fatigue. PMTCT scale-up success will result in more patients in care and on
+treatment which will, in turn, create an even greater burden on the already over-worked
+health personnel.
+
+ 
+
+9 Source for This Section: Report on Malawi Health Sector Employee Census conducted December 2007. Final
+Draft 18 April, 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 11 of 53
+
+Table 6: Human Resource Challenges
+
+ 
+
+NJ
+
+. Human Resource Challenges
+
+ 
+
+o Crisis/shortage of HR for health
+0 Insufficient educational facilities to train more personnel
+0 “Brain drain” of medical personnel from Malawi to other countries
+
+ 
+
+0 High turnover in Health Facilities
+0 Low salaries draw staff away from MOH positions to NGO’ s etc
+
+ 
+
+0 Insufficient staff have received PMTCT training and orientation
+0 Insufficient training to enable distribution of dual combination therapies
+0 Insufficient laboratory services to support use of dual combination therapies
+
+ 
+
+0 Excessive work-loads contribute to loss of staff, dissatisfaction, fatigue, and low
+productivity
+
+0 Difficulties in placing technical staff in rural areas, exacerbated by lack of facilities,
+housing and schools
+
+ 
+
+0 Lack of transport & high work loads limit adequate supervision
+0 Staff overwhelmed and unsupported
+
+ 
+
+ 
+
+0 Need for more effective task shifting
+
+ 
+
+ 
+
+(3) Infrastructure & Transport Challenges
+
+The vast majority of health facilities were constructed prior to the onset of the HIV/AI DS
+pandemic in sub-Saharan Africa. Although the number of people accessing health care still
+falls substantially short of those who need it, the infrastructure capacity is currently
+“bursting at the seams” and is often low quality, inadequately maintained, poorly serviced,
+and in some cases, not fit for quality health care service delivery. Often, there simply is
+insufficient space to meet current patient needs. Conditions are further exacerbated at rural
+health facilities that lack electric power or a safe supply of running water.
+
+The MOH’s PMTCT programme has the goal of increasing the uptake of pregnant women
+accessing HCT and follow-up services. To support this scale-up of PMTCT services there is
+an urgent need to supplement in innovative ways both the space available and infrastructure
+quality at health centres and PMTCT sites.
+
+Difficulties in transport, including lack of all types of vehicles for transport of patients and
+supplies, create a major obstacle to quality health care service delivery. As Malawi has a
+largely rural population and limited resources, health service providers with inadequate
+transport are unable to offer laboratory, diagnostic, emergency, outreach, and other
+services. The population (particularly pregnant women and small children) are often unable
+to reach the health centres when most necessary.
+
+Compounding this problem, severely inadequate and poorly or non-maintained roads limit
+access even when transport is available. Universal access to transport within the project
+area is essential for the provision of high quality PMTCT services, including community-
+based and follow-up services.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 12 of 53
+
+Table 7: Infrastructure & Transport Challenges
+
+ 
+
+3. Infrastructure & Transport Challenges
+
+ 
+
+Most facilities built prior to HIV/AIDS pandemic
+
+Inadequate space
+
+Inadequate furniture and equipment
+
+Inadequate power supply and safe running water
+
+Sometimes below minimum standards of acceptability for human dignity
+Inadequacies of laboratory services
+
+Structures not designed for effective flow and linkages of PMTCT services
+Poor roads and long distances for patients from home to nearest health centres
+Lack of transport for patients (private cars, bicycles, taxis, mini-buses, buses,
+ambulances)
+
+ 
+
+ 
+
+ 
+
+(4) Supply Chain Challenges
+
+The ability to deliver effective PMTCT services is impossible without the ability to supply the
+appropriate diagnostics, prophylactic and treatment drugs, contraceptives, nutritional
+products, and supplements. This requires efficient, safe, and effective clearing, storage, and
+distribution (CSD) of all products and materials used in the health system.
+
+Malawi’s Central Medical Stores are facing extreme challenges. Supplies are often poorly
+forecasted, ordered, and unevenly distributed. As a result, most PMTCT sites suffer
+frequent stock-outs of various supplies and there is little buffer-stock available. Rural health
+facilities are more severely affected than Central or District Hospitals.
+
+A successful PMTCT programme requires a consistent and dependable supply chain that is
+seamlessly connected to the health facilities within the project area. Addressing the national
+health care supply chain system and resolving its issues will be beyond the scope of this
+proposal. However, we will attempt to mitigate this issue for the selected district.
+
+Table 8: Supply Chain Challenges
+
+ 
+
+4. Supply Chain Challenges
+
+ 
+
+o Inadequacies of sample transport systems from health centres to Districts and from
+District to Reference labs
+
+o Inconsistent supply chain
+
+0 Stock outs of test kits, reagents, ARV’s, supplements
+
+o Unavailability of diagnostics including CD4 and DNA PCR
+
+ 
+
+ 
+
+ 
+
+(5) Challenges in Patient Care & Compliance
+
+The challenges in education, community mobilisation and male involvement also have a
+significant effect on patient care and compliance. In addition, severe food insecurity,
+particularly in many rural areas, contributes to poor compliance and response to treatment
+as well as continuation of breast-feeding children well-beyond the age of six months. There
+are high rates of default at many points in the PMTCT cascade.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 13 of 53
+
+Table 9: Patient Care & Compliance Challenges
+
+ 
+
+U1
+
+. Patient Care & Compliance Challenges
+
+ 
+
+Cultural traditions for pregnancies and deliveries to occur outside of HF’s
+Misinformation and lack of awareness regarding treatment availability and success
+Fear of disclosure of status
+
+Distances and lack of transport preclude patients accessing HF’s
+
+ 
+
+High number of patient defaulters
+Lack of resources to follow up on defaulters
+Difficulties in adherence to drugs
+
+ 
+
+Food insecurities increasing risks for HIV infected women and infants
+
+Food insecurities causing complications in early cessation of breast-feeding
+Cultural norms to breast-feed for extended periods up to 2 years
+
+Cultural tendencies to wet nurse
+
+ 
+
+ 
+
+Insufficient resources to provide consistent and effective outreach clinics
+Insufficient training and numbers of health workers (see HR)
+0 Insufficient resources to provide adequate psychosocial support
+
+ 
+
+ 
+
+(6) Challenges Related to Integrated Service / Cascade Linkages
+
+The challenges identified to this point cannot be addressed in isolation. The linkages among
+solutions need to bring about integrated service delivery across the entire PMTCT cascade.
+There are barriers or challenges to achieving this integration including facilities design,
+“silos” in different segments of the health system, and access by patients to different parts
+of the system. The current system requires many patients to make multiple visits with
+separate appointments in different parts of the health system. Because of distance and lack
+of transport, compliance is often impossible.
+
+Table 10: Challenges Related to Integrated Service / Cascade Linkages
+
+ 
+
+6. Challenges Related to Integrated Service/ Cascade Linkages
+
+ 
+
+Physical facilities are not conducive to effective linkages
+
+HIV not fully integrated into general health system
+
+Excessive work-loads prohibit providers linking effectively
+
+Patients lost due to complicated systems to access all components of care
+Lack of M&E across components of the cascade
+
+ 
+
+Services offered on limited days causing loss of care to patients
+
+ 
+
+Providers unable to initiate effective follow-up of mother-infant pairs
+0 Inadequate linkages among all components of PMTCT cascade
+
+ 
+
+ 
+
+ 
+
+(7) Challenges in Community-Based Care and Follow-Up
+
+The progression of HIV/AIDS in the nation has caused unprecedented and unparalleled
+pressures on the health care system of Malawi, stretching its resources far beyond what is
+feasible. In addition, the disease has placed severe stresses on households in the
+communities, and has adversely affected traditional systems once in place that were
+designed to care for those in need. A comprehensive approach to the prevention of MTCT
+must involve whole families and have the support of an effective Community Health Worker
+(CHW) system in order to increase patient care and compliance. CHW systems are in place
+to a limited degree, but lack a sufficiently large cadre of CHW workers and an operational
+reporting system that allows for reversal of loss to follow up (LTFU) of mother-infant pairs.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 14 of 53
+
+Table 11: Challenges in Community- Based Care and Follow-Up
+
+ 
+
+N
+
+. Challenges in Community-Based Care and Follow-Up
+
+ 
+
+Long distances
+
+Extremely bad and sometimes impassable roads
+Lack of communication devices
+
+Poor/insufficient addresses
+
+Stigma
+
+Traditional norms such as TBA deliveries
+
+Insufficient human resources
+
+Essential to have cooperation of local/village leaders
+
+ 
+
+ 
+
+ 
+
+(8) Challenges in Monitoring & Evaluation (M&E)
+
+The Malawi MOH has a decentralized, largely paper-based M&E system with separate
+registers and reporting tools for different components of care. In addition, health facilities
+make up their own paper registries where centrally designed systems are absent. Relevant
+tools in use in different parts of the health system include:
+
+0 Patient master cards
+
+0 Patient health passports.
+
+o Registers for Ante Natal Clinics (ANC), Labour & Delivery Wards (L&D), Under-Five
+Clinics (U5), Family Planning Clinics (FP), and the ART Programme.
+
+0 A new MOH PMTCT Register has been developed but has not yet been printed and
+distributed to all sites.
+
+0 New MOH PMTCT Report (See Appendix 6)
+
+In addition, the MOH and its technical working groups (TWGs) supply other useful reports.
+These include PMTCT reports, El D reports, the HRH census, ART quarterly and annual
+reports and ART (MS Excel) database, NAC Sentinel Surveys, and others. The major
+challenge is that all these are separate data sources and are not tied into a single reporting
+system. Likewise, there are typically no linkages between patients who appear in one
+register to the same patient who appears in another register.
+
+Manual copying, data entry, and analysis will be required to provide an integrated view of
+performance of the whole PMTCT programme.
+
+Table 12: M&E Challenges
+
+ 
+
+8. M&E Challenges
+
+ 
+
+0 Lack of registers in Health Facilities
+
+0 Work overload prohibits consistent and accurate data entry into registers
+
+0 Lack of supervision and consistent supervisory visits limits quality improvement and
+compliance
+
+ 
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 15 of 53
+
+d. CHAI ’5 Work In Malawi*
+
+CHAI began its programmatic work in Malawi in 2006 and currently its activities fall into
+seven key areas:
+
+1.
+2.
+
+Policy advice, support, and technical assistance to the Ministry of Health (MOH)
+
+Procurement and distribution of ARV and diagnostics for paediatric care as
+well as for Adult 2nd line therapy.
+
+Paediatric nutrition services for the MOH’s Out-Patient Therapy Programme (OTP)
+to treat children with Severe Acute Malnutrition (SAM) through Community-based
+Therapeutic Care (CTC)
+
+Laboratory Services Programme to train Lab Assistants and to build, refurbish,
+equip, supply and provide technical support for laboratories.
+
+Paediatric programme development and support of paediatric HIV/AI DS outreach
+and services, technical assistance with paediatric clinical trials, and support for the
+MOH’s ART programme M&E.
+
+Rural delivery of quality integrated health care services in partnership with
+Partners In Health (PIH) in the Neno District.
+
+PMTCT policy and programme development and support including Early Infant
+Diagnosis (El D).
+
+CHAI has been engaged with the MOH to influence and help write PMTCT policy and
+guidelines. With the proposal that follows in Section III, CHAI is preparing to
+engage in more intensive support. As part of the MOH’s PMTCT programme, this
+intervention seeks to demonstrate the ability to scale up high quality, effective, and
+comprehensive delivery of PMTCT services in one or more focused districts, thereby
+achieving a dramatic reduction of mother-to-child transmission of HIV despite
+Malawi’s resource-limitations.
+
+ 
+
+* See Appendix 12 & 13 “CHAI WORK IN MALAWI” and “CHAI ORGANIZATION"
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 16 of 53
+
+|||. CHAI PROPOSED SOLUTONS
+1. INTRODUCTION
+
+CHAI will support the MOH in addressing the most fundamental elements of an effective
+PMTCT service delivery system:
+
+0 The need to reach and test all pregnant women.
+0 The need to expand high quality services”).
+0 The need to keep all sero-positive mother-infant pairs in the continuum of care.
+
+The implementation plan will be guided as follows:
+
+1. CHAI will operate within the guidelines of the MOH’s PMTCT Programme, and with
+the approval of the national and local PMTCT leadership. CHAI will work to provide
+supplementary interventions in the focal area in order to assist the MOH to offer and
+effectively deliver a fully comprehensive and high quality package of PMTCT services.
+
+2. CHAI will support the Ministry of Health in delivering high-quality PMTCT services at
+scale with increased retention. This will also support expanded HIV/AIDStesting,
+treatment, and care in the focused district to ensure delivery of the full continuum of
+
+quality health care for women, children and men with HIV/AIDS.
+
+Implementation of CHAI ’s proposed solutions will follow a phased approach to assist scale
+up in order to dramatically reduce MTCT. The phases, while conceptually sequential, will
+overlap in their implementation.
+
+Figure 2: Phases for CHAI ’5 Proposed Solutions
+
+ 
+
+0
+
+Confirm
+Situation
+Assessment
+
+9
+Build the
+Foundation
+
+9
+Strengthen
+the System
+
+6
+Sustain the
+Process
+
+ 
+
+0 Establish working
+team
+
+0 Agree on partner
+responsibilities
+
+0 Conduct
+comprehensive
+baseline assessment
+
+0 Confirm challenges
+and intended
+interventions
+
+ 
+
+ 
+
+Initiate community
+sensitization and
+mobilization efforts
+
+Augment human
+resources: Train
+health workers and
+supply technical
+assistance/M&E
+
+Enhance
+infrastructure where
+needed (health
+facilities, labs,
+equipment, &
+transportation)
+Obtain buffer supplies
+as needed
+
+ 
+
+Ensure patient care &
+compliance
+
+0 Application of
+PMTCT protocols
+
+0 Supplemental
+nutrition
+
+0 Infant feeding
+options
+
+0 EID
+
+0 Patient follow-up
+
+Strengthen &
+
+supplement M&E
+
+Link all elements of
+
+PMTCT Services
+
+Enhance Community-
+based Care
+
+ 
+
+Transition budgetary
+responsibility and
+funding source(s)
+Systematize M&E
+Determine lessons
+learned and share
+with MOH
+Recommend
+guideline and
+process changes
+Institutionalize in
+government system
+
+ 
+
+ 
+
+ 
+
+1° The MOH currently offers high quality PMTCT and maternal and child health services. Delivery of these
+services is limited by the lack of resources to universally provide diagnostics, the inconsistent availability of
+supplies, and the lack of health personnel. Consequently, CHAI will propose interventions to facilitate the
+universal distribution of more effective regimens to prevent MTCT, as now approved by the National Guidelines
+and provide additional resources to improve follow-through of mothers, infants and families, strengthening the
+high quality services now provided by the MOH.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 17 of 53
+
+The final phase is intended to drive sustainability of the PMTCT strategy and plan by
+working with the MOH to document and distribute lessons learned. These will support
+ongoing strategy development, planning, and management and will incorporate key
+elements of the strategy into the country’s national PMTCT plan. Support for PMTCT will be
+institutionalized in the government system and ultimately reflected in the national PMTCT
+budget.
+
+The activities and interventions detailed in this proposal were developed in consultation with
+the MOH Coordinator and Technical Assistant of the national PMTCT Programme, and also in
+consultation with the DHO and the PMTCT Coordinator at the District Level. Once approved,
+the project will become operational with the buy-in, approval, and support of the DHO, the
+District Nursing Officer (DNO) and the District PMTCT Coordinator (DPC) for the selected
+district(s). Concurrently, CHAI will maintain sensitivity toward local communities and health
+committees to ensure their concerns are addressed by the programme. A critical element of
+the strategy to promote local ownership of this effort will be the involvement of all health
+workers through a whole site training approach to help ensure eventual sustainability of the
+interventions.
+
+CHAI believes that a key element of a successful programme is setting ambitious yet
+attainable targets. The primary thrust of CHAI Malawi’s PMTCT support initiative is to
+demonstrate the feasibility of effective and comprehensive delivery and increased and
+sustained up-take of the full range of PMTCT services in this resource limited setting,
+thereby attaining a dramatic reduction of mother-to-child transmission of HIV.
+
+2. VISION & MISSION FOR THE PMTCT PROGRAMME
+
+ 
+
+3 . GOALS
+
+CHAI has two major goals to be achieved over a three-year (36 month) timeframe starting
+in July 2008 and ending in June 2011. By implementing the strategic actions outlined in this
+proposal CHAI expects to support reduction of transmission of HIV in general and reduce
+primary infections and unintended pregnancies among women living with HIV.
+
+These overarching goals are:
+
+a. In the selected district (see next section), dramatically increase the
+percentage of pregnant women accessing the full range of PMTCT services to
+at least 80% from the current 24.1% of pregnant women who were tested
+for HIV in 2007".
+
+b. Significantly decrease by at least 50% the rate of mother-to-child
+transmission from the current 30-45% level to 15-22.5% , with a “stretch
+target” of achieving a 70% reduction to a range of 9-13% .
+
+ 
+
+1‘ MOH PMTCT data, 2007
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 18 of 53
+
+4. SELECTION OF TARGET DISTRICT — MACHI NGA
+
+Malawi is made up of 28 districts, all facing significant challenges in scaling-up the national
+PMTCT programme. The MOH directed CHAI to select a focal district not currently served by
+other partners. CHAI Malawi conducted intensive and extensive site assessments in four of
+these districts. It was readily apparent that all districts face similar challenges, and all
+could benefit from support. HIV prevalence levels vary significantly by region with the
+Southern Region having significantly higher population and HIV prevalence. The Central
+Region is more moderate, and the Northern Region has both significantly lower population
+and HIV prevalence levels.
+
+Consequently CHAI Malawi is proposing that the focal district for the PMTCT initiative be
+Machinga in the southern region. Machinga District has the third highest HIV prevalence
+rate in Malawi, at over 22%”. There are four ART sites in the district (Machinga DH, Ntaja,
+Chikweo, and Namandanje), which might not be sufficient for the population served. Other
+key factors make it an important but challenging target.
+
+0 The primary language spoken (Chiyao) is not the national language, although
+Chichewa is also understood.
+
+0 The entire district borders Mozambique on the eastern side and a significant number
+of people from Mozambique obtain services at Machinga health facilities.
+
+0 Common Cultural Practices: Early marriage for girls (child brides), polygamy, girls’
+initiation into sex; women are often “second class” members of society
+
+0 A large section of Machinga District surrounds Lake Chilwa and its fishing district.
+
+0 Many patients come from neighbouring Mangochi District, also a lake district.
+
+0 A large percentage of the men in this district fall into two working categories that
+both have significantly higher HIV prevalence rates in Malawi. Namely, business
+men who travel frequently and for extended periods; and fishermen.
+
+o The District Hospital is not geographically central in the district (it is in the extreme
+
+west), causing additional difficulty for the transportation infrastructure.
+
+Other than the District Hospital, all health facilities in the district are rural.
+
+Low percentage of deliveries in health facilities.
+
+Health centres are not currently providing CPT to any HlV+ pregnant women.
+
+CD4 counts are currently only available at the District Hospital.
+
+ART: Only 1.2% of patients ever initiated on ART through PMTCT13
+
+stVP is currently the only HlV prophylaxis used.
+
+El D is not yet available in the district.
+
+The following data concerning population projections for the district of Machinga and PMTCT
+activity in 2007 was provided by the MOH and the DHO and was collected on site by the
+CHAI PMTCT Manager.
+
+The current population projections for the district are as follows:
+
+Table 13: Machinga District Population and Pregnancies, 2007-2011
+
+ 
+
+Machinga District
+Projected Population & Number of Pregnancies
+
+ 
+
+ 
+
+ 
+
+ 
+
+2007 2008 2009 2010 2011
+Population 440,492 447,243 453,474 459,140 464,766
+# Expected Pregnancies 22,024 22,362 22,669 22,952 23,557
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: National Statistical Office, Projected Population based on 1998 Malawi Population and Housing Census
+
+ 
+
+12 NAC Sentinel Survey, 2007 (See Appendix for ranking of HIV prevalence in all Districts of Malawi)
+‘3 MOH: ART In The Public And Private Sectors In Malawi, Results Up To 30th December, 2007
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 19 of 53
+
+ 
+
+In 2008, over 22,000 births are expected.
+
+Table 14: Machinga District Demographics, 2008
+
+ 
+
+MACHI NGA DISTRICT — 2008 DEMOGRAPHICS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Villages 897
+# Households 98,235
+Catchment Area Population 447,243
+Children <1 Year Old 22,362
+Children 1-5 Years Old 76,031
+Children 5-15 Years Old 214,677
+Women of Child-Bearing Age (CBA) 102,866
+Expected Infant Deliveries 22,362
+
+ 
+
+ 
+
+Source: Machinga District Hospital ANC Report, 2007
+
+ 
+
+ 
+
+The table below indicates PMTCT activity in 2007 at the District Hospital ANC clinic:
+
+Table 15: Machinga District Hospital PMTCT/ ANC Data
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2007 — Machinga District Hospital PMTCT/ ANC Data
+
+New ANC Visits 3,776
+Number Pregnant Women Tested for HIV 1,569
+Percent Pregnant Women Tested for HIV 41.6%
+Pregnant Women H|V+ 264
+Percent Pregnant Women H|V+ 16.8%
+Couples Tested 17
+Mothers Given stVP 214
+Infants Given stVP 75
+Source: Machinga District Hospital ANC Report, 2007
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 20 of 53
+
+As indicated in Table 16 below, there are significant shortfalls in access to maternal and
+child health services.
+
+Table 16: Sample PMTCT Activity in Machinga District*
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sample PMTCT Activity in Machinga District Number Percent
+Total Projected Pregnancies/Births 5,933 100.0%
+Pregnant Women who present at least once at PMTCT site 5,838 98.0%
+Women (who present) Tested for HIV in PMTCT Services 676 11.6%
+Women Tested H|V+ in PMTCT Services 83 12.3%
+Total Deliveries in Health Facilities (+ Total Births) 2,151 36.3%
+PMTCT Sites Facilities PMTCT ART
+SItes SItes
+0 District Hospital 1 1 1
+0 Health Centres 15 13 3
+0 Health Posts 6 1 0
+o Dispensaries 5 0 0
+0 Private Clinics 2 0 0
+TOTAL 29 16 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Source: Machinga District Records, UNICEF, & CHAI Site Assessment.
+Sample Health Centres = Nyambi, Chikweo, Namanja, Nainunje
+See Appendix 1 for further details.
+
+Using this data, CHAI has determined the potential impact of a successful increase in uptake
+of high quality PMTCT interventions in the Machinga District. lf resources for PMTCT
+services continue to be severely limited, as at present, 3000 - 4,500 infants will be infected
+over the next three years. Of note is the fact that in 2007, the PMTCT programme in
+Machinga District resulted in ARV prophylaxis for only 100-200 exposed infants.
+
+Table 17: Potential Impact of CHAI Malawi PMTCT Project in Machinga District
+
+ 
+
+Potential Impact of CHAI Malawi PMTCT project in Machinga District
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NSO Projected Number Pregnancies 2007 22,362
+
+% of Pregnant Women Tested HlV+ in Machinga District in 2007 14.9%
+Approx number of HlV+ mothers/exposed infants in 2007 3,332
+Approx number of HlV+ mothers/exposed infants in three years > 10,000
+Total number lives (mothers & infants) directly impacted 3 years > 20,000
+Current rate of vertical transmission in Malawi14 30 — 45%
+Number of infants infected in 3 years with limited PMTCT services 3,000 — 4,500
+
+ 
+
+ 
+
+Note 1: Over three years >55,000 non-infected pregnant women potentially will access services
+and benefit from Counselling and FP which could help prevent future infections and high risk
+pregnancies
+
+ 
+
+ 
+
+Note 2: Although not quantifiable, men and all women of child bearing age will benefit from
+
+ 
+
+ 
+
+14 MOH PMTCT of HIV GUIDELINES, Draft Second Edition 2008, May 2008, Page 1
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 21 of 53
+
+ 
+
+ 
+
+ 
+
+I successful community sensitisation that will assist in securing health stability in numerous families
+
+ 
+
+5. STRATEGIC ACTIONS
+
+This section describes of a set of eight Strategic Actions, many of which will have to be
+
+applied concurrently.
+
+Table 18: Eight Strategic Actions
+
+ 
+
+STRATEGI C ACTI ONS
+
+ 
+
+1. Augment Human Resources (HR)
+
+a. Training
+b. Technical Staff
+
+ 
+
+2. Enhance Infrastructure
+
+a. Buildings & Equipment
+c. Transport Systems
+d. Laboratory Services
+
+ 
+
+3. Optimize Supply Chain & Logistics
+
+a. System Enhancement
+b. Buffer Stock
+c. Sample Transport
+
+ 
+
+4. Sensitise Communities
+
+ 
+
+5. Ensure Patient Care & Compliance
+
+a. PMTCT Protocols
+
+b. Nutrition
+
+c. Infant Feeding Options & Support
+d. Follow-up
+
+ 
+
+6. Enhance Community- Based Care
+
+ 
+
+7. Integrate PMTCT Cascade of Services
+
+a. Patient Flow
+b. Linkages
+
+ 
+
+8. Optimize Monitoring and Evaluation
+
+ 
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 22 of 53
+
+These strategic actions will be implemented over three years through mid-2011 as indicated
+in the chart below.
+
+Figure 3: Project Activities, 2008-2011
+
+Baseline Assessment
+
+Detailed Infrastructure Assessments
+Sensitise Communities — Initial Effort
+Sensitise Communities — Reinforcement
+HR — Training, Year 1
+
+HR — ln-Service Workshops/Updates
+HR — Technical Staff
+
+HR — Clinical Mentoring
+
+Equipment Additions & Repairs
+Infrastructure - Building Enhancements
+Supply Chain — Buffer Stock
+
+Logistics: Sample Transport
+
+Supply Chain — System Optimization
+
+Transport System — Patient Care
+
+Laboratory Equipment
+
+Laboratory Building & Repairs
+Patient Care - PMTCT Protocols
+Patient Care - Nutrition
+
+Patient Care — EID Rollout
+
+Patient Care — Infant Feeding Options
+Patient Care - Follow-Up & CHW
+Integration - Optimize Patient Flow
+Integration - Develop Linkages
+Community Based Care
+
+Monitoring and Evaluation
+
+Project Evaluation: Lessons Learned
+Recommendations
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 23 of 53
+
+ 
+
+Strategic Action # 1: Augment Human Resources
+
+ 
+
+Objective A: Training
+Ensure universal training of providers in the PMTCT cascade.
+
+ 
+
+Activity 1: Ensure An Adequate Supply Of Manuals And Job Aides
+
+0 Introduce additional useful job aides as approved by MOH
+0 Supplement available supplies of printed materials by printing as needed
+
+Activity 2: Ensure that TOT’s are available in the district to provide traininq
+
+Activity 3: Provide MOH Traininq To Ensure Every PMTCT Provider In The District Has
+Received The Most Current PMTCT Provider Traininq.
+
+o Enroll providers with out-dated PMTCT training in training to up-date their skills
+
+0 Ensure all medical assistants and nurses have completed PMTCT training
+
+0 Enroll HSA‘ s in PMTCT orientation to significantly increase the number of PMTCT-
+trained health workers in this cadre
+
+Activity 4: Develop A Workable System Of On-Goinq Traininq
+
+0 Ensure new staff are promptly provided training when turnover occurs
+0 Ensure staff promptly receive training when MOH adopts new recommendations
+
+ 
+
+Objective B: Technical Staff
+Alleviate the critical shortage of technical staff in PMTCT sites
+
+ 
+
+ 
+
+Activity 1: Provide Clinical Mentorinq
+
+o Engage clinicians through implementing partners and or CHAI clinical mentoring
+programme to provide technical support and skills enhancement
+
+Activity 2: Assist In Seekinq The Most Effective Task Shiftinq Mechanisms
+
+o Enhance MOH task shifting techniques
+
+0 Seek and implement other methods to decrease excessive case load for clinicians
+
+o Temporarily utilize consultants or mentors to work on site to familiarize staff with
+most effective methods
+
+Activity 3: Ensure Adequate Supervision Of Technical Staff At All PMTCT Sites
+
+0 Resolve work-load and transport issues that would otherwise prevent adequate
+district level supervision at all health centre PMTCT sites
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 24 of 53
+
+ 
+
+ 
+
+Strategic Action # 2: Enhance Infrastructure
+
+ 
+
+Objective A: Infrastructure
+Ensure infrastructure meets minimum standards of acceptability and functions
+optimally for provision of PMTCT services.
+
+ 
+
+Activitv 1: Provide Minimal Renovations As Required Where Condition Of Infrastructure Is
+Below Minimum Standards
+
+0 Repair roofs and make other basic repairs
+
+0 Paint where necessary and make space for PMTCT services acceptable in order to
+preserve the dignity of all patients
+
+0 Provide minimal construction to optimize space — e.g. erect screening walls
+
+ 
+
+Activity 2: Provide Basic Equipment For PMTCT Spaces When Non-Existent
+
+0 Provide privacy screens, minimal furniture etc.
+
+ 
+
+Activity 3: Initiate Interventions. When Appropriate. To Expand Access To Clean Water Or
+Power At PMTCT Sites.
+
+0 Provide uninterrupted supplies of paraffin, gas, or other fuel
+
+0 Use solar collectors and generators where appropriate
+
+0 Ensure refrigerators are available and working
+
+Partner with organizations providing safe water/boreholes/pumps
+
+ 
+
+Objective B: Laboratory Services
+Up-grade District labs to ensure that every PMTCT site can offer the optimum
+
+ARV diagnostic tools and services.
+
+ 
+
+Activity 1: Up-Grade The Existinq District Hospital Laboratorv
+
+0 Ensure all equipment essential in the PMTCT cascade are functioning
+(CD4, haemoglobin, liver function, WBC, centrifuges, etc.)
+0 Ensure adequate staffing of the laboratory
+0 Ensure adequate training of the laboratory staff
+0 Up-grade services in the laboratory as deemed essential for effective PMTCT services
+
+ 
+
+ 
+
+Activity 2: Implement qradual roll-out of basic laboratory services in PMTCT sites
+
+Ensure all PMTCT sites have Hemocue machines
+
+Train adequate staff to collect CD4 samples
+
+Train adequate staff to collect DNA PCR samples
+
+Link timing of sample taking to sample transportation schedule
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 25 of 53
+
+ 
+
+ 
+
+Strategic Action # 3: Optimize Supply Chain & Logistics
+
+ 
+
+Objective A: Supplies
+Ensure uninterrupted supply of commodities and consumables at all PMTCT sites,
+maintaining buffer stocks as needed. (Esp. Test Kits, Reagents, ARVs)
+
+ 
+
+Activitv 1: Implement Reliable Forecasting Procedures
+
+0 Assist District to assess supply needs
+0 Improve procurement systems to be effective given existing lead times for orders
+
+ 
+
+Activity 2: Supplement The Supply-Chain When Essential To Maintain PMTCT Services
+
+ 
+
+o Utilize CHAI procurement capabilities and agents to maintain buffer stocks
+0 Source locally or regionally when necessary and acceptable (FDA/WHO approved)
+
+ 
+
+Activitv 3: Ensure Supplies That Prevent Infection Are Alwavs Available And Utilized
+
+0 Ensure personal protective equipment (PPE) supplies are available to maintain safe
+service delivery practices — e.g. gloves, masks, chlorine, gum boots etc.
+
+ 
+
+Objective B: Sample Transport
+Ensure seamless and timely transport of samples to District and Reference Labs
+
+and return of results to HFs, clinicians, and patients
+
+ 
+
+Activity 1: Ensure Consistent Sample Transport To And From All PMTCT Sites
+
+ 
+
+0 Ensure District optimizes currently operating vehicles between sites and the available
+laboratory services for inclusion of appropriate sample transport
+
+0 Arrange supplementary transport/courier services as required to ensure all PMTCT
+sites have access to laboratory services that require sample transport
+
+0 Provide adequate training for of sample preparation, transport, and handling
+
+0 Ensure sample transport is timely, consistent, and safe
+
+ 
+
+Activity 2: Ensure Sample Transport Supports Universal CD4 Testing For Pregnant Women
+
+ 
+
+o Roll-out supplementary CD4 sample transport to cover all PMTCT sites
+
+ 
+
+ 
+
+Activitv 3: Provide Sample Transport For Universal DNA PCR Testing of HIV Exposed Infants
+
+ 
+
+o Roll-out DNA PCR sample transport concurrent with El D expansion to all PMTCT sites
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 26 of 53
+
+ 
+
+ 
+
+Strategic Action # 4: Sensitise Communities
+
+ 
+
+Objective A: Community Mobilization
+Inform And Educate Communities Around Each PMTCT Site
+
+ 
+
+Activitv 1: Expand Current Mobilization Activities To All PMTCT Sites.
+
+Meet with, orient and mobilize Health Management Committees for each site
+Arrange orientation meetings with traditional authorities and village leaders
+
+Obtain tangible, measurable commitments from community leaders
+
+Increase exposure of communities to drama group efforts to educate and motivate
+Involve faith-based community groups to provide education and motivation
+
+ 
+
+Activitv 2: Expand Access To Familv Planning Methods And Education
+
+0 Ensure communities around CHAM (esp. RC) facilities have alternative access to
+family planning education and methods
+0 Ensure these are easily available at all entry points in the PMTCT cascade of services
+
+ 
+
+Activitv 3: Initiate Broad Based Behaviour Chance Communication
+
+0 Involve media where applicable — e.g. radio time; distribute informative material
+0 Use and apply cascading behaviour change model:
+INFORM 9 UNDERSTAND 9 INTERNALIZE 9 COMMIT 9 ACT
+
+ 
+
+Objective B: Male Involvement
+Dramatically increase male involvement to increase successful care of pregnant
+women and uptake of HIV prevention and family planning services
+
+ 
+
+Activitv 1: Ensure That All PMTCT Sites Are “Male-Friendlv”
+
+Issue invitations to all partners of ANC patients to attend
+
+Ensure all PMTCT providers are oriented for positive inclusion of males
+Prioritize provision of service to couples in the PMTCT cascade
+
+Provide incentives for male participation
+
+ 
+
+ 
+
+Activity 2: Focus Information. Education & Communication (IEC) on Male Involvement
+
+0 Work with traditional authorities and leaders
+0 Ensure community events and drama groups focus on male participation
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 27 of 53
+
+ 
+
+ 
+
+Strategic Action # 5: Ensure Patient Care & Compliance
+
+ 
+
+Objective A: Provision of Services
+Provide accessible and quality services at all potential PMTCT sites in the district.
+
+ 
+
+Activity 1: Ensure provision of services is convenient for patients
+
+0 Eliminate gaps in provision of services so patients receive all services in one visit
+
+ 
+
+Activity 2: Promote supportive and perceptive provision of services
+
+c Utilize training, mentoring, and supervision to encourage and monitor patient needs
+
+ 
+
+Objective B: PMTCT Protocols
+Universally provide H|V+ pregnant women and their infants (i) the optimum
+combination therapies as outlined in the national guidelines, and (ii) CPT
+
+ 
+
+Activity 1: Distribute CPT in PMTCT Services
+
+0 Provide procurement assistance to ensure a consistent supply of CPT
+
+ 
+
+Activity 2: Introduce And Universally Provide Combination ARV*
+
+0 Provide training for PMTCT providers to initiate combination therapies
+0 Ensure availability of haemoglobin and other needed testing
+0 Ensure consistent supply ARV drugs and OI medications
+
+ 
+
+Objective C: Nutrition
+Universally provide appropriate nutritional supplements to pregnant women and
+infants at risk.
+
+ 
+
+Activity 1: Ensure All Pregnant Women Are Supplied With Food Suoolements
+
+0 Ensure supplies and distribution of vitamin and mineral supplements at PMTCT sites
+0 Distribute likuni phala, oil, and milk powder as food supplements
+0 Provide additional supplies as required
+
+ 
+
+ 
+
+Activity 2: Eliminate Infant Vulnerability to Severe Acute Malnutrition (SAM)
+
+0 When mothers cease breastfeeding, provide food supplements for all infected or
+exposed infants at risk of malnutrition
+
+0 Ensure all PMTCT providers are trained to recognize SAM and know how to refer
+children for treatment
+
+0 Ensure adequate supplies of Ready-to-Use Therapeutic Food (RUTF) in the District
+and at all health centres sites
+
+0 Employ active case finding to identify all exposed or infected infants who may be at
+risk of or are already displaying symptoms of malnutrition and align with CHAl’s
+already successful malnutrition treatment programme
+
+ 
+
+* See Appendix 7, Combination ARV Prophylaxis Administration
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 28 of 53
+
+ 
+
+ 
+
+Objective D: Infant Feeding Options & Support
+Universal implementation of safest available infant feeding options in accordance
+
+with AFASS standards.
+
+ 
+
+Activity 1: Significantly Increase Adherence To Safe Breast-Feeding Practises
+
+o Utilize CHWs to ensure mothers adhere to safe breast feeding practices, including
+early cessation and avoidance of mixed feeding and wet nursing.
+
+0 Provide adequate food supplements to enable mothers to cease breastfeeding but
+still adequately feed their infants
+
+0 Mobilize community awareness to overcome stigma and fear of disclosure that may
+prevent adherence to safe practices
+
+0 Use CHW workers to provide ongoing, at-home support for nursing mothers
+
+ 
+
+Activity 2: Ensure Universal Follow-Up For Breast-Feeding. Sero-Positive Mother-Infant Pairs
+
+0 Develop highly effective system of follow up, utilizing HSA and/or CHW workers
+0 Develop adequate reporting system to eliminate LTFU
+
+ 
+
+Objective E: Follow-Up
+Establish effective systems to ensure universal follow-up of mother-infant pairs.
+Note: Other activities listed elsewhere Will also support successful follow- up
+
+ 
+
+Activity 1: Establish system between HFtechnical staff and CHW workers that supports
+follow-up of all patients in the PMTCT cascade.
+
+0 Include the importance of routine follow up in training
+0 Establish effective working relationship between HF staff and CHW volunteers.
+
+ 
+
+Activity 2: Optimize CHW, Supervision. Reporting Systems. and M&E to ensure no LTFU
+
+0 Provide clinical expertise/mentoringlM&E expertise to develop systems that make
+follow-up a routine part of the PMTCT services offered
+0 Home-based carers workers can assist with:
+- Education and orientation
+- Monitoring of adherence to drug and feeding protocols
+- Encouraging women to avail themselves of services
+- Following up on those who default or have other complexities
+- Ensuring that exposed infants are not lost to follow up (LTFU)
+
+ 
+
+Activity 3: Ensure lonq-term ID of exposed infants who may become infected after birth
+
+0 Provide adequate training/preparation for all PMTCT providers to enable them to
+identify early signs of infection in older infants
+
+0 Continue to provide active support to MOH in the roll out and scale up of the national
+E| D programme and incorporate focused district into this programme
+
+0 Establish reporting and follow-up systems to ensure each exposed infant is followed
+until at least 3 months after total cessation of breast feeding and final HIV testing
+
+ 
+
+ 
+
+Activity 4: Promote psvchosocial support of patients
+
+0 Utilize CHW, male involvement, support groups, care partners, training and
+mentoring to promote at all levels the need for provision of psychosocial support of
+mothers and families living with HIV/Al DS.
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 29 of 53
+
+ 
+
+ 
+
+Strategic Action # 6: Enhance Community Based Care
+
+ 
+
+Objective A: Community Based Care
+Ensure an adequate cadre of appropriately trained home based care workers to
+
+assist in the care and well-being of every pregnant woman and her family.
+
+ 
+
+Activity 1: Train Community Health Workers
+
+ 
+
+Identify eligible and willing force of CHW workers including PLWHA
+Develop a workable training system — TOTs, venues, times offered etc.
+Ensure availability of training materials
+
+Ensure training includes all aspects of PMTCT protocols
+
+Train an adequate cadre of CHW workers
+
+ 
+
+Activity 2: Develop effective communication and understanding with existing TBAs
+
+ 
+
+Use local leaders to initiate communication with and obtain co-operation of TBAs
+Ensure appropriate education of members of the community including TBAs
+
+Extract commitments of their cooperation in the essential components of PMTCT care
+Monitor TBAs so they do not divert pregnant women from correct adherence to ANC
+and PMTCT protocols
+
+ 
+
+Activity 3: Provide adequate supervision of CHW workers and Report-Back System
+
+ 
+
+0 Establish the role of a system wide CHW coordinator
+0 Development of Record System for Home Based Care
+0 Establish reporting systems that will prevent LTFU of mother-infant pairs
+
+ 
+
+ 
+
+Activity 4: Leverage and grow number of maternal support groups
+
+ 
+
+o Engage existing support groups
+0 Initiate new support groups
+
+ 
+
+ 
+
+Strategic Action # 7: Integrate PMTCT Cascade of Services
+
+ 
+
+Objective A: Patient Flow
+Optimize the effective flow between ANC, U5, L&D, PN, FF and NRU to support
+integrated service delivery
+
+ 
+
+Activity 1: Flow - Optimize the way in which pregnant women access PMTCT services
+
+ 
+
+0 Provide expertise to organize available spaces for optimal flow for both technical staff
+and patients, minimizing loss of patients within the system, and ensuring they access
+all aspects of PMTCT services
+
+ 
+
+Objective B: Linkages and Integration
+Establish routine and effective communication between all entry points into
+
+PMTCT services to support integrated service delivery
+
+ 
+
+Activity 2: Linkages - Ensure adequate reporting and follow-up between various
+components of PMTCT cascade — ANC. U5. L&D. PN. FP and NRU.
+
+ 
+
+o Initiate cohesive goals that work towards these linkages
+0 Use Clinical Mentoring to support these linkages
+0 Ensure reports and registers are optimized and utilized to aid in good linkages
+
+ 
+
+ 
+
+Activity 3: Integration - Integrate HIV and PMTCT services to support whole family care.
+
+ 
+
+0 Work with local health officers to adopt whole family approach to HIV services
+0 Ensure co-ordination between PMTCT and HOT efforts at each site
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 30 of 53
+
+ 
+
+ 
+
+ 
+
+Strategic Action # 8: Optimize Monitoring And Evaluation
+
+ 
+
+Objective A: Monitoring and Evaluation
+Strengthen M&E systems to ensure accurate measurement of outcomes and the
+
+ability to ensure universal follow-up of PMTCT patients.
+
+ 
+
+Activitv 1: Ensure accurate and universal use of the MOH reqisters
+
+0 Train all PMTCT providers to correctly use registers, provide summations, reports etc.
+
+ 
+
+ 
+
+Activitv 2: Provide adequate supervision from District Level
+
+0 Alleviate District case loads to enable supervision and district-wide M&E
+
+ 
+
+6. PROGRAMM E MANAGEMENT
+
+At all times we will keep in mind the two overarching goals of the MOH PMTCT programme
+in section III “CHAI Proposed Solutions”, Sub-Section 3, “Goals” and their associated
+measurements as repeated below.
+
+1. Dramatically increase the percentage of pregnant women accessing the full
+range of PMTCT services
+
+2. Significantly decrease the rate of vertical transmission
+
+Measuring performance will also require simultaneously loose and tight controls. By this, we
+mean we will strive to maintain tight and precise control at a high level of a very small
+number of key, measurable results, but only loose control over secondary variables that will
+not materially affect the ultimate outcome and therefore are less important or meaningful.
+
+Managing CHAl’s support of the Ministry’s PMTCT Programme requires using MOH reporting
+data to help monitor the key indicators of success. These indicators fall into three
+categories:
+
+Figure 4: Programme Management: Process, Progress, and Results
+
+ 
+
+ 
+
+Process 9 Progress 9 Resuus or
+Outcome
+- Measurements that - Measurements that - Measurements that
+monitor ACTIVITIES monitor INTERIM monitor the final
+undertaken RESULTS that RESULTS or desired
+. ACTIVITIES are IndIcate PROGRESS OUTCOME of the
+toward achIevement programme
+processes and .
+. of the Intended
+Improvements
+outcome
+
+designed to achieve
+the intended outcome
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 31 of 53
+
+ 
+
+The indicators that follow are aligned with the eight strategic actions described previously.
+Not all activities and results can be measured quantitatively. Therefore, qualitative
+measurements are also included.
+
+a. Key Indicators of Success
+
+Note: In the MOH PMTCT programme, several registers are used for M&E. These include
+registers for Ante Natal Clinics (ANC), Labour & Delivery Wards (L&D), Under-Five Clinics
+(U5), Family Planning Clinics (FP), and the ART Programme. In addition, the MOH and its
+technical working groups (TWGs) supply other useful reports. These include PMTCT reports,
+EID reports, the HRH census, ART quarterly and annual reports and database, NAC Sentinel
+Surveys, and others. All will be cited below as “MOH.”
+
+ 
+
+Strategic Action #1:
+
+Augment Human Resources
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+result received*
+Stock-out reports/inventory counts by category
+
+Key l ndicators Source
+0 # PMTCT providers who receive current and complete PMTCT training MOH, CHAI
+o # HSAs with PMTCT orientation*
+0 Health Worker satisfaction MOH (annual
+0 Employee turnover survey)
+0 # or % of vacant positions
+0 # of supervisory visits MOH & CHAI
+Strategic Action # 2: Enhance Infrastructure
+Key l ndicators Source
+0 # of PMTCT sites
+
+MOH & CHAI
+o # of PMTCT sites offering dual combination therapies
+o # of transport vehicles (e.g.ambulances/patient transport) in service*
+0 # & % of Health Facilities with basic laboratory services
+Strategic Action # 3: Optimize Supply Chain & Logistics
+Key l ndicators Source
+0 Sample turnaround time measured by time between test given and o MOH
+
+0 Pharmacy &
+Lab Records
+
+ 
+
+ 
+
+0 Stock levels by category at each site 0 Physical
+Inventory
+
+Strategic Action # 4: Sensitize Communities
+
+Key l ndicators Source
+
+ 
+
+Direct observation at meetings
+
+CHAI, Partners
+
+ 
+
+ 
+
+Increase in # of women attending ANC
+Increase in # of women accessing FP services
+Increase in # of mothers delivering in HFs
+Increase in & # of males attending ANC
+
+ 
+
+MOH
+
+ 
+
+* Risk that some data may not be available or accessible
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 32 of 53
+
+ 
+
+ 
+
+Strategic Action #5: Ensure Patient Care & Compliance
+
+ 
+
+Key l ndicators
+
+Sou rce
+
+ 
+
+of H|V+ women receiving prophylaxis from ANC
+of H|V+ women receiving prophylaxis in L&D
+
+of exposed infants receiving prophylaxis
+
+of pregnant H|V+ women who have CD4 testing
+of infants who have DNA PCR testing
+
+of infants who have CD4 testing*
+
+MOH
+
+ 
+
+& % of women who return for CD4 results
+& °/o of eligible H|V+ women initiating ARV prophylaxis or therapy
+
+MOH
+
+ 
+
+of pregnant women who receive food supplements*
+of infants who receive food supplements at cessation of EBF*
+
+MOH
+CHW Reports
+
+ 
+
+& % of PMTCT sites eligible to offer dual combination therapies
+& % of H|V+ women receiving dual combination therapies
+
+& % of exposed infants receiving dual combination therapies
+
+& % of exposed infants who test negative 3 months after the
+cessation of breast feeding.
+
+=H:=H:=I=l:=l=l: =tt=tl==tl==tl==ﬂ==l=l==l=l==l=l==l=l==ﬂ=
+
+MOH
+
+ 
+
+o # of outreach clinic sessions held
+
+ 
+
+MOH, Partners
+
+ 
+
+Strategic Action # 6: Enhance Community Based Care
+
+ 
+
+Key l ndicators
+
+Sou rce
+
+ 
+
+# of training sessions for CHWs
+# of CHW providers trained
+
+# of families receiving CHW visits
+% Increase in HF deliveries
+
+Care Partners
+CHAI
+
+ 
+
+Strategic Action # 7: Integrate PMTCT Cascade of Services
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o # of supervisory visits completed
+0 # & % of sites with consistent periodic reporting*
+
+ 
+
+ 
+
+Key l ndicators Source
+0 # of H|V+ patients followed through entire cascade* MOH
+
+o # of women accessing FP services
+
+0 # of sites offering PMTCT services on a daily (week-day) basis MOH
+Strategic Action # 8: Improve Monitoring and Evaluation
+
+Key l ndicators Source
+0 Regular use of new MOH PMTCT registers at every site MOH
+
+ 
+
+* Risk that some data may not be available or accessible
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 33 of 53
+
+ 
+
+b. Risk Assessment
+
+There are many potential risks associated with the proposed interventions. CHAI will work
+closely with GOM, MOH, District leadership and partners to minimize these risks.
+
+Table 19: Risk Assessment
+
+ 
+
+RI SK ASSESSM ENT
+
+ 
+
+Risks
+
+CHAI Actions to Mitigate Risk
+
+ 
+
+1. Community sensitisation and male involvement
+efforts may be insufficient to counter centuries
+old traditions
+
+Sustained and repetitive community
+awareness campaigns
+
+Sustained efforts to obtain the assistance and
+positive influence of local and leaders
+Targeted interventions to provide incentives
+for male involvement
+
+ 
+
+2. Proposed infrastructure enhancements will be
+insufficient to deliver quality PMTCT services
+
+Utilize innovative and creative methods to fully
+utilize available space
+
+ 
+
+3. Interim staffing efforts will be limited by
+prospects for sustainability
+
+Work with MOH and District Leadership to
+optimize staffing on a District wide basis for
+provision of PMTCT services
+
+Supplement and raise skill levels of existing
+staff through effective mentoring
+
+ 
+
+4. Given the existing environment with a critical
+national shortage of human resources,
+interventions to enhance staffing in PMTCT
+services may be insufficient to meet demand
+
+Employ expert task shifting to optimize patient
+loads with limited resources
+
+Utilize available expertise to raise skill levels of
+all existing staff - technical and HSAs - to
+create more efficient patient flow and less
+time for staff-patient interaction, while
+offering the same quality of services
+Incorporate technical devices for patient
+education removing this burden from staff
+
+ 
+
+5. Success in increasing up-take of PMTCT services
+may overwhelm the system
+
+Adopt a phased approach so that
+infrastructure and other enhancements stay
+ahead of increased up-take of services
+
+ 
+
+6. CHAI support for the MOH PMTCT programme
+will be partially dependent on successful delivery
+of results by care partners
+
+CHAI will maintain close interactions with care
+partners and ensure that goals and
+expectations are clearly communicated
+
+ 
+
+7. MOH will be unable to sustain proposed
+enhancements in infrastructure, staffing and
+resources
+
+CHAl’s intention is exit support in the focal
+district(s) with enough infrastructure
+enhancements in place to allow for
+maintenance of the services. Every effort will
+be made to increase up-take of services with
+creative and sustainable human resource
+interventions outlined above.
+
+ 
+
+8. Despite demonstrating success in targeted areas
+the MOH will lack the resources to effectively
+scale up on a national level the full breadth and
+scope of the services offered
+
+ 
+
+ 
+
+Work with MOH to access additional funding
+(e.g. GFATM, PEPFAR) to sustain these efforts
+beyond the time constraints of this initiative
+and to ensure trained leadership and
+implementation staff are in place.
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 34 of 53
+
+ 
+
+c. Monitoring and Evaluation (M&E)
+
+The MOH is highly committed to an effective and comprehensive M&E process and reporting
+system. The Ministry emphasizes that its goal for high quality M&E is to give PMTCT staff
+effective tools to assist them in providing quality services and effective patient follow up,
+rather than only serving central reporting needs. To achieve this, the MOH has established
+clearly prescribed M&E and data requirements including data recording, collection, analysis,
+and reporting procedures.
+
+CHAI will work with the MOH in the targeted area to help ensure that data and M&E as
+outlined by the national PMTCT programme, is as comprehensive and accurate as possible.
+CHAI will assist in enhancing the effective use of all M&E materials mandated by the MOH.
+CHAI understands it does not have a mandate to go beyond the MOH’s well-defined M&E
+requirements or to impose an unnecessary burden on the system, personnel, or partners.
+Any suggestions for M&E improvement will be passed on to the MOH for their consideration,
+but CHAI will not independently introduce any additional data collection or M&E
+requirements.
+
+The Ministry of Health has defined Monitoring and Evaluation (M&E) as follows:
+
+0 Monitoring is a regular, routine, systematic collection and analysis of information
+monthly, quarterly and annually to track the progress of programme implementation
+with the specific aim of improving service delivery.
+
+0 Evaluation is the systematic examination and/or analysis of past decisions in order to
+assess value, worth or impact, and to learn from them and improve. Evaluation takes
+an objective look at the activities performed and identifies the reasons for both
+success and failure, and how your future work can learn from both. It is normally not
+routine, but carried out at specified periods.
+
+Monitoring and evaluation helps programme implementers and service providers to:
+
+Monitor the progress of programme implementation
+
+Build on strengths in the implantation process
+
+Identify areas requiring strengthening and take actions to rectify problems
+
+Mobilize and utilize resources to implement programme activities, including
+monitoring consumption of these resources
+
+0 Evaluate the extent to which the programme is having or has had the desired impact
+0 Assist the MOH to mobilize resources from treasury and from cooperating partners
+
+The MOH recognizes the importance of maintaining complete records of patients in all
+components of the PMTCT cascade including records from adolescent youth friendly health
+services. To do so, the MOH provides periodic supervision to ensure quality M&E. They
+further require and recognize:
+
+o Accurate recording of information in registers, master cards, and health passports
+results in timely, accurate and complete information that can be analyzed to
+generate a report on utilization of services by the target population.
+
+0 Record keeping and reporting of routine programme monitoring is useful to service
+providers at the facility and program managers at district, zonal and national levels
+for planning, management and resource mobilization and allocation to health
+programmes.
+
+0 Key PMTCT indicators for monitoring progress and quality of service delivery are
+integrated into health passports and MCH registers and other complementary
+registers such as HTC, family planning, and STI.
+
+o PMTCT indicators have been integrated in the registers and Monthly Summary Report
+Form (Appendix 11)
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 35 of 53
+
+The National PMTCT Programme mandates the use of the following registers:
+
+0 HTC Register 0 Postnatal Care and Follow-up Register
+0 Antenatal Care Register 0 Under-five Register
+0 Maternity Register 0 ART Register
+
+The National PMTCT Programme requires the following data collection during delivery of
+PMTCT services:
+
+0 HIV information is recorded in Women, Child and Men Health Passports for every
+patient who accesses services
+
+0 HIV information and other relevant data is recorded in ANC, Maternal Services,
+Family Planning and Postnatal Services
+
+0 Registers are summarized at the end of each working day
+
+0 These summaries are used for efficient care and follow up
+
+A baseline study will be conducted at the inception of the project using a combination of
+data already at the sites. All of the testing and treatment data will be collected from
+standard registers in place at health care facilities through the National PMTCT Programme
+M&E system as described above.
+
+Throughout the duration of the project, CHAI will provide technical assistance to the specific
+sites and at the district level to enhance M&E capabilities. Assistance will be provided as
+needed to ensure that in operational level the existing system functions optimally. As
+previously indicated, CHAI will not impose any additions to the existing M&E system.
+
+d. PMTCT Programme M&E Support
+
+CHAI will have a full-time M&E coordinator for the duration of project in order to effectively
+collect and use MOH data and provide the programme with any needed analyses and
+reports. CHAI intends to monitor and evaluate every aspect of implementation, with regular
+feedback to the MOH for continuous improvement and to the donor to ensure appropriate
+use of funds.
+
+e. Establishing Pathway to Sustainability
+
+Sustainability of this project will be a high priority through all levels of implementation. To
+ensure we establish and follow a pathway to sustainability, the following will be key:
+
+0 The MOH fully understands that CHAl’s initiative to support the national PMTCT
+programme is limited to three years and other sources of funding will be needed for
+continuation and expansion.
+
+0 CHAI will ensure that all activities will only be implemented with ongoing concurrence
+of the MOH, the DHO, the PMTCT Coordinator, the IE0 and HMlS Officers of the
+District served.
+
+0 Throughout the operational stages of the programme CHAI will collaborate with in
+consultation with the above personnel to implement activities that can continue to be
+managed when the project terminates.
+
+o CHAI will avoid hiring personnel who cannot be sustained by the MOH.
+
+o CHAI will ensure that the interventions involving community mobilisation and basic
+infrastructure are effective enough to have long term impact, far beyond the
+duration of the project.
+
+0 CHAI will ensure that systems including M&E, patient flow and staff capabilities to
+initiate ARV prophylaxis are firmly in place, and capable of duration beyond CHAI and
+partners’ involvement
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 36 of 53
+
+7. FUNDING REQUEST & BUDGET
+
+To support this initiative, CHAI requests funding from the Government of the Kingdom of
+Norway for comprehensive PMTCT support in the selected district of Machinga. The budget
+is approximately $618 for each of 8,613 HlV+ mother-infant pairs in care, or $5.33 million
+over three years (36 months) from 1 July 2008 to 30 June 2011.
+
+Table 20: Budget Summary
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PMTCT DISTRICT IMPLEMENTATION SUMMARY BUDGET
+Expense Category Jul-Dec Jan-June Programme
+2008 2009 2010 2011 Total
+
+Personnel Costs Total $ 188,885 $ 321,400 $ 321,400 $ 160,700 $ 992,385
+Consultants 117,000 191,250 172,500 - $ 480,750
+Govt & Care Partner Funding 15,000 35,000 35,000 15,000 $ 100,000
+Direct Programme Supplies (M&| Pairs) 276,385 589,680 676,207 377,485 $ 1,919,757
+CHAI Programme Mgt Allocation 64,728 72,127 72,127 36,064 $ 245,047
+PMTCT Programme Travel 22,060 44,120 44,120 22,060 $ 132,360
+Capital Charges 65,000 5,000 5,000 - $ 75,000
+Facility Improvements 363,542 192,760 26,835 26,835 $ 609,972
+Transport - Patients Etc. 67,000 8,000 8,000 4,000 $ 87,000
+Transport - Samples Etc. 900 5,400 8,100 6,075 $ 20,475
+Community Sensitization 103,884 73,200 73,200 36,600 $ 286,884
+Community-Based Care 107,320 233,840 140,300 70,150 $ 551,610
+Nutrition (CTC) Extend to Whole District 10,250 10,250 - - $ 20,500
+Training & Orientation $237,191 $29,756 $29,756 $29,756 $ 326,459
+Total Expenses $ 1,639,145 $ 1,811,783 $ 1,612,545 $ 784,725 $ 5,848,198
+Less: Net Funding B MOH or Other ($75,168) ($160,374) ($183,907) ($102,664) ($522,112)
+
+             
+
+Second District
+
+If additional funds are available, CHAI proposes a subsequent phase of this proposal to
+support successful implementation of the MOH PMTCT programme in a second district. This
+phase would commence in the second year. Additional funds would be proportionate to the
+number of mother-infant pairs or pregnancies in the district. Overhead costs would not
+increase as a result of adding the second district.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 37 of 53
+
+APPEN DI CES
+Appendix 1: MALAWI HIV PREVALENCE BY DISTRICT
+
+MALAWI HIV PREVALENCE BY DISTRICT
+
+0.0% 5.0% 10.0% 15.0% 20.0% 25.0% 30.0% 35.0%
+
+Thyolo
+Phalombe
+Machinga
+Blantyre
+Chiradzulu
+Nsanje
+Mwanza
+Zomba
+Mulanje
+Balaka
+Nkhota Kota
+Ntcheu
+Neno
+Chikwawa
+Mangochi
+Karonga
+Salima
+Lilongwe
+Mzimba
+Rumphi
+Nkhata Bay
+Dedza
+Dowa
+Mchinji
+Ntchisi
+Kasungu
+
+Chitipa
+
+———————————— r’
+
+  
+   
+  
+ 
+
+ 
+ 
+
+PIH & CHAI & CHDI
+————ﬁiij
+MSH & Basics
+. —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+District Hofpital & Remote Health Centre Data Combined
+RAW SCOFIES & MOH Partner Presence No NGO or Private
+- P
+artner Support
+Source: NACJSentinel Survey 2007; CHAI Analysis I l l l
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix 2: MACHI NGA DISTRICT PMTCT DATA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2007 — 6 PMTCT SITES* — MACHI NGA DISTRICT TOTAL
+#ANC First Visits 9832
+# PW Tested in ANC 2943
+% PW Tested in ANC 29.9%
+# PW Test HIV Positive in ANC 399
+% PW Test HIV Positive in ANC 13.6 %
+# PW given CPT 55
+
+# PW referred from ANCto ART 361
+# PW given NVP in ANC 200
+% HIV positive PW given NVP in ANC 50 %
+# PW given NVP for infants in ANC 85
+% HIV positive PW given NVP for infants in ANC 21.3 %
+# Deliveries 7023
+# PW Tested in L&D, PN 711
+# PW Tested positive in L&D, PN 147
+% Women tested in L&D, PN who are positive 20.7 %
+# Mothers given NVP in L&D 105
+% HIV positive women given NVP in L&D 71.4 %
+# Infants given NVP in L&D, PN 107
+% of exposed infants given NVP in L&D, PN 72.8 %
+
+ 
+
+* 6 Sites = Nyambi, Chikweo, Namanja, Nainunje, Ntaja, Machinga District Hospital
+
+Source: CHAI Site Assessment & Analysis of District Health Records, March/April 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 38 of 53
+
+Appendix 3: MACHI NGA DISTRICT PMTCT READINESS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+% TOTAL
+
+ 
+
+100.0%
+
+ 
+
+36.0%
+
+ 
+
+ 
+
+ 
+
+Source: MOH: ART In The Public And Private Sectors In Malawi, Results Up To 30th December, 2007
+
+ 
+
+ 
+
+ 
+
+ 
+
+93.2% 71.8%
+
+ 
+
+14.6%
+
+ 
+
+ 
+
+Owner- Hb
+MACHI NGA Type Ship PMTCT Remarks on PMTCT Testing_
+Machinga District Hosp. MOH Y Started 2004 No
+Machinga H/C MOH Y Started Mar 2008 N0
+Gawanani H/C CHAM Y No
+Nsanama H/C CHAM Y Started Feb 2008 Yes
+Ntaja H/C MOH Y Started 2004 Yes
+Namandanje H/C CHAM Y No
+Nyambi H/C MOH Y Started 2004 No
+Nayinunje H/C MOH Y Started 2004 Yes
+Namanja H/C MOH Y Started Early 2007 No
+Nayuchi H/C MOH Y Started 8 Mar 2008 N0
+Mposa H/ C CHAM Y No
+Mpiri H/C CHAM Y Started 2007 No
+Ngokwe H/C MOH Y Started Mar 2008 N0
+Chikweo H/C MOH Y Started Mar 2008 N0
+Madalitso H/C Private N No maternal services No
+Mbonechera H/C MOH N No maternal services No
+Kawinga Dispensary MOH N No
+Mkwepere Dispensary MOH N Maternity being built. N0
+Mangamba Health Post MOH N No maternal services No
+Mlomba Dispensary MOH N OPD services only No
+Chamba Dispensary MOH N No maternal services No
+Mulipa Health Post MOH Y Outreach services No
+Liwonde SDA Dispensary CHAM Y Maternity begins Jan 2008 N0
+Liwonde BLM Clinic BLM - No
+Mgodi Clinic Estate N No
+Chisuwi Health Post MOH N Outreach services No
+Kachulu Health Post MOH N Outreach Services No
+Chapusa Health Post MOH N Outreach services No
+Chipolonga Health Post MOH N Outreach services No
+Source: Machinga District PMTCT Coordinator; CHAI survey of District Health Facilities, April 2008
+Appendix 4: Machinga District ART Data
+MACHINGA DISTRICT Total Patients Ever Initiated on ART
+Total ART Total ART Total ART Total ART Total ART
+ 3;??? T3362: T323235 T323235 T333235? T333235 E1232: :23: :23: £12212:  6623.16
+me male Female Aduns Chlldren Stage III Stage IV CD4 PMCTC Treatment
+Machinga DH 7-Mar-08 2,521 908 1,613 2,349 172 1,810 367 344 29 1,683 366
+
+ 
+
+66.66, - 66.66,
+
+ 
+
+ 
+
+14.5%
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 39 of 53
+
+ 
+
+ 
+
+Appendix 5: MAP of MALAWI — Machinga Highlighted
+
+ 
+
+   
+
+    
+
+1- -" d ' ' I. :3an f - -
+.I t? _ _. . I Ex:st|ng CHAI
+'II    f I} Pk 0 District Activity
+-' '. “I _ . K
+' ' r”— .& CHAI Lilongwe
+Office
+
+0 Machinga District
+
+ 
+
+     
+
+DHGIB = Dis-tun m
+
+ShI-II - Flhm and Lilli Human
+
+'5' 35 53 T5 In: 123 150 1T5 290Kle
+I I I J. I :
+
+ 
+
+ 
+
+{I 35 H} ?5 105 12.5 “Hera
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 40 of 53
+
+Appendix 6: MACHI NGA DISTRICT MAP & ART SITES
+
+IIAP DF “CHINEA HSTRICT
+
+* ART Sites
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"L «a.
+J 4.8'
+ﬁﬂlJ'
+Machinga I - _' ' _  '
+District ' - "
+[105 _i_ta|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 41 of 53
+
+Appendix 7: SERVICES PROVI DED TO ANC CLI ENTS
+
+ 
+
+First Visit - all women
+(4-16 weeks)
+
+Subsequent visits all women
+(2nd visit:24 to 28 weeks; 3rd
+
+visit:32 and 36 weeks; 4th
+visit:36 and above)
+
+Subsequent visits (HIV-
+positive Pregnant women
+and mother)
+
+2nd visit:24 to 28 weeks; 3rd
+visit:32 and 36 weeks; 4th
+visit:36 and above
+
+ 
+
+General health education
+
+General health education
+
+- General health education and
+
+continuous counselling
+
+ 
+
+Check weight
+
+Check weight
+
+- Check weight
+
+ 
+
+Investigations: Hb, syphilis
+and HIV
+
+Repeat investigations if
+necessary
+
+- CD4 cell count,
+- FBC if eligible for ART
+- Chemistry (LFT,RFT) if eligible
+
+for ART
+
+- Sputum for AFB if TB is
+
+suspected
+
+ 
+
+Physical examination(look for
+signs and symptoms of
+HIV/STI/HIV)
+
+Assess nutrition status and
+advice the client accordingly
+
+Physical examination
+
+Find out how the client is
+feeling before physical
+examination and attend to
+complaints if any
+
+Assess nutrition status and
+advice the client accordingly
+
+- Find out how the client is
+
+feeling before physical
+examination and attend to
+complaints if any
+
+- Physical examination, use
+
+Clinical Staging (Annex 3) to
+stage every woman and
+provide care and/or refer to a
+doctor as necessary
+
+- Assess nutrition status and
+
+advice the clients accordingly
+
+ 
+
+Give health education on
+maternal nutrition and identify
+women who need individual
+counselling
+
+Emphasize the importance of
+good nutrition in pregnancy to
+promote good pregnancy
+outcome
+
+Give individual nutrition
+information to women who
+need special attention
+
+- Emphasize the importance of
+
+good nutrition in pregnancy to
+promote good pregnancy
+outcome and treatment as
+necessary
+
+- Give individual nutrition
+
+information to women who
+need special attention
+
+- Ensure women receive food
+
+supplements
+
+ 
+
+Encourage women to request
+partners to test for HIV — it is
+possible that some partners
+of HIV-negative women could
+be positive
+
+Counsel couples together
+
+Encourage partners to test for
+HIV — it is possible that some
+partners of HIV-negative
+women could be positive
+
+Counsel couples together
+
+- Encourage women to access
+
+care, support and treatment
+and to request partners to test
+for HIV — it is possible that
+some partners of HIV-positive
+mother are HIV-negative
+
+- Counsel couples together
+
+ 
+
+Family planning including
+condoms for dual protection
+
+Family planning, including
+condoms for dual protection
+
+- Family planning, including
+
+condoms for dual protection
+
+ 
+
+ 
+
+Give women iron,
+albendazole, SP (DO NOT
+give SP to HIV-positive
+women on CPT) - Refer to
+Reproductive and CPT
+Guidelines on administration
+of SP to pregnant women)
+
+ 
+
+Give women iron,
+albendazole, SP (DO NOT
+give SP to HIV-positive women
+on CPT) — Refer to
+Reproductive and CPT
+Guidelines on administration of
+SP to HIV-positive pregnant
+women)
+
+ 
+
+- Give women iron,
+
+albendazole, CPT and INH
+(Refer to Reproductive and
+CPT Guidelines on
+administration of SP and to TB
+Guidelines on administration
+of INH to HIV-positive
+pregnant women )
+
+ 
+
+Source: MOH PMTCT of HIV GUIDELINES,
+
+Draft Second Edition 2008, May 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 42 of 53
+
+ 
+
+Appendix 8: COMBINATION ARV PROPHYLAXI S ADMINISTRATION
+
+ 
+
+ 
+
+ 
+
+PREGNANCY LABOUR POSTPARTUM
+Mother Infant
+1. Women on ART Continue ART Should continue ART 1. AZT 4mg/kg twice
+postpartum daily for 4 weeks. (NB:
+
+low birth babies <2.5 kg
+will receive 2mg/kg)
+
+ 
+
+2. Women who received 1. SD-NVP 200mg at onset AZT/3TC every 12 1. SD-NVP 6mg within
+AZT 300mg twice a day of labour hours for 7 days 72 hours
+
+from 28 weeks
+. . 2. AZT 4mg/kg every
+gestation untIl onset of 12 hours for 7 days
+
+labour 2. AZT/3T0 at onset of (NB- iow birth babies
+labour and then every 12 <2  kg win receive
+hours continuing into grﬁg/kg)
+
+postpartum period.
+3. Babies delivered at
+home should get SD-
+
+ 
+
+NVP and start AZT
+within 72 hours of
+delivery
+3. Women who received 1. SD-NVP 200mg at onset AZT/3T0 300mg 1. SD-NVP 6mg within
+less than 4 weeks of of labour every 12 hours for 7 72 hours
+
+AZT days 2. AZT 4mg/kg every
+
+2. AZT/3TC 300mg every 12 12 hrs for 4 weeks
+
+ 
+
+hours until delivery. (NB: low birth babies
+<2.5 kg will receive
+2mg/kg)
+4. Women who present 1. SD-NVP 200mg at onset AZT/3TC 300mg 1. SD-NVP 6mg within
+during labour and have of labour every 12 hours for 7 72 hours
+not received AZT days
+
+2. AZT 4mg/kg 12
+hourly for 4 weeks (NB:
+low birth babies <2.5 kg
+will receive 2mg/kg)
+
+2. AZT/3T0 300mg 12 hours
+until delivery.
+
+3. Babies delivered at
+home should get SD-
+NVP 6mg and AZT
+4mg/kg 12 hourly for 4
+weeks (NB: low birth
+babies <2.5 kg will
+receive 2mg/kg)
+
+ 
+
+5. No ARVs during No ARVs during labour None 1. SD-NVP 6mg within
+pregnancy 72 hours
+
+2. AZT 4mg/kg every
+12 hrs for 4 weeks (NB:
+low birth babies <2.5 kg
+will receive 2mg/kg)
+
+ 
+
+6. In settings where only sd-NVP 1. SD-NVP 6mg within
+SD-NVP is available 72 hours
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: MOH PMTCT of HIV GUIDELINES, Draft Second Edition 2008, May 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 43 of 53
+
+Appendix 9: HIV DIAGNOSIS I N BREASTFEEDING INFANTS
+
+ 
+
+ 
+
+Breastfeeding Infant
+
+ 
+
+ 
+
+ 
+
+ 
+
+DNA PCR test (from 6wks of age)
+
+I V
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Positive Negative
+v v
+Child is HIV-positive: At 12 months — did breastfeeding
+Plan for care, cease at least 3 months earlier?
+treatment, and support
+Yes No
+v
+V Do rapid test 3 months after
+Do rapid test < complete cessation of
+I breastfeeding
+Negative Positive
+Child is V
+not HIV- Repeat rapid test
+positive at 18 months
+Negative Positive
+V
+Repeat rapid test at 18
+months (confirmation) v 7
+Child is Child is HIV-
+not HIV- positive: Plan for
+positive care, treatment,
+and support
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: MOH PMTCT of HIV GUIDELINES, Draft Second Edition 2008, May 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 44 of 53
+
+ 
+
+Appendix 10: STEPS FOR COUNSELLING HI V+ MOTHERS
+Infected With HIV on Infant And Young Child Feeding Options
+
+ 
+
+ 
+
+Step 1: Explain the risks of MTCT
+
+ 
+
+ 
+
+ 
+
+ 
+
+V
+
+ 
+
+Step 2: Explain the advantages and disadvantages of the main feeding options
+(exclusive breastfeeding and replacement feeding) starting with the mother’s initial
+
+ 
+
+ 
+
+ 
+
+ 
+
+V
+
+ 
+
+Step 3: Explore with the mother, her home and family situation. Offer to discuss with her partner
+before she decides on the option and assure her that she can change her mind
+
+i
+
+Step 4: Help the mother choose an appropriate feeding option
+
+l
+
+Step 5: Demonstrate the chosen feeding option
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v v
+Exclusive Breastfeeding Replacement feeding
+v v
+
+ 
+
+ 
+
+ 
+
+ 
+
+Explain when and how to stop
+
+ 
+
+ 
+
+ 
+
+ 
+
+V
+
+ 
+
+Step 6: Provide follow-up counselling and support. Repeat steps 3-5 if the
+mother changes her original feeding choice
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+At every post-natal visit:
+
+- Monitor growth
+
+- Check feeding practices and whether any change is desirable
+
+- Check for signs of illness
+
+I If hehv is hreestfeedinn observe how well the hehv is attenhinn the breasts and check if she
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discuss complementary feeding plans for age 6-24 months
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: MOH PMTCT of HIV GUIDELINES, Draft Second Edition 2008, May 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 45 of 53
+
+ 
+
+Appendix 11 : PMTCT MONTHLY REPORT FORM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANTENATAL CARE CLINIC MONTHLY REPORT Version 1
+Site Details and Reporting Period April 2008
+_ ANC site name “““““““““ H
+ Reporting Month Reporting Year
+
+New booking visits in the Reporting Month
+
+New women registered I I
+Outcomes of the Booking Cohort
+Reporting Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+? ? ? ? ? ? ? ? ? ? ? ?
+
+Booking Cohort (circle) Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+
+Number of ANC visits per woman 1 HIV test result 1
+1 1 visit 19 Previous negative
+2 2 visits 20 Previous positive
+3 3 visits 21 New negative
+4 4 visits 22 New positive
+5 5+ visits 23 Not done
+
+tum 1—5 Total women in cohort sum 20 + 22 Total women HIV pos.
+
+First visit at 1 ART eligibility 2
+6 0-12 weeks 24 No
+7 13+ weeks 25 Yes
+
+(Pre-) Eclampsia 26 Unknown
+8 No On CPT
+9 Yes 27 No
+
+TTV doses 1 28 Unknown
+10 0-1 PMTCT regimen mother2
+11 2+ 29 [ None
+
+SP doses 1 30 ART
+12 0-119 31 stVP
+13 120+ 32 AZT
+
+Any FeFo 1 NVP dispensed for baby
+14 No 33 No
+15 Yes 34 Yes
+
+Syphilis test 1 1check: total must be equal to total women in cohort
+
+2 check: total must be equal to field 20 + ﬁeld 22
+16 Negative Report filled Date
+17 Positive Name
+18 Not done Report received Date
+7 Name
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: MOH PMTCT of HIV GUIDELINES, Draft Second Edition 2008, May 2008
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 46 of 53
+
+Appendix 12: CHAI WORK I N MALAWI
+INTRODUCTION:
+
+The Clinton Foundation HIV/AIDS Initiative (CHAI) came into Malawi in 2006 as part
+of the Clinton Hunter Development Initiative (CHDI) with a mandate to drive rural
+growth and business development in three districts designated by the Government of
+Malawi. At the time, HIV/AIDS initiatives were pursued under direction of the
+combined CHDI organization. Prior to this time, from 2004, Malawi was a beneficiary
+of CHAl’s global work to reduce the cost of ARVs for developing countries.
+
+People living in rural areas often lack access to basic health care. CHAI and its sister
+organization in Malawi, the Clinton-Hunter Development Initiative (CHDI), have
+teamed with Dr. Paul Farmer and his organization, Partners in Health (Pl H), in a rural
+health initiative to provide HIV/Al DS care and comprehensive health care to people
+living in the Neno District.
+
+CHAI, CHDI, and PlH are working with the Government of Malawi to address the
+complex needs involved in providing care in areas that lack even basic infrastructure.
+This work includes: training health care workers; recruiting and training 84 new lab
+assistants; enhancing lab infrastructure; providing test equipment, reagents, and
+sample transportation; improving the physical capacity of health care facilities
+including a new District Hospital in Neno; building health worker housing; providing
+sanitation and water; and focusing on integrated rural development and growth,
+education enhancement, and more. CHAI is also leading programmatic efforts in
+treatment for severe acute malnutrition in Neno, has conducted all training in the
+MOH CTC programme including for PlH clinicians, and continues to provide
+supervision and RUTF for patient treatment.
+
+CHAI began its programmatic work in Malawi in 2006 and currently its activities fall into
+seven key areas:
+
+1.
+2.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Policy advice, support, and technical assistance to the Ministry of Health (MOH)
+
+Procurement and distribution of ARV and diagnostics for paediatric care as
+well as for Adult 2nd line therapy.
+
+Paediatric nutrition services for the MOH’s Out-Patient Therapy Programme (OTP)
+to treat children with Severe Acute Malnutrition (SAM) through Community-based
+Therapeutic Care (CTC). CHAI has had extensive involvement in scaling up
+Community-based Therapeutic Care (CTC) providing training and RUTF for the MOH’s
+Outpatient Therapy Program (OTP) program.
+
+Laboratory Services Programme to train Lab Assistants and to build, refurbish,
+equip, supply and provide technical support for laboratories.
+
+Paediatric programme development and support of paediatric HIV/AI DS outreach
+and services, technical assistance with paediatric clinical trials, and support for the
+MOH’s ART programme M&E.
+
+Rural delivery of quality integrated health care services in partnership with
+Partners In Health (PlH) in the Neno District.
+
+PMTCT policy and programme development and support including Early lnfant
+Diagnosis (El D).
+
+Page 47 of 53
+
+APPENDIX 12: CHAI WORK I N MALAWI
+
+PAGE 2
+
+SPECI Fl C PROGRAM ACTI VI TI ES & RESULTS
+PAEDI ATRI C NUTRITION SERVICES
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+CHAI Malawi helps train health workers in Community Therapeutic Care (CTC) that
+focuses on finding children with Severe Acute Malnutrition (SAM). Funded by external
+partners, CHAI also donates the Ready-to-Use Therapeutic Food (RUTF) essential for
+treatment to care facilities throughout Malawi.
+The programme is critical to reducing morbidity and mortality among children, especially
+those with HIV/Al DS
+CTC Program Support
+0 3 Districts served directly by CHAI (Chitipa, Mwanza, and Neno)
+0 Health Workers trained
+I 636 Health Care Workers trained June - Dec 2007 by CHAI in Community
+Therapeutic Care (CHAl’s involvement in CTC started in May 2007) for the
+MOH’s Outpatient Therapy Program (OTP) for Severe Acute Malnutrition
+(SAM) using RUTF.
+- Another 178 trained in Jan and Feb 2008.
+RUTF Procurement & Treatment
+0 17 Districts supplied by CHAI (4 by Concern Worldwide); 6 Districts unserved.
+o 135 metric tons of RUTF purchased since the start of the program
+0 Over 10,000 children suffering from SAM have been treated using RUTF from
+CHAI
+Supplier support — operations assessment to reduce cost of RUTF, all of which is
+purchased from Malawi suppliers
+Challenges
+0 Sustainability — Working with District Health Officers to have them incorporate a
+portion of RUTF costs in their District Implementation Plans (DlPs or budgets).
+This is a significant challenge, short-term.
+0 Need for a stronger linkage and better M&E to show the mutual linkage between
+nutrition and HIV/Al DS ART scale-up.
+
+LAB SERVI CES & DI AGN OSTI CS
+
+LAB ASSI STAN TS TRAI NI N G
+
+- Curriculum development. With CHAl’s support, the curriculum has been developed
+for training Lab Assistants and approved for deployment at Malawi College of Health
+Sciences (MCHS)
+
+- Equipment and supplies for MCHS and District Hospitals in Neno and Mwanza have
+been provided by CHAI
+
+(A) LAB ASSI STANTS TRAI NI NG PROGRAM:
+
+0 84 successful applicants (82 positions filled) admitted to the Lab Assistant
+Training Program at MCHS in Dec 2007 (funded and directly supported by CHAI
+(tuition, room & board; stipend).
+
+0 Students started training on 7 Jan 2008. After initial training, about 60 have been
+posted to labs in the field for 6 months. Remaining 20 students continue MCHS
+training during this period after which rotation to and from the field takes place.
+
+0 Graduation will be after Dec 2009 following which graduates will be posted to
+Labs across Malawi
+
+0 MOH to continue program with funding for 50+ Lab Assistant trainees entering
+per year
+
+Page 48 of 53
+
+APPENDIX 12: CHAI WORK I N MALAWI PAGE 3
+(B) LABS INFRASTRUCTURE
+
+o CHAI is funding and supervising the building of 10 Labs being built or
+refurbished/expanded and equipped in Neno and Mwanza Districts
+
+0 MOH is constructing a new lab in Mwanza. Once the lab is complete, CHAI will
+supply the lab equipment and supplies that will be needed.
+
+PAEDI ATRI C PROGRAMME
+2007 SPENDING ON PAEDI ATRI C PROGRAM (Including Nutrition/ CTC)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Clinton Foundation HIV/AIDS Initiative — Malawi
+UNI TAI D Spending & Projection
+
+Supply Orders 2007 2008
+ARVs $532,979 $1,871,617
+Cotrimoxazole (OI) $65,790 $280,415
+Diagnostics $357,122 $868,469
+RUTF $781,570 $974,772
+TOTAL $1,737,461 $3,995,273
+
+ 
+
+ 
+
+ 
+
+ 
+
+o CHAl’s influence in the paediatric area has involved increasing awareness and
+importance of paediatric care, helping initiate an EID pilot, and promoting infant FDCs.
+The impact of these efforts will felt over the long term.
+
+- Fixed Dose Combination Paediatric ARVs (FDCs)
+
+o No FDCs in MOH ART Guidelines. Limited use in Malawi
+
+0 CHAl’s efforts resulted in a change in the 2008 ART Guidelines to include
+paediatric FDCs with an emphasis on formulations for children weighing <10KG.
+The guidelnes are expected to be printed and distributed in May or June 2008
+
+o This should have important quality of care impacts.
+
+0 Training will need to take place in the future for changed ART options. Impact
+likely to be limited in 2008
+
+- Disaggregated Outcomes Reporting Initiative
+
+0 Just approved following a lengthy review by MOH, NAC, and GOM ethics
+committee, CHAI has launched a “Disaggregated Outcomes Assessment Project”
+that is taking place from April-Aug 2008 using digital imaging, data entry, and
+analysis. This will establish a 2007 baseline and identify sentinel sites for annual
+assessment that will provide more detail in future and should result in improved
+measurement of outcomes of Malawi’s ART programme.
+
+0 For the first time since inception of Malawi’s ART effort, the MOH will know
+outcomes by age and gender as well as other critical information. They will also
+have a backup record of all data from every ART site in the country resulting in a
+significant improvement in data security and availability.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 49 of 53
+
+APPENDIX 12: CHAI WORK I N MALAWI PAGE 4
+
+EARLY INFANT DIAGNOSIS 1 El D)
+
+o CHAI is helping to support elements of the MOH’s E| D program. During the pilot
+in the Central and Northern Regions, we helped design the program with the
+MOH and other Care partners and we provided sample transport and all the DBS
+kits and reagents. In the Southern region phased ro||out, we will be doing the
+same for the whole region as well as funding the training in Neno District. EID is
+a critical component of the Ministry’s work as summarized below.
+
+I 30,000 cases of Mother-To-Child Transmission per Year
+
+I Pilot site staff trained in EID — linked to and part of PMTCT program.
+509 Health Workers Trained [partially funded by CHAI].
+
+I DBS Sampling
+0 At the start of 2007, there were no sites doing DB8 for El D
+
+o In June 2007 MOH started a pilot in the Central and Northern
+Regions at 15 sites
+
+0 8 sites in the Southern Region are to be added, with the first two
+to be added starting
+17 March 2008
+
+o CHAI is providing DBStest kits/bundles, consumables, and
+reagents for the whole country for El D.
+
+o CHAI supplied sample transport for the Northern and Central
+Regions during the pilot. UNICEF is continuing this support. CHAI
+will provide sample transport for the Southern Region phased
+ro||out where for sites where other care partners are unable to do
+so. We are also supplying the Neno District with training support
+and all supplies for Neno District where PIH is implementing EID
+
+0 Target for scale-up: 20,000 infants tested/year by unspecified time
+
+0 Results to Date as reported by the MOH
+
+0 3,801 tests done June 2007 — Jan 2008 including retests
+0 2,801 initial tests
+I 19% H|V+; 12% H|V+ from retests following initial
+test (as a result of breastfeeding)
+I 42% OF H|V+ referred to ART
+I 58% received CTX
+
+PMTCT
+
+CHAI and other care partners have recently participated with the MOH in revising the PMTCT
+guidelines. We have indicated our desire to provide assistance to implement the PMTCT
+programme as outlined by the MOH guidelines. The Ministry is very supportive and hopes
+CHAI can provide support in one or more districts to demonstrate that a highly successful,
+sustained effort is possible. CHAI is preparing a proposal to support PMTCT as the MOH has
+requested.
+
+In addition, Partners In Health (PIH) is working with the MOH on a proposal for the Neno
+District where they hope to pursue a PMTCT effort. In Neno, PIH is CHAI’s and CHDI’s
+clinical implementation partner. Here, they support the DHO in delivering comprehensive
+health care that includes significant community-based care using village health workers.
+Once they have agreement with MOH on their programme, CHAI may seek financial support
+to contribute to their efforts.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 50 of 53
+
+Appendix 13: CHAI MALAWI ORGANIZATION
+
+CHAI MALAWI ORGANIZATION
+MAY 2008
+
+ 
+
+Peter Ellis
+Director of Health
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| |
+Veronica ChinNa Ewa Skowronska MD Alex Mwase
+Manager Lab Manager Paediatric Procurement
+Services Programmes Specialist
+Margie Ellis Andrews Gunda
+Manager PMTCT — — Manager Nutrition
+Programmes Programmes
+|
+Yuweni Chipatali
+CHAI/CHDI SHARED RESOURCES _ District Nutrition
+- Office Administrator Coordinator
+- Finance Manager and Assistant Mwanza/Neno
+- Logistics Associate
+- 4 Drivers Linley Luwayo
+- Office Cleaners & Services _ District Nutrition
+- Gardener Coordinator
+- Office, Furniture, and Equipment Mwanza/Neno
+- Guest House
+° vehICIes Stanslous Mawanga
+- Rent, Telecom, Utilities, Office _ Data Clerk
+Supplies Nutrition Programme
+- Guard Service (G4 Security)
+- Other overhead costs
+
+ 
+
+ 
+
+ 
+
+NOTE: Clinton Foundation-Malawi resources for other programmes will be used extensively
+to support the PMTCT initiative.
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization Page 51 of 53
+
+Appendix 14: CARE PARTNERS
+
+At the request of the MOH CHAI has targeted for this project a focal area that is currently
+almost without direct NGO presence. In order to scale up the national PMTCT programme
+the GOM works closely with all implementing partners including CHAI. CHAI, together with
+other care partners, has been actively involved in the PMTCT and Paediatric HIV Sub-Group
+Committee, as well as the Technical Working Group. All of these partners played key roles
+in assisting the MOH in developing and finalizing the 2008 PMTCT Guidelines. Since PMTCT
+services in one district cannot be isolated from the services provided nationally CHAI will
+collaborate, on various levels, with several of the following partners:
+
+ 
+
+Care Partner
+
+Activity/ Expertise/ Assistance
+
+ 
+
+Baylor (Bl PAI)
+
+Member of MOH PMTCT Technical Working Group
+Member of PMTCT & Paediatric Care Sub-Group
+
+Member of El D Programme Sub Group
+Source of clinical expertise
+
+ 
+
+BRI DGE
+
+Development of IEC materials
+Expertise in IEC — community mobilization
+
+ 
+
+DI GNI TAS
+
+Member of HIV Health Sector Forum
+MOU with CHAI Malawi
+
+Expertise in all aspects of CHW — training and
+
+operations
+Clinical expertise
+
+ 
+
+DREAM Project
+(St. Egidio)
+
+Clinical: HIV patient care and treatment
+World-class lab facilities & diagnostics
+
+100% Patient follow-up (Community “Activists”)
+
+ 
+
+FHI
+
+Member of MOH PMTCT Technical Working Group
+Member of PMTCT & Paediatric Care Sub-Group
+
+Member of El D Programme Sub Group
+
+ 
+
+M2M
+
+Member of PMTCT & Paediatric Care Sub-Group
+
+ 
+
+PIH
+
+Member of PMTCT & Paediatric Care Sub-Group
+
+CHAI clinical partner in Neno District
+
+ 
+
+UNFP
+
+Member of PMTCT & Paediatric Care Sub-Group
+
+ 
+
+UNICEF
+
+Member of MOH PMTCT Technical Working Group
+Member of PMTCT & Paediatric Care Sub-Group
+
+Member of El D Programme Sub Group
+Procures ART Drugs & Diagnostics
+
+ 
+
+WHO
+
+ 
+
+ 
+
+Member of MOH PMTCT Technical Working Group
+Member of PMTCT & Paediatric Care Sub-Group
+
+Member of El D Programme Sub Group
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 52 of 53
+
+Appendix 15: ABBREVIATIONS
+
+ 
+
+ 
+
+AFASS
+ANC
+ARV(s)
+ART
+AZT
+CD4
+CHAI
+CHDI
+CHW
+CPT
+CTC
+d4T
+DBS
+DNA PCR
+El D
+FDA
+FP
+GFATM
+GOM
+HAART
+HBC
+ch
+HIV
+HIV+ / HIV-
+HCT
+HF
+
+HR
+HRH
+L&D
+LTFU
+MCH
+M&E
+MOH
+MOU
+MTCT
+NRU
+PEPFAR
+PI H
+PLHWA
+PMTCT
+PN
+RUTF
+SAM
+sd-NVP
+STI
+TBA
+TOT
+TWG
+U5
+VCT
+WBC
+WCBA
+WHO
+
+ 
+
+Acceptable, Feasible, Affordable, Sustainable, and Safe
+Ante-Natal Clinic
+
+Antiretroviral drug(s)
+
+Antiretroviral Therapy
+
+Zidovudine
+
+Cluster of Differentiation 4
+
+Clinton Foundation HIV/AIDS Initiative
+Clinton Hunter Development Initiative
+Community Health Worker
+
+Cotrimoxazole Preventive Therapy
+Community-based Therapeutic Care
+Stavudine
+
+Dried Blood Spot
+
+Deoxyribonucleic Acid Polymerase Chain Reaction
+Early Infant Diagnosis
+
+Food & Drug Administration
+
+Family Planning
+
+Global Fund to Fight AIDS, Tuberculosis and Malaria
+Government of Malawi
+
+Highly Active Antiretroviral Therapy
+Home-Based Care
+
+Health Care Worker
+
+Human Immunodeficiency Virus
+
+HIV Positive / HIV Negative
+
+HIV Counselling & Testing
+
+Health Facility
+
+Human Resources
+
+Human Resources for Health
+
+Labour & Delivery
+
+Lost to Follow Up
+
+Maternal and Child Health
+
+Monitoring and Evaluation
+
+Ministry of Health
+
+Memorandum of Understanding
+
+Mother to Child Transmission (of HIV)
+Nutritional Rehabilitation Unit
+
+President's Emergency Plan for AIDS Relief
+Partners In Health
+
+People Living With HIV/AIDS
+
+Prevention of Mother-To-Child Transmission (of HIV)
+Post Natal
+
+Ready-to-use Therapeutic Food
+
+Severe Acute Malnutrition
+
+Single Dose Nevirapine
+
+Sexually Transmitted Infection
+
+Traditional Birth Attendant
+
+Trainings of Trainers
+
+Technical Working Group
+
+Under Five (Clinic)
+
+Voluntary Counseling and Testing (Replaced by HCT)
+Whole Blood Count
+
+Women of Child Bearing Age
+
+World Health Organization
+
+ 
+
+ 
+
+27 May 2008 — Not For Distribution Outside Recipient’s Organization
+
+Page 53 of 53
+

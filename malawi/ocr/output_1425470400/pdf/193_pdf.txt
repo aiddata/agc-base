@@ -1,0 +1,5813 @@
+ 
+
+ 
+
+GOVERNMENT OF MALAWI
+
+UNITED NATIONS DEVELOPMENT PROGRAMME
+
+Programme Title: Democracy Consolidation Programme Phase II
+
+Summary
+
+The GoM/UNDP Second Country Cooperation Framework (CCF) for the period 2002
+to 2006 is designed to directly assist Government’s poverty reduction initiatives as
+outlined in the Malawi Poverty Reduction Strategy Paper (MPRSP) launched on 24th
+April 2002 whose goal is sustainable poverty reduction through socio—economic and
+political empowerment of the poor. Good Governance has been identified as one of
+the four pillars of the MPRSP with the overall objective of ensuring that public
+institutions and systems protect and benefit the poor. The MPRSP also recognises
+that at the heart of good governance is a vibrant and sustainable democracy. The
+Democracy Consolidation Programme Phase II aims, therefore, at contributing to the
+MPRSP and the Malawi Vision 2020 by ensuring that women, men, boys and girls
+have been empowered to promote, protect and defend human rights and that there is
+a demonstrated increase in civil society participation in the democratic development
+processes. its objectives are to support the strengthening of institutional structures
+and systems related to democracy and to support civic education for civil society
+empowerment. DCP will have four main areas of focus, namely:— civic education on
+governance; legal reform and administration of justice; parliamentary and political
+institutional strengthening and; programme management capacity building. Through
+this Programme, it is expected that by 2007, more Malawians will be capable of
+exercising their rights and responsibilities and making informed choices; access to
+justice will have been rationalised; mutual trust between government and civil society
+organisations will have increased and co-ordination and management of governance
+supported activities will have improved leading to better impact.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F
+
+Acronyms
+
+ADR
+CBO
+CILIC
+CSO
+DCP
+DCP I
+DCP 11
+DSPC
+EC
+GoM
+IMCHRD
+IRC
+
+IT
+MACRA
+MASSAJ
+MHRC
+MoU
+MP
+MPRS
+MTEF
+NEX
+NGO
+NORAD
+OPC
+PAC
+PAP
+PSC
+PSD
+SWET
+UDF
+UNDP
+
+Alternative Dispute Resolution
+
+Community Based Organization
+
+Civil Liberties Committee
+
+Civil Society Organization
+
+Democracy Consolidation Programme
+Democracy Consolidation Programme Phase I
+Democracy Consolidation Programme Phase 11
+Deputy Secretary to the President and Cabinet
+Electoral Commission
+
+Government of Malawi
+
+Inter-Ministerial Committee on Human Rights and Democracy
+Industrial Relations Court
+
+Information Technology
+
+Malawi Communications Regulatory Authority
+Malawi Safety, Security and Access to Justice
+Malawi Human Rights Commission
+Memorandum of Understanding
+
+Member of Parliament
+
+Malawi Poverty Reduction Strategy
+Medium-Term Expenditure Framework
+National Execution Support Unit
+Non-Governmental Organization
+
+Norwegian Agency for Development Cooperation
+Ofﬁce of the President and Cabinet
+
+Public Affairs Committee
+
+Poverty Alleviation Programme
+
+Programme Steering Committee
+
+Programme Support Document
+
+Story Workshop Educational Trust
+
+United Democratic Front
+
+United Nations Development Programme
+
+ 
+
+>(j‘-l
+
+1.
+
+TABLE OF CONTENTS
+INTRODUCTION ............................................................................................. ..4
+1.1 Situation Analysis .......................................................................................... .. 4
+1.1.1 Fragile and Fragmented Civil Society ............................................ .. 4
+1.1.2 Inadequate Transparency and Accountability ..................................... .. 5
+1.1.3 Slow Democratization Process ........................................................ .. 5
+1.1.4 Limited Observance and Enforcement of Human Rights .................... .. 6
+1.1.5 Inadequate adherence to the Rule of Law ............................................ .. 6
+1.2 Democracy Consolidation Programme Phase I (DCP I) .................................... .. 6
+1.2.1 Background ......................................................................................... .. 6
+1.2.2 Areas of Focus ..................................................................................... .. 7
+1.2.3 Organizational Structure ..................................................................... .. 7
+1.2.4 Reviews and Evaluations ..................................................................... .. 8
+1.2.5 Financing Mechanism .......................................................................... .. 9
+1.3 Other Programmes/Projects in the Area of Governance .................................... .. 9
+1.4 Development Process for the Programme Support Document for DCP II ........... .. 9
+1.4.1 Draft Programme Support Document Proposal .................................. .. 9
+1.4.2 Appraisal of the Draft Programme Support Document ..................... .. 10
+1.4.3 Stakeholders Consultative Workshop ................................................ .. ﬁll
+THE DEMOCRACY CONSOLIDATION PROGRAMME PHASE II ........ ..12
+2.1 STRATEGY ................................................................................................ .. 12
+2.2 PROGRAMME ELEMENTS ....................................................................... .. 12
+2.2.1 Programme Goal ................................................................................ .. 12
+2.2.2 Main Programme Components .......................................................... .. 13
+2.2.2.1 Civic Education on Governance ....................................................... .. 13
+2.2.2.2 Legal Reform and Administration of Justice ..................................... .. 14
+2.2.2.3 Parliamentary and Political Institutional Strengthening ...................... .. 15
+2.2.2.4 Programme Management Capacity Building ..................................... .. 16
+2.2.3 Programme Results and Resource Requirements Framework..... 17
+2.2.3.1 Civic Education on Governance ......................................................... .. 17
+2.2.3.2 Legal Reform and Administration of Justice ........................................ .. 23
+2.2.3.3 Parliamentary and Political Institutional Strengthening ......................... .. 25
+2.2.3.4 Programme Management Capacity Building ........................................ .. 27
+2.3 PROGRAMME MANAGEMENT/IMPLEMENTATION ARRANGEMENTS  30
+2.3.1 Organisational Structure .............................................................. .. 30
+2.4 ACTIVITY PLANNING, MONITORING AND EVALUATION ........... .. 31
+2.5 RISKS ......................................................................................................... .. 32
+2.6 GUIDING PRINCIPLES FOR PLANNING AND IMPLEMENTATION ............ .. 33
+2.7 PROGRAMME INPUTS ............................................................................. .. 34
+2.7.1 Short-term International Consultants .............................................. .. 34
+2.7.2 National Experts/professional Personnel ........................................... .. 34
+2.7.3 National Consultants ......................................................................... .. 34
+2.7.4 Sub-contracts ..................................................................................... .. 35
+2.7.5 Administrative support personnel ..................................................... .. 35
+2.7.6 Volunteer Staff .................................................................................. .. 35
+2.7.7 Training ............................................................................................. .. 35
+2.7.8 Monitoring and Evaluation ............................................................... .. 36
+2.7.9 Equipment and Supplies .................................................................... .. 36
+2.7.10 Operations and Maintenance ......................................................... .. 36
+
+(“J
+
+ 
+
+2.8 PROGRAMME BUDGET .......................................................................... .. 36
+
+2.9 FINANCIAL ISSUES .................................................................................. .. 36
+2.9.1 Funding ............................................................................................. .. 36
+2.9.2 Accounting ........................................................................................ .. 38
+2.9.3 Auditing ............................................................................................. .. 38
+
+2.10 SUSTAINABILITY ASSESSMENT ......................................................... .. 38
+2.10.1 Policy Support Measures ................................................................ .. 39
+2.10.2 Economic Issues ............................................................................. .. 39
+2.10.3 Institutional Issues ......................................................................... .. 39
+2.10.4 Social-cultural Issues ...................................................................... .. 39
+2.10.5 Technological Issues ....................................................................... .. 39
+
+2.11 LEGAL FRAMEWORK ......................................................................... .. 40
+
+ANNEXES
+
+Annex I Main Objectives and Summary of Achievements for DCP I
+Annex II Graphic Representation of the Current Structure of the DCP
+Annex HI Other Programmes/projects in the Area of Governance
+Annex IV Concerns Emerging from Consultations with Stakeholders
+Annex V Appraisal Report’s Conclusions and Recommendations
+Annex VI Past Lessons Learnt and Opportunities for Govemance/Democracy
+
+Consolidation
+Annex VH Agreement Letter between UNDP and GOM on Support Services
+Annex VH1 List of Stakeholder Consultative Workshop Participants
+Annex IX Terms of Reference
+Annex X Programme Operations Plan
+
+ 
+
+ 
+
+1. INTRODUCTION
+
+1.1 Situation Analysis
+
+The Malawi Vision 2020 has identiﬁed good governance, with attendant transparency,
+accountability and fairness, as one of the core challenges facing Malawi. The aspirations of
+Malawians, as expressed in the Vision, emphasize the need for promoting and sustaining a
+democratic culture that allows for equal political participation, devoid of corruption,
+regionalism and nepotism]. In 2002, Malawi developed a Malawi Poverty Reduction
+Strategy Paper (MPRSP). Within it, good governance is one of the four pillars developed
+to address poverty in the country. The focus, in MPRSP, on improving development—
+oriented governance is a recognition of the importance of good governance in development
+management. Good governance in MPRSP is deﬁned as consisting of three elements:
+political will and mindset, security and justice, and responsive and effective public
+institutionsz. The achievement of these three elements is key in setting the enabling
+environment for the efﬁcient and effective implementation of strategies for pro—poor
+growth, human capital development and safety nets, which constitute the other three pillars
+of the MPRSP. The Democracy Consolidation Programme Phase II (DCP 11) has been
+designed to respond to the democratisation challenges identiﬁed in Vision 2020 and the
+MPRSP, which are the major national policy frameworks for the promotion of poverty
+reduction through good governance.
+
+While the Government has initiated and implemented a number of reform
+projects/programmes to promote democracy, good governance and public sector
+efﬁciency, Malawi still faces enormous challenges in her democratic transition. A review
+of past and present governance policies brings out a number of policy, institutional and
+operational challenges and opportunities affecting Malawi’s governance system. Firstly,
+most of the reform initiatives are currently loosely co—ordinated and poorly resourced both
+from the human and ﬁnancial perspectives. There are several structures and institutions
+that have overlapping reform activities but having the potential for rationalisation.
+Secondly, the key provisions of the Constitution have not yet been fully translated into
+actionable plans and programmes that can reinforce the evolving governance system.
+Thirdly, corruption is growing in most of the sectors of the economy. Fourt'hly, democratic
+participation is yet to be fully institutionalised as exempliﬁed by tendencies to politicise
+development and promotion of actions that are likely to lead to national disunity. Finally,
+there are also concerns about Government’s leadership and stakeholder involvement in the
+governance process. These and the following speciﬁc challenges and opportunities (see
+also Annex VI), as also identiﬁed in the MPRSP, call for government and civil society
+action.
+
+1.1.1 Fragile and Fragmented Civil Society
+
+The enormous task implicit in promoting and consolidating democracy cannot be
+undertaken in isolation by government. The area of governance requires broad
+participation from all stakeholders i.e. government and civil society (in this document
+civil society means the wider citizenry and includes NGOs, religious organizations,
+trade unions, professional organizations, community-based organizations, academic
+institutions, traditional leaders, business and private sector, women, men, youth and
+children, social and political organizations/parties and pressure groups), based on a
+clear understanding of division of roles and responsibilities. Consequently, civil society
+
+ 
+
+: Government of Malawi — Vision 2020, March, 1998
+Malawi Poverty Reduction Strategy Paper, April, 2002
+
+ 
+
+participation in ensuring good governance is indispensable. In Malawi, the history of
+indigenous Civil Society Organizations (CSOs) dates back to the early nineties. They
+are, therefore, an emerging sector with limited capacity to engage government on
+behalf of civil society. The sector lacks both institutional and financial capacity and has
+a weak legal basis. The work plans of CSOs tend to be event driven, resulting in
+duplication of efforts in that different organizations end up implementing similar
+activities in the same geographical locations, while other areas are completely left out.
+These problems are worsened by the lack of networking, operational cooperation and a
+common forum for dialogue.
+
+Despite all the above problems, CSOs still provide a mechanism for government/civil
+society dialogue. There is, therefore, great need to develop their capacities to enable
+them effectively and efficiently carry out their mandate.
+
+1.1.2 Inadequate Transparency and Accountability
+
+The adoption and implementation of policies and legislation aimed at achieving the goal of
+public trust and good governance is hampered by inadequate capacity in the public sector
+to implement measures which will guarantee accountability, transparency, personal
+integrity and ﬁnancial probity which, by virtue of their demonstrated effectiveness, will
+strengthen conﬁdence in public institutions. The combination of centralised decision-
+making and young democratic institutions has weakened the socio—economic and political
+link between the government and the public in general. The consequences of weak and
+poorly funded public institutions are corruption and lack of transparency and
+accountability which have started to become endemic in Malawi, as frequently reported by
+the media. Checks and balances exist for holding public servants accountable for their
+actions. But due to institutional capacity constraints, institutions such as the Judiciary, the
+Legislature, the Ombudsman, the Anti-Corruption Bureau and other civil society watchdog
+organizations can only, at best, operate imperfectly. At present, the public is unable to
+effectively monitor capacities at all levels of society to enforce accountability and
+transparency.
+
+1.1.3 Slow Democratization Process
+
+While the Malawi Constitution provides for a level playing ﬁeld in political participation,
+there is low or inequitable political involvement in practice. Generally, there is low
+involvement, especially by vulnerable groups, in decision-making caused by lack of
+structures, mechanisms and processes that would facilitate their effective participation.
+The problem is aggravated by inadequate civic education, poor access to information, high
+illiteracy rates, discrimination and political, racial, regional and ethnic intolerance.
+
+The emergence of democracy as well as administrative restructuring has brought forward a
+demand for the involvement of civil society in the governance process. This has emerged
+partly as an offspring from political pluralism and partly in response to Government’s
+restructuring policy and the call for broad participation in the governance process.
+However, participation is hampered by the failure of public institutions to provide
+information, lack of a forum for dialogue on national affairs and limited awareness for
+engaging civil society in national decision—making processes. This results in Jack of
+debate on national issues and raises apathy as citizens, especially the poor, experience
+frustration when they cannot perceive their inﬂuence over public policy.
+
+In terms of capacity to manage the democratic transition process, the institutions charged
+with the task of managing the transition from a one-party, highly centralised government to
+a pluralistic and decentralised system of governance reveal a number of systemic
+
+ 
+
+ 
+
+problems. The core problem is weakness in the management capacity of these institutions
+and structures. As a result, while there exist legal frameworks for people to participate in
+national affairs and for the promotion and protection of the rule of law and human rights,
+the operational frameworks have not been developed to guide activities in these areas. An
+important consequence has been the gradual erosion of due process in upholding the
+principles and values enshrined in the Constitution, such as separation of powers in the
+conduct of government business and social justice.
+
+1.1.4 Limited Observance and Enforcement of Human Rights
+Since the advent of the new political dispensation, Malawi's human rights record has
+improved signiﬁcantly. However, there is still limited observance and enforcement of
+human rights principles. Issues of human rights have not yet taken centre stage and this is
+because of:
+
+(a) Inadequate knowledge on rights and responsibilities at all levels;
+
+(b) Conﬂict between customary practices and the Bill of Rights;
+
+(c) Low level of professional skills in human rights and law enforcement institutions;
+
+(d) Inadequate systems and mechanisms to monitor human rights violations; and
+
+(e) Insufﬁcient ﬁnancial and material resources for operations.
+
+Due to limited enforcement of human rights, especially the right to development.
+Government has not been successful in realising its stated intentions of reducing poverty.
+As a result there has not been equity of development opportunities for all, especially the
+poor and other vulnerable groups.
+
+1.1.5 Inadequate adherence to the Rule of Law
+
+Democracy thrives on the observance of the rule of law, and Malawi has made some
+positive progress in this regard. However, there is still inadequate separation of powers.
+For example the Executive, the single most powerful agency of state, could do more to
+make the other branches of government realise their full potential.
+
+The following are barriers to promotion of the rule of law:
+(a) Weak institutional capacity for judicial and legislative branches of government;
+(b) Lack of access to justice by the majority especially vulnerable groups;
+(c) Inadequate human resource skills within the justice delivery system;
+(d) Insufﬁcient ﬁnancial provisions;
+(e) Negative public perception of the due process of the law;
+(i) Weak linkages among key players in the justice delivery system; and
+(g) Corruption in the administration and application of the law.
+
+1.2 Democracy Consolidation Programme Phase I (DCP 1)
+
+1.2.1 Background
+
+Malawi was a one party dictatorship up to 1994 when the first multiparty democratic
+elections were held. Following the success of these elections, a new democratic
+Constitution was adopted in its ﬁnal form in 1995. The Constitution guarantees all civil,
+cultural, economic, political and social rights, which are stipulated in international human
+rights instruments. Government policy on political liberalization and democratisation is
+guided by the Constitutional framework and supported by speciﬁc policies. Since 1994,
+there has been continued progress in the consolidation of the fundamental transformation
+that was introduced by multiparty democracy. In 1995, the Government established an
+Inter—Ministerial Committee on Human Rights and Democracy (IMCHRD) as the body
+
+ 
+
+entrusted to coordinate the implementation of the National Plan of Action in the ﬁeld of
+human rights and other governance initiatives. In October 1997. the Democracy
+Consolidation Programme Phase I (DCP I) was established as an outcome of an agreement
+reached between the Government of Malawi (GoM) and the United Nations Development
+Programme (UNDP). The objective of this programme was to enhance the capacity of the
+GoM, constitutional bodies and C805 to plan and manage governance programmes with a
+view to building an open society governed by democratic rules and principles. Under the
+agreement, UNDP’s role was to coordinate donor support to the programme, while
+IMCHRD was the implementing body, charged with the responsibility to ensure efficient
+management of programmes, resources and the provision of national coordination and
+leadership of the programme.
+
+The programme was successful in attracting support from Malawi's other development
+partners such as Norway being the lead ﬁnancial donor, Finland, Japan and the
+Netherlands. DCP I will terminate in July, 2002. By the programme’s end, approximately
+US$7 million will have been spent.
+
+1.2.2 Areas of Focus
+
+From its inception ﬁve years ago, DCP I has served as a focal point for facilitating the
+consolidation of the democratic process by supporting broad-based capacity building in the
+following ﬁve areas of focus:
+
+(a) Civic Education on Human Rights
+
+(b) Conduct of Free and Fair Elections
+
+(c) Parliamentary Mechanisms
+
+((1) Legal Reform and Administration of Justice
+(e) Programme Management Capacity.
+
+The main objectives and summary of achievements for DCP I are presented in Annex 1.
+
+1.2.3 Organizational Structure
+
+The organizational structure of DCP I places the IMCHRD at the top of the structure. The
+IMCHRD exercises leadership, plays a coordination role and has legal ownership of the
+Programme. It also has the policy formulation responsibility and provides a forum for
+wide consultation. It is mainly a Committee of Principal Secretaries and is chaired by the
+Deputy Secretary to the President and Cabinet (DSPC). The Committee draws its
+membership from selected line Ministries and Constitutional Bodies. including the
+Parliament. UNDP represents the development partners involved in the programme, as an
+observer.
+
+Immediately below the IMCHRD is the Technical Committee whose main task is, inter
+alia, assessing. appraising, vetting and approving project proposals to be supported by the
+Programme.
+
+At an operational level, task forces were to be established for each strategic area of focus
+to manage the activities and operations of the programme, such as planning,
+implementation and budget reviews. The task forces were never established.
+
+Both the IMCHRD and the Technical Committee are supported by a Secretariat,
+established under DCP I, which provides logistical and operational support. The
+Secretariat is. among other things, responsible for budgeting, planning. implementation and
+
+ 
+
+monitoring of programme activities. A graphic representation of the DCP 1 national
+coordination structure is attached hereto and marked Annex 11.
+
+1.2.4 Reviews and Evaluations
+In May 2000, a Mid—term Evaluation of DCP I was carried out by a team of three
+Consultants, whose ﬁndings highlighted the following weaknesses:
+
+o "IMCHRD is not equipped to play a policy—making role due to inadequate
+communication between the Ministries, as well as a lack of adequate resources for
+supportive inputs.
+
+0 Beneﬁciaries in Civil Society do not fully comprehend the mechanisms and linkages
+that are prevalent within IMCHRD. This often causes suspicion and acrimony,
+especially when requests for funding are rejected.
+
+0 The Technical Committee did not have the requisite capacity to monitor the
+performance of funded projects.
+
+0 Assessment of proposals was limited to one pre-funding phase. The lack of monitoring
+prevented timeous corrective guidance to prevent imminent failures.
+
+0 Task force meetings did not take place. This was due to the enormous amount of time
+and resources that would have been required for regular meetings, thus no professional
+input or expertise was provided.
+
+0 There was lack of civil society participation in decision-making, due to the lack of
+funds to hold annual stakeholder meetings." 3
+
+The ﬁndings of the Mid—term Evaluation led to the commissioning of a study to develop a
+proposal for an “Integrated framework for capacity building for governance ami
+democracy consolidation”. The general objective of the study was to develop an
+integrated framework for a holistic approach to capacity building for governance and
+refocus these into a more comprehensive proposal for a national programme.
+
+The study made the following observations and recommendations over and above those of
+the Mid-term Evaluation, which are considered relevant for the DCP concept:
+
+0 "Not all ministries are represented in IMCHRD thereby making the effort not
+holistic in nature.
+
+0 Government leadership and coordination of the programme should continue
+because government has a constitutional mandate for that role.
+
+0 The ownership of the programme should be broadened by bringing in
+representatives of other stakeholders in the area of governance from all sectors of
+the Malawian society.
+
+0 IMCHRD should be replaced by a National Committee on Governance and
+Democracy Consolidation.
+
+0 The Committee is to continue acting as a consultative forum for policy formulation
+and advisor to the Programme Secretariat.
+
+0 The Secretariat should be turned into a Programme Office. with more powers in
+programme implementation.
+
+0 The basket funding mechanism administered by the UNDP should be retained." 4
+
+ 
+
+:Mid-term Evaluation of the Democracy Consolidation Programme, May, 2000
+An integrated F rameworkfor Capacity Building for Governance. and Democracy Consolidation study
+commissioned by 1M CHRD and carried out by Wiseman C. Ch irwa
+
+ 
+
+In the same vein, the Technical Committee was to be restructured to include
+representatives of all stakeholders in the governance area.
+
+1.2.5 Financing Mechanism
+
+DCP I is ﬁnanced through a basket fund arrangement administered by UNDP, which is
+also responsible for resource mobilization. The Governments of Norway. Finland.
+Netherlands and Japan together with UNDP, basket funded the programme activities.
+
+On the other hand, the IMCHRD is responsible for implementation of project activities and
+disbursement of project funds to beneﬁciaries. Project implementation is subcontracted to
+Government departments, Constitutional Bodies and C805. The IMCHRD is responsible
+for sourcing quarterly funding allocations from UNDP for onward transmission to project
+implementing institutions. The implementing institutions are required to submit periodic
+and end of project ﬁnancial statements and project implementation reports to the IMCHRD
+which, in turn, submits its quarterly expenditure returns and activity reports to the UNDP.
+
+1.3 Other Programmes/Projects in the Area of Governance
+
+There are a number of other programmes and projects in the area of governance. which are
+
+natural cooperation partners for DCP. Of particular importance and interest are the
+
+following:
+
+0 Poverty Alleviation Programme (PAP), which deals with reduction of the percentage of
+the poorest of the poor.
+
+0 Poverty Reduction Strategy Paper, which is a national strategy for reducing poverty
+levels.
+
+0 Decentralised Governance Programme, which deals with the devolution of power,
+functions and responsibilities from central to local governments and strengthening
+local economic governance.
+
+0 Civil Service Reform (CSR), which seeks to improve efficiency and effectiveness of
+the civil service in the delivery of public goods and services.
+
+0 Public Sector Management Reform, which is aimed at improving the quality of the
+public service and economic governance.
+
+0 The MASSAJ programme, which, inter alia, is addressing public safety. security and
+empowerment of local communities.
+
+The DCP will therefore strengthen complementarities with these Programmes and other
+new activities approved for implementation through annual broad-based reporting on the
+state of governance and democracy consolidation in the country. This will cover reporting
+on democratisation and economic governance.
+
+Annex 111 contains details of other Programmes/Projects in the area of Governance.
+
+1.4 Development Process for the Programme Support Document for DCP 11
+
+The process leading up to the formulation of the DCP II PSD was highly consultative
+and participatory. It covered ﬁve critical phases, including the Mid—term Evaluation
+and the development of an Integrated Framework for Capacity Building for
+Governance and Democracy described earlier. The other three stages are described
+below.
+
+1.4.1 Draft Programme Support Document Proposal
+In May 2001, a national consultant was engaged to develop a PSD for DCP II. The chosen
+approach for formulating the document was participatory, covering wide scale
+
+ 
+
+consultations with a cross section of the society. It also relied on ﬁndings from the Mid-
+term evaluation and the study on “An integrated framework for capacity building for
+governance and democracy consolidation”. Extensive cross-sectoral consultations
+revealed substantial anxieties that underlie public perceptions of the democracy
+consolidation process. Such anxieties, which are dealt with in some detail in Annex IV,
+cover the following issues of particular relevance to DCP:
+
+0 Inadequate Civil Society Participation, with particular reference to the necessary
+involvement of the Civil Society in public policy formulation.
+
+0 Public Scepticism, particularly referring to a registered “deep distrust. cynicism and a
+growing acrimonious feeling between Constituents and their Members of Parliament,
+the Legislature and the Executive Branch, Civil Society and the State”;
+
+0 Fear of Concentration of Powers, referring in particular to the “alarming
+accumulation of power by the executive arm of Government";
+
+0 Political Intolerance, discussing the problem of inter and intra~party violence,
+intimidation and harassment of media practitioners etc.;
+
+0 Inadequacies of Political Parties, discussing the problems of weak leadership and
+unclear ideological base, which is seen to have an adverse impact on behaviour and
+performance;
+
+0 Blurring of lines between Party and Governmental Roles, referring to the inability
+or unwillingness to draw a line between party and government roles and
+responsibilities;
+
+Corruption, perceived to be occurring at all levels of society;
+Social and Economic Development, discussing the adverse impact of the current
+reforms in economic liberalization and privatisation of statutory corporations;
+
+0 Fragile Democratic Culture, addressing the institutional and organisational
+weaknesses of the present political structures and the economic. social, ethnic and
+religious features impinging on them.
+
+0 Lack of Management Capacity and Financial Accountability; which creates
+misconceptions leading to erosion of public trust;
+
+0 Decentralisation, addressing the need for improved relations and trust between central
+and local governments, MPs and Councillors
+
+1.4.2 Appraisal of the Draft Programme Support Document
+An exercise to appraise the draft PSD for DCP 11 was carried out in November 2001. A,
+team of four (4) local and international consultants carried out the appraisal.
+
+The Appraisal Team made the following main observations and recommendations:
+
+i) The programme focus needed to be redesigned; its operational mode needs more
+coordination and information-sharing within the whole ﬁeld of democracy
+consolidation and there is a need to focus more on empowerment of the civil society;
+
+ii) In view of other donor-supported efforts in the area of governance, DCP 11 should
+have two major objectives, i.e.
+
+o empowerment of the civil society, in an effort to empower people from below in
+such a way that the political system and society in general could develop a more
+democratic structure;
+
+0 facilitation of democratic development in society, i.e. building capacity for
+information and knowledge—sharing and facilitation of different initiatives in the
+ﬁeld of governance. This should inter alia include establishment of a data bank
+of governance initiatives;"
+
+10
+
+ 
+
+ 
+
+The Appraisal also made the following proposals:
+
+0 Recognising that the present organizational set-up has major weaknesses, the
+organisational structure be simpliﬁed, including the abolition of the Technical
+Committee, the introduction of a Stakeholder consultative forum and the
+strengthening of the Programme Ofﬁce. The main argument being that the
+Technical Committee does not appear to be a feasible mechanism for assessing
+and deciding on project proposals;
+
+0 A Stakeholder Consultative Forum should be established to assist in ensuring
+commitment among stakeholders;
+
+o The Programme Ofﬁce should be given the authority to run the Programme
+within guidelines and regulations given by the Steering Committee;
+
+0 The current ﬁnancing mechanism, with the basket funding arrangement
+administered by UNDP, should be retained. However, UNDP’s capacity to
+manage the fund should be strengthened. "5
+
+The proposals and recommendations of the Appraisal Report are a refinement of the
+recommendations of the draft PSD, Mid-term Evaluation and the study on “Integrated
+Framework for Capacity Building for Governance and Democracy Consolidation.”
+
+The Appraisal Report’s Chapter 6, Conclusions and Recommendations. is attached as
+Annex V.
+
+1.4.3 Stakeholders Consultative Workshop
+
+In February 2002, a Stakeholders’ Consultative Workshop was held at Ku Chawe Inn,
+Zomba, with the facilitation of an international consultant. The Workshop drew
+participants from the Government, civil society, constitutional bodies, UNDP and the
+Programme Ofﬁce.
+
+The Workshop was convened to develop a log frame for DCP II and to further enrich the
+process, in view of the stakeholders earlier inputs to the draft PSD and the appraisal
+exercise. The forum also sought to ensure stakeholder participation at every stage of the
+process to achieve the much-needed broad ownership of the programme. The Stakeholders
+workshop agreed with all recommendations of the appraisal and used them to deﬁne the
+areas of focus for DCP 11. The list of workshop participants is attached as Annex VI.
+
+The workshop also revealed that the DCP will be expected to contribute to:
+
+Free and fair elections
+
+Substantial reduction in crime rate
+
+Understanding and adherence by all Malawians to the principles of human rights and
+the rule of law
+
+A Vibrant human rights culture
+
+Reduction in unemployment
+
+Reduction in misappropriation of public funds.
+
+Reduction in discrimination and intolerance based on gender, ethnicity, political
+afﬁliations, etc
+
+Following the Stakeholders Consultative Workshop, a drafting team for the PSD for DCP
+II was commissioned. Its task was to ﬁnalise the PSD, in accordance with stakeholder
+recommendations and UNDP guidelines.
+
+ 
+
+5 PSD Appraisal Report of November 2001
+
+ll
+
+ 
+
+2. THE DEMOCRACY CONSOLIDATION PROGRAMME PHASE II
+
+2.1 STRATEGY
+
+The Government of Malawi has decided to implement, in line with the Second CCF and
+the MPRSP, to develop and implement the second phase of the DCP with particular focus
+on capacity building for public participation in and civic education on the promotion and
+sustenance of a democratic culture at all levels of society. This will, entail putting emphasis
+on the involvement of civil society in the process of consolidating the current democratic
+governance system. It will also involve building capacity of core governance institutions to
+fulﬁl their legal and constitutional mandates to promote, protect and defend the democratic
+values enshrined in the Constitution.
+
+In addition, DCP II will address institutional capacity requirements for strengthening co—
+ordination and information sharing within the whole field of democracy-building and good
+governance. There are many projects either in operation or in the process of preparation in
+the areas of governance and democracy, which call for better co—ordination. This
+Programme will be the locus for the development of a holistic View of democracy and e-
+governance, providing information about on-going activities, linking those that would
+beneﬁt from closer co-operation and facilitating a more coherent approach to the whole
+ﬁeld of democracy capacity building.
+
+DCP 11 is planned for a five—year period (2002 — 2007) and will consist of three main
+interrelated thematic components namely;
+
+(a) Civic Education on Governance,
+(b) Legal Reform and Administration of Justice, and
+(c) Parliamentary and Political Institutional Strengthening.
+
+Each component will have distinct sub—projects and activities implemented by designated
+governmental or non—governmental organizations. The outputs of these sub-projects will be
+expected to directly contribute to the attainment of programme objectives. Cutting across
+the three thematic components above is the component on Programme Management
+Capacity Building whose aim will be to develop and strengthen systems, mechanisms and
+processes for programme implementation.
+
+The consultative workshop developed a comprehensive Programme Results and Resource
+Requirements Framework Matrix, whose elements are described below in Section 2.2.4.
+The Matrix will form the basis for the development, by the Programme Ofﬁce, of detailed
+activity and action plans, as well as a Programme Operation Plan to guide the
+implementation of the Programme.
+
+2.2 PROGRAMME ELEMENTS
+
+2.2.1 Programme Goal
+
+The goal of DCP 11 is a demonstrated increase in civil society empowerment and the
+facilitation of democratic development processes through institutional capacity building.
+This will contribute to the attainment of the following country’s Vision 2020: “By the year
+2020, Malawi as a God-fearing nation, will be secure, democratically mature,
+environmentally sustainable, self-reliant with equal opportunities for and active
+participation by all, having social services, vibrant cultural and religious values and a
+
+ 
+
+technologically driven middle-income economy”. DCP 11 will be one of the main
+Programmes that will operationalise Pillar 4 of the MPRSP with particular focus on the
+area of democratisation. The relationship and synergies between democratisation and other
+elements of good governance outlined in the MPRSP will be monitored throughout the
+implementation of this programme.
+
+Purpose
+The outcome indicator of the Programme is: “People have been empowered to promote,
+
+protect and defend human rights. ”
+
+2.2.2 Main Programme Components
+
+As previously stated, the Programme will comprise of four components detailed below and
+elaborated in the Programme Results and Resource Requirement Framework in Section
+2.2.4.
+
+2.2.2.1 Civic Education on Governance
+
+Outcome Indicator: Malawians are capable of exercising their rights and responsibilities,
+and making informed choices.
+
+To achieve the outcome of this component, the following Outputs are identiﬁed:
+
+1. A broad civic education programme, with appropriate baseline data and impact
+assessment guidelines, developed and implemented across the country.
+
+2. The civil society is included in governance and consolidation of democracy
+initiatives
+
+3. Partnership between Government and Civil Society organisations in policy
+formulation, programme planning, implementation, and monitoring and
+evaluation is established and implemented
+
+4. Malawians are aware of the principles and requirements of transparency and
+accountability, and are able to demand compliance
+
+5. Malawians have been sensitised on the rule of law
+
+6. An integrated Civic Education Programme for Human Rights Constitutional
+Bodies is established and implemented by the Human Rights Commission
+
+7. Malawians are sensitised on the principle of separation of powers
+
+In order to achieve the above outputs. the programme will work in partnership with local
+C503 and Constitutional human rights bodies namely, Malawi, Human Rights
+Commission, Law Commission, Ofﬁce of the Ombudsman and the Industrial Relations
+Court. These institutions will be required to develop project proposals explaining in detail
+the project to be implemented, intended outputs, areas of coverage and target groups. The
+applicants will also be expected to develop a proposed budget for the project. The projects
+will be reviewed by the Programme Ofﬁce, which will make decisions on whether or not a
+particular project should be supported. In deciding which project proposals should be
+supported, the Programme Ofﬁce will, inter alia, take into account the following factors:
+
+(a) Relevance of the project to national priorities;
+(b) Area of coverage and target groups;
+
+ 
+
+(c) Cost effectiveness of the project;
+
+((1) Implementation strategy;
+
+(e) Capacity of the applicant to implement the project; and
+(f) Previous record of the applicant in ﬁnancial management.
+
+The following assumptions are identiﬁed as pre-conditions for successful achievement of
+the Civic Education component:
+
+Govemment’s commitment to principles of democracy and good governance has been
+backed by provision of adequate ﬁnancial, material and human resources to
+governance institutions.
+
+Currently human rights constitutional bodies, just like all other Government
+institutions, are not adequately funded. This is because of prevailing budgetary
+constraints. However, some of the institutions have been able to source direct funding
+from donors to enable them carry out their mandates. Government funding of most
+governance institutions is constitutionally guaranteed.
+
+There will be an adequate number of CSOs available to address the above Outputs.
+Currently, there are a number of €805 that have capacity to implement civic education
+
+projects. It is hoped that these CSOs will continue to exist and that new ones will be
+born to supplement the efforts of the existing ones.
+
+Recent studies have revealed that there is a very wide human rights knowledge gap
+between the urban and rural citizens. Consequently, DCP 11 will place great emphasis on
+educating the rural masses that amount to over 75 % of the country’s population. The
+Programme will endeavour to ensure equitable distribution of programme activities
+throughout the country.
+
+2.2.2.2 Legal Reform and Administration of Justice
+Outcome Indicator: Access to Justice has been rationalised
+Under this component, the following outputs have been identiﬁed:
+
+1.
+
+User friendly and effective legal system in place for the expeditious
+disposal of court cases
+
+Legal reforms put in place in conformity with international human rights
+norms
+
+A formal Alternative Dispute Resolution (ADR) mechanism established
+
+In order to achieve the above outputs, the Programme will work in partnership with the
+Judiciary, Ministry of Justice, Law Commission, Civil Society. the executive and the
+legislative branches of Government. The projects will in fact be implemented by these
+stakeholders with ﬁnancial support from the Programme. The projects to be funded
+will be identiﬁed through direct consultations between the stakeholders and the
+Programme Ofﬁce.
+
+The following assumption is identiﬁed as the major condition for successful
+achievement of this component:
+
+14
+
+ 
+
+0 Cooperation from the legal institutions has been ensured
+
+The DCP will endeavour to work with CSOs and other interested individuals to lobby
+the Judiciary, Law Commission and the other stakeholders to take up the challenge to
+reform the judicial system and the laws that violate human rights. The Programme will
+also support efforts aimed at lobbying the legal system to formally recognize ADR as a
+way of reducing the case backlog faced by the Judiciary.
+
+2.2.2.3 Parliamentary and Political Institutional Strengthening
+Outcome Indicator: Mutual trust has been achieved between Government and civil society
+organizations
+
+To achieve the outcome of this component, the following outputs have been identiﬁed:
+
+1. Freedom and professionalism of the Electronic and Print Media has been
+achieved.
+
+2. Human rights courses introduced in tertiary education and professional training
+institutions for public servants especially law enforcement agencies (Police,
+Army Prisons).
+
+3. Members of Parliament more familiar with their roles in and outside Parliament
+
+In order to achieve the above outputs, the Programme will work in partnership with
+institutions within and outside the Government, e. g. Parliament, Media Council of Malawi,
+Malawi Communications Regulatory Authority (MACRA), CSOs, Constituent Colleges of
+the University of Malawi, Mzuzu University and professional training institutions like
+Police Training School and Staff Development Institute. These outputs will, mainly target
+public ofﬁcials, journalists, Members of Parliament, lecturers, tutors and students. The
+working relationship with stakeholders will be developed through inviting project
+proposals for possible funding and direct engagement with the implementing agencies.
+
+The following assumptions are identiﬁed as pre-conditions for successful achievement of
+the outputs:
+
+0 Media watchdog organizations play their role;
+0 Education institutions are willing to accept the assistance
+0 Cooperation from the political structures has been ensured
+
+Government’s commitment to a liberal media movement was concretised in 1998 when it
+enacted the Communications Act. The Act creates MACRA as a media regulatory
+authority. The current challenge is to build the capacity of MACRA to perform, its
+functions professionally. DCP II will, therefore, work closely with all media organisations
+to ensure that MACRA takes up the challenge to regulate the media industry without fear
+or favour.
+
+With respect to the second assumption, the Government has already introduced a social
+studies syllabus for primary and secondary schools. The Programme will, therefore, work
+closely with civil society and other interested individuals to lobby the University of
+Malawi, Mzuzu University and other training institutions to introduce governance and
+human rights courses in their curricula.
+
+ 
+
+Finally, the Programme will also lobby parliamentarians through the Parliamentary
+Training Programme to appreciate the need for a Code of Conduct for the legislature to
+perform efﬁciently and effectively its functions and mandate.
+
+2.2.2.4 Programme Management Capacity Building
+Outcome Indicator: The Programme Oﬁ‘ice is in a position, to perform in accordance
+with its mandate
+
+There is a recognised need for strengthening the management and administrative
+capacity of the Programme Office so as to take the lead in governance
+innovations, resource mobilization, information sharing and coordination, as well as
+strengthening relationships between the Programme and other complimentary
+activities. One important initial task is therefore for the Programme Office to initiate
+the Capacity Building plan through identifying and contracting relevant expertise.
+
+To achieve the outcome of this component, the following outputs are planned:
+
+1. New Programme organizational structure and systems developed and
+operational
+
+2. A participatory implementation, monitoring and evaluation system with
+clearly deﬁned monitoring tools has been prepared and is being
+implemented
+
+3. A Capacity Building Programme for Stakeholders has been designed and
+implemented
+
+16
+
+ 
+
+~35. nam
+w SEEP
+
+25.83 am:
+83%
+
+502823
+0.20 .m>=mu ow
+928E390 2208
+:20 .6 3688 2.5 m. E
+_m>m_ 2005me
+5 sum wcozaﬁmE
+.mcozmusum
+E 820 9.5: :mEnz
+*0 CezmctE 33:83 m. :
+wmﬁon
+.mco_SEmcoo 359..
+:25; E mﬂe vcm
+926:3 vcm mEm:
+cmEac co mcoﬁaEmo
+wmmcmzmzm
+Ucm 5:828
+220 35:95 <. S
+m23>=c200
+$358,: 5:833
+220 9m:_Emmm5 0:
+$5: :mEzc
+vcm mocmEm>oo co
+mﬁcmﬁE 8:828
+220 Qo_m>mo N. ﬁr
+
+Bow 3 $5 gmcoawe
+cam 35: cmEac
+
+co vmmEmcmm :89 mm:
+was «8:9me :38sz
+220 3289 mm: SEED
+zoom. E cozﬂsaoa 9: 2m:
+Emu mczmmmn
+
+2 umhmano cocoa
+mEEEmoE ho vcm 9.:
+3832 $29. .6 c2503
+co wEEEEB *0 69:5:
+9: E 8855 $8
+
+:3
+
+umzzamem mm 805 059553
+
+bucsoo
+
+m5 wmoam chmEQQE
+ucm 88.9%
+$56050 EwEmmmmmm
+83:: ucm Emu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ooodmiﬁiwnou 3:23.585 EB team mEESmoa 95 9.66wa _o Enmamo 9m 95mme Sarnoaam FEB
+
+ooodm ESEEOU 13232 PCB wonm 5.6023 962.6 98 mazzﬁﬁcoamﬁ ucm mEo: ,mEEmaoE cozmcavm
+
+98.8w ﬁombcoosnm 920 285 m ao_m>mo p. I van mtoaom :9: *0 9526 En 983332 Z. 0.20 305 < A
+
+ZOF<OEEN>
+szFnEDmm< Amway whiz. mm.._._>_._.0< m>_._.<o_oz_ no mz<ms_ ﬂap—.6552. #3350 9.53.30
+
+ConEsz new 2.: «030......
+
+mama—Pam 3:20:th
+
+"tonnaw to «93 032.25
+
+ 
+
+.8205 Enter: @5me was .wmzzﬁﬁcoawm: ucm 25m: .65 9:20.98 E 2938 9a 232655. 2235:. 2:350
+
+ 
+
+ 
+
+mEm: :mEsc ucmﬁn vcm 6205 duoan 9 uwhmaanw :mmn m>mz maoma "050230 33:35
+
+ 
+
+8.5538 :c :oﬂauzum £30
+
+H.m.N.N
+
+xueBoEEm $552533” 8.58am ME“ 333% «Es—Ewan mdd
+
+ 
+
+ 
+
+cocdvﬁuwmb
+
+E83250 Enema Z HEB team
+
+ 
+
+ 
+
+ 
+
+on>=oa
+mEEmaoE :_
+:mucmm EmmmemE «Hm
+5:289 ucm
+EwEwmmcmE 85:00
+E 9039 6:352
+Ea .826: gm; m. :N
+@525: momma
+:2 mocmExmbo ucm
+052:5 mzmcmmcoo
+60:50.9 $250:
+95:83 ncm 9‘0an
+85 mmE>=om tonaam N. ﬁw
+mocmEm>om
+:o :26on
+0.20 “02:00 :N
+
+ 
+
+m:o_SEm:_
+:96me
+>3 353m
+
+\Eo: :o_~m::2:_
+
+ 
+
+:oszEtomﬁ :0 $80
+8:89 *0 69:3:
+:_ 5:032: $3 < .
+£533.00
+Save. 8 62:5:
+:_ 8:033: $8 < .
+“ascmznmﬁo 29.95
+dd .umosum: :mmn 02m:
+
+8:855:85 :0 2E2 .2 mm
+
+Emﬁzco 580m
+9 $83 82.8 $250:
+.Omo . EwEEm>ow
+mm 3588 an 2
+:mmm m_ >098va 6:“ .
+mmE>zom EmEanSov
+:_ 5:609 E95
+2 :50: 92:8 85 .
+00:8 mEEwﬁQn.
+9: :0 :5 m5
+3 sagas. E 8:203
+.830: :_ 0398:
+#8 m_ 99: 85 .
+5:52:33
+295:5 .md ﬁm>mEom
+
+:08 mm: 8:329 .830: rd
+
+ 
+
+ 
+
+82555 59095:
+B :oszEmcoo vcm
+855900 :_ 8:202
+w_ 3209.0. :20 ms... .N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+00005050
+E “Roam 902.5 000
+mOmO .EmEEm>0O
+*0 326:2 0:0 mm?
+05 :0 wcmﬁaEmo
+mmmcmhmgm
+05 00:00:00 00:00
+220 3609:. m. ﬁm mEEEmoi 05 00 0cm 0%
+80005 00550.60 3 00.2028 8:09.050
+9:90:03 w...“ E EmEmZ0>E .000. E 02009250 02:0E0_0E_ mEmn m_ 00m
+E 0:03 >~900m :20 3000200 Bmﬁow :20 E mmmEoE “womb Wm 85533-9 :wmn mm:
+2 GEE; mOmO 85 £00.65 «.0095 N. _..m ENE“: mews. 0cm ComemEmEE
+EwEEm>00 cozﬁcmEmEE ncm 0000.030 2:2 202 .mEccma mEEmEoEQ E
+0:0 GEEQEOE 0:25:55 coumzﬁ>0 vcm accogcos. Nd mOmo 0cm E0EE0>00
+050.5% acqmﬁme =35. 95m #:0502050 >028 aﬂoom =20 vmwcmEmEE 0cm 0000.050 :00?qu 9:20:th
+m_ conmEEE ooodv £33300 302ng ~58 team E :00 9.9 9 2208 0:0 EwEE0>oO >=E0_ mama 0:0 003905 aEcwEEwm .2 0:05
+2:33 000.3 385833 :20 we 2638 25m 5.0 E0: mtoamm $22.8 .825: B can» 5 new $055 5:8 .m
+mcozowm
+EmEEmSoG .80.. 05
+.9050 «x0: 05 9:50
+bEnoo 0r: mmohom
+m..90> “.0 5005...
+E $092.: 000.000. < .
+000090
+05 *0 002000.00 999
+00.0%62 00 @592ng
+mEEmw E $.59“. o
+35:60:00 80005
+0:0 .EmEmEmm m:=0> 0E 00:0 0:0
+*0 20050.2 9:50 .9200 00000.
+.EmEmmiV ﬂEmano *0 .mnEzc
+m_m_oEo 09020 E 0020309 £08 < o
+*0 302003 92:0,: 0:0 90:00.0 5:0 0:0
+0:0 00.0.. 9020000 9:50 .9200 $500
+05 .5 8:838 Emacmamng 9: E; BE 92st
+220 #030000 add E0: mtoamm . E 0020300. chem < .
+90> 2 000: 20:3sz nmEcwEDSmm
+05 co 5:00:00 €929 20:02.: .00 0903080
+55> 8:080 ﬁnd E0: mtonmm . 0.0 20:00.0 EE 0:0 00E QN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cw
+
+ 
+
+m_nm__m>m mtoam.
+m5 3me
+EmEEm>oo
+
+mcozocé
+002063 an
+E5th 2 9%?
+m_ bosom =20
+
+m5m=m>m
+m_ coEmEBE
+8:33
+
+ooodv 383800 RENEEBE EB team
+683280 ~20sz EH2 comm
+
+Qatvcmnxm
+EwEEmBG
+B mczoquE
+van 2639 :o wOwo
+a 3688 9:5 m. EV
+Bzﬁﬂcaooom
+ucm 55.889“ :0
+23599.: 5:833
+220 9m£E0m£v
+ncm Q0550 N. EV
+3:59:38an
+new >oc9mamcm:
+.6 meEEE
+co coumozum
+220 6:28 P. E.
+
+meocmmm
+
+mEEmeEE
+Eo: mtoawm
+
+EmEEmSoG
+
+9: £3, ummﬁ. mmtmzu new
+3903 =20 >2 33:85
+3.0%: 935598
+EmEEw>oo 25225
+:ozaatoo
+
+new gm: 05 95205
+
+So: mcmmzm 9.25885
+.0 .wnEzc 5 $885 o\oom
+nozma mEESaoi v8
+
+95 m5 3 8282 mwmmo
+:oE—Eoo E 5:33. «mmw
+cowaatoo ucm
+
+gm: B 95305 :0 was
+.329 ncm 3:26 6:365
+.9335 :_ mmmmhos $8 .4.
+
+wocm=ano
+
+acmEmv 9 29m
+
+Em cam 5:53:3805
+ucm 3:98.39“
+
+.6 mEmEEEuE
+
+95 $3655 9.: 6
+995m 9m 9.93ng .v
+
+ 
+
+ 
+
+ 
+
+ 
+
+cozﬂcmEmﬁg
+
+m: Em
+
+>028 959$:th 6
+EmEQQmSmu toaazm v. ﬁn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ruck. cam
+mEEmﬁ.
+
+25.33%:
+oooﬁ:
+
+ 
+
+023mm EEJEEOQ
+:0 2932.8
+mwmcmhmam tonasw m. ﬁm
+ouszcwcsoo
+8.2mm bEzEEoo
+co m_m:2mE
+8:838 220
+*0 co_um:_Eowm_u ucm
+EmEa2m>mu toaaaw v. _..m
+3m.
+96 $2 9: ucm mEm:
+:mEzc :0 £5.92.
+205Em$ﬁ
+9.8 3650 m. —.m
+365%
+EmEmoEEm
+26. .8 $98.58
+33295 83:00 N. ﬁm
+3w.
+
+ 
+
+ 
+
+cowzﬁwgbﬂoom”
+
+@5289
+
+9: E 38%.
+
+9%:th 95 52:5:
+E 5:302 oxoow .
+
+292:5
+
+m5 Emoom ucm ho
+Ewan $326 .0 $8 .
+
+wmocwEmm
+
+3.2mm EcsEEoo
+
+Bmano 2.23803
+Emvcwto E #8 .
+“E0: EmE>m .8385
+m_ Ucm =m >9 umﬁmoom 2.5
+8228:: w_ mEocmEmw
+
+m>szm=m .6 299:5 9:. Wm
+
+8:338
+536.32 9:
+9598 20383. E60
+2 wocmhmcvmﬂumh .
+90:33.:
+uc__vcmz-wE_mEEoo
+3 8989 303.03
+E corona? $3 .
+958
+E concave "xva .
+#8 E 888.
+cmmn mam; $908.
+wE_m_nEoo\mco=m_o_>
+.6 EnEzz .
+
+ 
+
+me=m>m coodm E83300 Enouaﬁgﬁ EB tosm B 0.2 9: van £50: mmﬁcmmm “Eo: EmuSm .Umcﬂﬁﬂwm 3m. 6 22 9: new $59..
+co:mE5E_ ooodm 633800 3:282 Eh: team :mEzc co Cannes—um mczcmang 53 mm: 26. 6 £2 :mEsc :0 85:83
+mazmwmm . 256$ maombuoonam o_>_o 8:950 E...“ E0: mtoamm m5 .9 ~8an “6 92:30 ﬁm :03 02mg mcﬂaﬁmé .m
+
+ 
+
+ 
+
+ 
+
+(“J
+(“J
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+£553.39»— umcU uﬁmﬁumm =35.
+Emzﬁu u6 cozmﬁmmm
+E 290:..5
+m5 6 EmEonEw
+ucm cozﬂcmEmag
+mmnomﬁ 9 E22
+90205me toaasm m. E
+9958 *0 223.33
+6 22055
+9.: co 235:2:
+5:8:an 220 9958 yo c2583
+6 zeamEEmmmE new *0 $2055 9: :o
+EmEanSmu toaaam m. PK 33533 955% 6 #3 NR
+Egan ho cozﬁmnmm >=m=ccm 2950a
+cgéovmmb =33. anm ho 29055 9: myocmmm wsmﬂ m5 mEmmmﬁum “o c3938 3 Q9053
+m_nm__m>m ooodm E83250 3:282 EB :23 co £0305 cm_maEmo mEEmeEg mEEEmoE 9: 55:5 05 co umewcmm
+coszBE m:__mmmm 08de 335.535 wwmcmazm tomasw F. E E0: 38?. £8.85 .98sz mmEk ﬁn E 0:33 9? K
+co_ww_EEoo
+mEaE :mEaz
+Ema: 9:
+59.6.5 ﬂow—oi mEzSzcaou
+cosmozuo w_m:9mE cozmosum
+0. _o .65 220 $65.5me m. v.0
+EmEEooo 9 8380a
+mag; 2m 868 8 :8 >9:
+3:033:98 30: cam 20:2sz
+£59.. :mEzI . Eco: :mEsz
+B mcozoca ocm >=m=ccm
+$0589 3.2 9: co m.m:9mE co_mm_EEoo mEmE :mEar
+Qmacmnm cozmosvm 220 B 20:359.: m5 £9.95 umEmEmEE. :o_wm_EEoo
+.8 53305 3 EmEa2m>wn «.896 «#6 «Eu: 5:5: new 3 8559000 mEmE SEE:
+umxomn ammo mm: 368 6:33:38 E0: wtoamm . £8.65 cozmosuw 220 m N6 9: >9 umeEmﬁg
+mocmE¢>om zoom . . £29 :95: co_mm_EEoo 98:3sz wEmE can nmcmznﬁmm
+cam >oSooEmc cc: :2 am: Each 95 he my: £95qu 33?. :mEzI .mcozazwcoo w_ mmﬁom .mcozacmcoo
+6 $6655 805» wEEmﬁ. new 8.9 co :35: E0: mo_>um\wo:£w_mwm mEmE :25:
+2 EmEzEEoo ooodm .258an Racewaon anumz :aﬁQEwo mmmcmﬁgm 33.22 9: ocﬁmmm $303 .2 mEESooi :ozmozum
+wacwEEm>oG . coeds; Somhcoonsm 35595 toaazw P. to E0: wronmm . B .mnEac E mmmmBE $8 ﬁm 220 3869:. .m
+
+ 
+
+ 
+
+ 
+
+ 
+
+rﬁ
+
+(“\I
+
+ 
+
+mam. BEBE.
+
+co wcmﬁxo
+vcm Emqu
+Ram. .366;
+.6 cozmuﬁcww
+coaasm mam
+2.229 .26.
+
+LE :mﬁ 06993
+6 EmEQo_w>mn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+toaasw N. ﬁw mama E Sq 3589
+30305 $59. cmEac ma 2 wig B msumcow NM mace: $29.
+$5 EmEQQE 9 :0 09:95 BELth van. 8395. :mEzz .mcoszmE
+29m ncm mav£rmwmb EBB aim “m5 95¢. ho wtoamm mfg: mbﬁomn :0 3:25 £5, 3.:toEoo E momﬁ
+mﬁm=m>m wcowaﬁmE motwnm muombaouasm >639 toaazm F. ﬁw 393m 26.. 65 mag m5 “.0 .xbm FN E 5a 9589 53.. .N
+$223
+Eam— Q mwmoom
+cam 3sz
+9 E? .9350
+no 5:838
+220 “caucoo m. E
+99365 was. 9:80on wEEmmn
+:oszBE taco nmEﬁEﬁ NOON 9: E0: 9.500
+3:33 o EmsEmme m5 295:: umwcmamﬁ
+0cm cwznsn. N. 2 328 E mwmmEE n«new N; .898 .500
+859.6 :39 Exam:me Each n=w 8:: 053005 «cow 6:2. *0 .mwoawﬁ waozﬁwaxm
+was 333sz 25.3 wEEﬁP taco EEEEE $6:QO >2 mm: E 98 83.9% 9: 52 woma E
+Raw. 9: ooodv Emu—3:00 3552 8.3 team we EmEuoEEv mczcmEmaE. 3:: Snnwooaﬁsoo 699m .32 m>=omtm
+E0: scamhmaooo . oochmw Sombcoonsm toaanw w. : E0: mtoamm 239:;me vcm 85386 E ucm zucmE 5m: F
+mm_.:>_._.o< zoF<oEEm>
+wzozhsamw< 3mg whiz. m>_._.<o_oz_ ".0 mz<m2 mmo...<o.n_z_ .5950 95.....50
+
+ 
+
+555:2 new 2:... «8.05
+
+ 
+
+"3&5 95205.9“.
+
+ 
+
+“tonmzm he «93 cam—gm
+
+ 
+
+um~=mzo=9 :83 mm: 832:. 9 mmmoo< £2355 oEooSO
+
+ 
+
+ 
+
+929. caps: Ucwﬁu ucm “0905 .90an 9 RLmBOQEm ammo m>mc 23mm
+
+uoEooSO umucmuE
+
+ 
+
+832:. .5 :cunbmmiﬁc< 6:5 8.53M Emma
+
+N.m.N.N
+
+ 
+
+ 
+
+ 
+
+matmecwmb “moo uuwaﬁumm Each
+
+ 
+
+9932 .28 2938
+E 3:90
+
+wOmO
+
+ncm EmEEm>oG
+
+B mwzocmﬁ $95
+
+m5 9 23.99:
+SmEEmmmE m. ﬁv
+
+EmEEm>oG
+
+9: E
+
+8:0:an 9: 6
+
+comm .6 9.28:2
+
+ucm 8.9
+
+9.: :0 29.99.:
+3650 NE.
+
+EmEEm>om
+
+*o 3:0:an 09...“
+
+9: .2 9958
+
+B cozmﬁumm
+
+:o 30:35;
+
+mung—twig
+
+conﬁrmcoo m5 .2 69.59
+32:85 E 8202: mOmO we
+996E 88:35:00
+
+:0 mmmmo taco “.0
+
+89:3: E mmmmbmc $2 < we
+
+Emsz
+ﬁcQSEmcoo co
+EwEmEmm E 329.82,
+9.8 20:28 *0 52 E3:
+
+E 5:03? o\o om .
+muoEomu tzoo
+
+53> 8:3.qu0 93m .
+
+“E0: EmnSw
+
+«55598 53 mm:
+
+«Egon
+
+E conﬁrmame E 23055
+9: :o 85:93
+
+9m EmEEm>oO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$96... as“ 2 wmmoo< 9:53“ 63:00 P. ﬁv E0: mtamm 26. he 92 9.: ._o__ 8.8me E.» “o wmcocmﬁ mg: 9; .v
+$3050
+8:3sz mo<
+ho E038 25m m. ﬁn
+30:2sz mo<
+. 6 mocmﬁim co
+:3. 3Nme Ewch 25m 3350 wNEmcmm m. ﬁn
+25.8 5589 Bow 3 852.3%
+coo m M 283250 $228585 Eh: team EmEmsomE mD< mﬂocmam mo< 5:95 EwEEomE EQ<V
+m_nm__m>m ooodm ESEEEU $.5an EB team S EmEcmanmm ocucwEmEE 820mm. mmmmo ,8 55:5: co_§ommm 9:35
+cozmrEEE m:__mmmm 2563 302.835 toaazw F. ﬁn E0: mtoumm :_ $3.65 625 $9 ﬁn m>szw=< Echo” < .m
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+:9 0.000000: 95:0:
+0:0 $230050
+wEm: :0E3: 00:00:": SEE 00:05
+:0 «:0E:0.0>00 000.0000 E0E090E0
+toaaaw 0. rd 30. 2.000000 3:0200
+. 000500 0E9: 0:03: :2 0:022:05
+Se 2&me 130,—. dam :0E:r_ :0 302.00 DEEO: .mcoﬁmmvﬁi
+0206000 08.03 MESS: 0:“ :_ 0:20:sz 00500 0:0 :0000300
+05 50000 0: mg 3 80.3. 0:023:00 8:000:50: 800: 000m 9 000030 0:002:05 0550: 0E9: :05:: 9:02.00 0:00:00 E 00030005
+00 0:002:05 02k oocdm 00003300 0000002 0:0: 000m 025.09 00390 _.. 00 E0: wtoamm 0:003:05 :0 09:32 hm 000500 Eco: :053I .N
+050E 05
+:0 Ew=mc2mm0§0
+0:0 EOE020>00 “0
+BER 0EE060E
+0000.090.
+0 :0 cozmséﬁ v. E
+Em__0:.50._
+03200065
+:0 EOEn§0>00 0:0
+:28an 00 0950
+0003000 toaaaw m. ﬁe
+000E 000.:
+00 00:00:00005
+0:0 szmcoﬁmﬂoa
+0.0. :05 $50500 0_00E 0:020 0:“
+>05 05:05:09.0 9 m0:__00_:m 3 2.060000 .mE_oa>>0_>
+30:80; o . :0 E0Eno_0>00 w:000> Eo: 003$ :0
+00530 :00: £5 :2me .0008 00m 0000.5 N. F... 009030 :_ 00005:. $00 0;
+00: 0:30:00 000.8 @0580. 90:00:09: 050:: 0:003:05 0::000: 0000 05 E0: 00>0Eo0 :00: 00: 060.2
+.0250: 05 08.3 ESSEOU “0:000:08”: :02 team :0: 80:00:02, E0>0_0: E09: E00 0:0 25:00.0 E00 0:0 0_:o:00_w
+E0: 800.0080 . coodm 0:805:00 0000002 :08 000m @550: 00:08 P. 0— £0: 00000.0 05 5 £265 *2 E 05 :0 E0009“. .F
+wm_._._>:.o< ZO_._.<o_u=mm>
+wZOFmEDwm< 95:2. m>_._.<o_nz_ no wz<m=2 mmo...<O_n_z_ .5950 whantbo
+£00052 0:0 2:... «003:...
+">m0u0‘am 3:90:00:
+"00095 B 002 053005
+
+ 
+
+05:05:00.0 >«0_0om :20 0:0 E0EE0>oG :0050: 00>0E00 :00: 00: 00:: .0335. 02020:. 00.6230
+
+ 
+
+ 
+
+0E0: :0E:: 0:00.00 0:0 “00:05 06an 9 00.630080 c000 0>0: 0.0000 ﬁEouSO 000:35
+
+ 
+
+wﬁﬂoﬁwaobm 3000509: axiom 0:0 bﬁnoﬁmzﬁm
+
+m.m.N.N
+
+ 
+
+ 
+
+(\I
+
+ 
+
+ 
+
+255989 ~80 Basin 32.
+ceaseeémo
+33H. cam
+89mm main; n.2me mEEEmoi EmEmEmn. mEmSo
+coo»: 283300 Ecosz EH3 team was. xoonuch 98 may we 9.5 9: >2 8:8: 0cm E 0.9 .65 2:3
+oooﬁmo; 38.5535 L2 9:59: «26:00 2d 9.89 0553... wcmtﬁcmEmEmu 6 $8 ﬁm EEEE 20E was. .m
+
+ 
+
+ 
+
+ 
+
+ 
+
+92559: oEEg
+.mcoﬁmﬂoa ocm
+8:828 EaEE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OI
+
+ 
+
+8380. new
+
+m5>mE ,mmEEEQEQ
+
+mcémumu >umboEmU
+
+Ucm 85593 :0
+833% m @2960 w:
+
+$53005
+
+ER 2.99? 9563
+
+Emgocmxﬂw
+Em>m.m: B m5m=m>m mme
+Em 0939a :39 m5:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vcm mczcsooom mﬁccoh .mmoaoﬁ “8.9m m;
+, E tﬁm wucsooom 33:8 9:328
+mEEEmEn. ES... 5: oEEcmE §>zo< .
+mczczooom mmzﬁEE
+UCG ~C®EQOMCME uCN>m_¢._ hmnwo UCN
+Eocmcz dczwmcza Emcﬁnmxﬁw mEEEmEm
+E EmEmmmcmE mEmwmﬁum .mEmEmzomE
+mEEmaoi ES... 0.: cormcmnooo
+comumagm vcm 53652000 .
+Ucm acrogcoE mEmEmcomE
+.co_§:¢Em_aE_ 6::8 2:30 .
+.Eman_m>mu 858005 aczwogm .
+wommoa E tﬂw 850 358005 95 wEmuw>m
+new.“qume Each saw wEEmﬁoi ESP W: mcEna< ucm mczczooo< o
+oooﬁm moxmmdm um EoEaEwm 9:253 858005
+ooodﬂ wEEﬂH 3688 8:5 vcm mEEm>w comm2m>m
+08.9: 3338/ wEEEmEm “2 car“. new 9::an .mEBEOE
+Sm; mo toamsm o>uﬁiﬁﬁc< mmhwwwﬁﬁmhmﬁww v.2 Eocmci ucm .mo_ccom+.m._ .
+©8va H350 ﬁaowmmomoi 3:232 @5605 3:690 0: .89 05mm 98 05m=m>m
+coo cm 383300 RENEEqu Eh: team mmczmmE EEO”. 3:26.30 9m goo... EoEmmmcmE m4 .Enouﬁumo
+ooodm 533250 Hmaoumz EH2 ﬁonm Egocmxﬁw mNEng N. M 4 0.3025 mama Dm>oaaw USN vumoﬁsmﬁ mEBmmm
+Geode scams—Fa »% wctozcoz moEO mEEEmoi .mco=m~_:m90 9 @5988 noEmEmaé Ea 8:83am .maoumnamws
+ooodﬁ 335.53% E 203qu Eu. 2; 262 w_ mEEmaoi mi 2 usaamoa 52 .H
+ZOF<OEEM>
+mzanEwa< whiz. me>Fo< m>:.<o_oz_ ".0 mz<m2 mmobxoﬁz. .Sakao @5950
+
+ 
+
+23:52 new 25 #835
+
+ 
+
+23295 nEmboctmm
+
+ 
+
+"tommam 3 «03 03285
+
+ 
+
+EmucmE w: 53> mocmEooom E E5th 9 Samoa m E m_ “mtﬂmhomm mEEani 9:. £235.... oEooSO
+
+ 
+
+ 
+
+wEm: :mEzc 95th van 6205 :80an 9 umhmzanw :wwn m>mz wﬁown. “wEouSO 30.2.2:—
+
+ 
+
+wEEﬁ—m 53man unaaowmnmz «ES—ﬂush
+
+v.m.N.N
+
+ 
+
+ 
+
+ 
+
+haEnomwmmU “8.65
+E EwEoﬁxﬁm EmFm. ﬁn
+952:5 gomamo
+
+9: E mcoszEmaB 2908
+:20 E $.39 58%
+
+Em Euam mﬁmﬁmoom
+“5:95 uwcwznﬁmm
+
+ 
+
+“ EmEocmxmww 638.5008 ncm
+GEN wwwwmb magma. nzm .2 52¢ $56.20 9m amyozmxﬂm Nm
+coo 0mm c553,“. 0.099% Q2960 N. _..m 963 vm>9uqm mouaoﬁuaﬁm new 8:986
+oooﬁom mucmmsm Ea EoEmEcm EwEOmeSw 9 mEEooom 2039a 53 ME Maquﬁuam
+8960 E93800 Raoan E2 team .8 EmEmmmwwm EmEmEE 2 3633 H8 uEEmmoﬂ
+ocean; ﬂombmonﬁsm .36QO0 833200 w. tn 9: mam; Emgozmxﬂw ﬁw mEEEm 5638 < .m
+$.89 >oﬁooEmU *0
+99m 3226 989.". 2a
+22865
+$5.33 Emsmﬁ.
+.8 wmiﬁm 5:200 m. _ .m EEDEoEEM wins mm
+>o§ooEmU 9mm was @2303 moon was $09
+256mm.me Each. a=m .6 95m 9: mazmmmm new $5.89: Eamon 332“.
+ecodm E53300 EQEEEBE EMS team :0 Ewuw>w accogcoE mtoamm Emuw>w REE: 9.6 83.3% 55, ESQ? moaning “an
+ooodﬂ E83300 13232 EH2 team a muﬁcozﬁwuo co=m2m>w >=Eo_ 202 cosm2m>m new wctozcoE .uoumEquEg
+oooﬁmm conmigm a. watBEoE ucm a2m>mo 2:0. ucm 0:20:55. 9:38;. .cQEEmEmEE. _..N ESEBEE < .m
+
+ 
+
+ 
+
+ 
+
+ 
+
+Emgocmxﬂm 2
+EwEu2m>mn .mmoaoa
+6w._oa .9 mmEEUSm
+055:6me 9.“;
+S22
+acﬁce wEEEmoi
+.2 mzmﬁo ucm
+EmEmcomE 0503::
+m5 9.826% 2.2
+cozmcﬁhooo
+vcm Cowman;
+.mEBEoE
+.cozﬂcwEmag
+.Eman_m>mv
+.mmonoa
+.mEccma “8.6.5
+.2 mméwuim ucm
+wESm>m 3650 2.:
+90:03 9.362:
+.2 92¢ a Swami q:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ceeJHQSme
+
+AAQLOH. QZEG
+
+:55 233.590 35.9%ch 26 .5.“ N 553 8 .5qu *
+
+ 
+
+homKNmﬁwwD 500 305.2sz .30...
+
+ 
+
+ 
+
+ 
+
+ 
+
+3395 EB
+EmEaEcw 938$ h. ﬁm
+3:823 9:30on
+
+.26 28:55 Ewen
+
+.mhommcmE 89.05 .2
+
+30:35? 96:3
+5638 63:00 0. .mm
+
+«9:385
+
+new wEQm>m mcanzm
+
+vcm mczczooom
+
+E Em mucsooom
+“8.9.”. EFF m. ﬁm
+
+mczcaooom
+
+vcm EwEmmmcmE
+
+Eocmcc 658035
+5 92.62985 59...? ﬁm
+
+cozwagm
+cam acco=coE 5956.65 comm
+.coszmEmﬁg ho new m£ «m .6 cc 3500
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.3 PROGRAMME MANAGEMENT/IMPLEMENTATION ARRANGEMENTS
+
+The biggest risk to programme/project planning and implementation is inadequate
+Management and Administration, as well as analytical capacity. It is therefore considered
+essential for the success of this Programme that the management and administration be
+made as effective and efﬁcient as practically possible. In realising the above and in
+compliance with the Mid—Term Evaluation recommendations, the Workshop addressed two
+main organisational and management issues, i.e. Programme Organisational Structure and
+within that, Management arrangements with particular emphasis on strengthening of the
+Programme Ofﬁce.
+
+In order to strengthen the decision-making functions of the Programme and to facilitate
+civil society participation, a new management structure will be put in place to ensure
+clarity in roles and responsibilities of stakeholders and broad ownership of the programme.
+The new management structure is aimed at streamlining the organizational set-up, making
+it simpler, clear and cost- effective.
+
+2.3.1 Organisational Structure
+
+In compliance with the recommendations of the November 2001 Appraisal and the
+deliberations of the stakeholders workshop, the programme organisational structure as
+presented in Figure 1 below has been developed. The main partners in the Programme
+Organisational structure are:
+
+The IMCHRD
+
+The Programme Steering Committee (PSC)
+The Programme Ofﬁce
+
+The Stakeholders Consultative Forum
+
+DCP 11 will be nationally executed with the Ofﬁce of the President and Cabinet (OPC) as
+the implementing agency. It will be guided by the IMCHRD, being the Government focal
+point for coordinating all activities aimed at consolidating democracy.
+
+The IMCHRD will establish a Programme Steering Committee (PSC) comprising Principal
+Secretaries in selected sectors, and will act as an advisory, policy making and controlling
+body for the Programme. The PSC will be responsible for the smooth running of the
+Programme and shall, therefore, monitor implementation and provide guidance to the
+Programme Ofﬁce as well as intervene when conﬂicts occur. To ensure national
+ownership of the Programme, the PSC shall comprise representatives of all stakeholders
+namely: Government, Human Rights Constitutional Bodies and Civil Society
+Organizations. The DSPC will chair the PSC. UNDP will represent development partners
+on the Committee and will have Observer status. The PSC will meet ever quarter or
+otherwise, as deemed necessary.
+
+The Programme Ofﬁce will be responsible for the coordination, facilitation, planning,
+implementation and monitoring of sub—contracted projects. The Programme Ofﬁce will
+receive and review project implementation and ﬁnancial reports from implementing
+partners. It will also be responsible for professional evaluation of project proposals. The
+Programme Ofﬁce will prepare annual activity reports focusing on the results of the
+Programme, lessons learnt and challenges ahead.
+
+There will be an independent Stakeholder Forum, which shall act as a commitment-
+building forum for the Programme. The forum shall act as an advisory/consultative forum
+
+ 
+
+to the PSC and an innovative discussion partner for the Programme Ofﬁce. A graphic
+representation of the DCP II Organizational Structure is presented below:
+
+Fig 1
+
+ORGANISATIONAL STRUCTURE
+
+ 
+ 
+      
+ 
+
+NTER-MINISTERIAL
+COMMITTEE ON
+HUMAN RIGHTS AND
+DEMOCRACY
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+ 
+ 
+
+PROGRAMME
+STEERING COMMITTEE
+
+ 
+
+ 
+
+ 
+ 
+
+I. .... -—
+
+ 
+  
+    
+
+Consultative Forum
+
+ 
+
+ 
+
+PROGRAMME
+OFFICE
+
+ 
+
+ 
+
+    
+
+mg;
+
+ 
+
+: ............................... ...:
+National and
+International
+
+expert services
+
+a
+5 u I n I n u I u I u u I u u I u I u n u n u n n u - u n ‘-
+
+Capacity Building of
+Programme Ofﬁce
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Projects on
+
+Management
+capacity
+
+Projects on  Projects on
+Legal Matters Civic Education
+
+mammalmmaras
+
+Parliamentary/
+Political Issues
+
+          
+
+building
+
+iat4sananaamzmaammwm 
+
+   
+
+Relevant Terms of Reference are attached in Annex VII.
+
+2.4 ACTIVITY PLANNING, MONITORING AND EVALUATION
+DCP II has been designed to focus on identiﬁable results as per Programme Matrix at
+Section 2.2.4. The aim is to provide a strong and coherent monitoring and evaluation
+
+system that will allow for easy learning, programme adjustment and performance
+improvement.
+
+31
+
+ 
+
+At the beginning of each year, an annual work plan for the Programme will be developed
+providing the annual performance targets and the budget. This will, constitute the guiding
+framework of operation for the year. Sub~projects from implementing organizations will
+include tools for monitoring progress towards set outputs. Reports from organizations
+implementing sub-projects will be submitted to the Programme Ofﬁce at agreed intervals
+for consolidation into Programme delivery reports for submission to the PSC and for
+discussion at the Stakeholder Consultative Forum.
+
+Monitoring will be done at three levels as follows:
+
+(a) at the macro outcome level where the state of democracy will be assessed through
+studies, surveys and other barometer tools working from an established baseline. This
+is necessary for informing the policy process but also getting the people to understand
+the state of play with regard to movement towards meeting national goals of poverty
+reduction through good governance and democracy consolidation.
+
+(b) at the Programme output level where the focus will be on trends towards set
+objectives as measured by the indicators. This will be monitored through progress
+reports and other means of veriﬁcation speciﬁed in Section 2.2.4, including ﬁeld
+monitoring reports and surveys. The annual work plan will be the basic framework
+for yearly monitoring which will focus on progress towards intended outputs and
+subsequently results, regular monitoring by Programme Ofﬁce to verify and validate
+progress regularly reported from project management of sub-projects and to use
+lessons from monitoring for learning and improving the Programmes” strategies.
+
+(c) at the sub-project level where the focus will be on tracking progress in the
+achievement of sub-project outputs using the progress reports as the main tool for
+monitoring.
+
+Monitoring of the Programme will be done by the Programme Management using, where
+possible, participatory monitoring mechanisms to ensure commitment. ownership, follow—
+up and feedback on performance. The sub-projects will be primarily monitored by the
+implementing organizations drawing from jointly agreed monitoring systems. The
+Programme will be subject to a mid—term review and to an external evaluation at the
+termination stage.
+
+2.5 RISKS
+
+The achievement of Programme objectives is premised on a number of assumptions,
+which may facilitate or hinder timely delivery of Programme outputs or its very
+existence. A risk analysis will be carried out as soon as practically possible to ensure
+that the risks are minimized to the extent practically possible. The following
+assumptions are risks that the Programme will have to take into account during
+work/activity planning, programme reviews and monitoring and evaluation so that their
+potential adverse impact on the Programme is minimized:
+
+1. Involvement of Political parties as stakeholders in the Programme may
+frustrate the aims of the Programme if party ideological positions are allowed
+space in the Programme design and operations instead of being equal partners.
+
+2. That Government commitment to the principles of good governance and
+democracy will be backed by the provision of adequate resources for the
+promotion, protection and defence of these principles and for sustainability
+purposes. This Programme is inevitably covering sensitive ground in the area
+of governance and democracy and therefore the need to have it secured in
+terms of resources.
+
+ 
+
+3. That baseline information will be readily available to establish credible basis
+for performance measurement.
+
+4. That Government will be willing to bring on board and work, with civil society
+as partners in the area of governance and democracy.
+
+5. That Human Rights Constitutional Bodies will be allowed to operate without
+Government interference.
+
+6. That Human Rights Constitutional Bodies will be willing to co-ordinate their
+civic education projects through the Malawi Human Rights Commission.
+
+7. That donor support, both ﬁnancial and technical, will be available during the
+Programme cycle to enable the Programme expand and sustain itself. This is
+the ﬁller support to enable the Programme achieve its outputs and therefore
+resource mobilization should be a continuous activity.
+
+2.6 GUIDING PRINCIPLES FOR PLANNING AND IMPLEMENTATION
+
+At the beginning of Programme implementation, a capacity assessment covering the main
+elements of the Programme will be undertaken. This will involve, among others,
+stakeholder mapping and institutional analysis of governance institutions. The main
+purpose of this exercise will be to assess the need for including a capacity building
+component in the different stakeholders’ projects. In addition, the process of developing a
+databank on governance will commence with information—gathering and a study of all
+institutions implementing governance activities. This will assist in the early establishment
+of baseline for various output indicators of the Programme.
+
+The crosscutting themes of gender, human rights and HIV/Aids will be mainstreamed
+within the four components of the Programme. At the output indicator level, the
+establishment of baseline information will take into account data requirements for
+disaggregatng information on trends, impact and developments in human rights and
+gender areas. At the operational level, the three components constitute discreet strategies
+
+for addressing human rights, gender and other governance issues from a holistic
+perspective.
+
+The Malawi governance system is an array of numerous players, organizations, systems
+and processes. This makes both horizontal and vertical co—ordination and partnering
+essential for the success of the Programme. Accordingly, this Programme will strengthen
+partnerships with other development partners. This will be done through the identiﬁcation
+of key bilateral and multilateral development partners, including civil society, within the
+sub—components of the Programme for collaborative programming and cost sharing.
+
+In line with the need for expanded ownership, the Programme will ensure broad
+participation based on an understanding of division of roles between, in particular the state
+
+and civil society, and will contribute towards the development and clariﬁcation of these
+roles.
+
+All project proposals submitted for funding under the Programme will be expected to
+correspond to and conform with national governance and poverty reduction priorities,
+failing which the projects will not be considered for funding.
+
+In designing and approving projects under this Programme, the Programme Office will
+
+ensure that there is geographical balance of democracy consolidation programmes
+throughout the country.
+
+33
+
+ 
+
+ 
+
+ 
+
+All approved projects and work plans will be funded expeditiously as any bureaucratic
+delays in funding will jeopardise the timely delivery of Programme outputs and will
+adversely affect the credibility of the basket funding mechanism built into this Programme.
+
+UNDP is expected to operate as a business centre, providing timely procurement and
+banking/disbursement services, for the Programme.
+
+The Programme shall encourage networking amongst partners implementing projects of a
+similar nature from within and outside the Programme. This is expected to strengthen
+
+complementarities and synergies when designing and implementing governance and
+democracy consolidation projects.
+
+The Programme shall build capacity of implementing institutions whenever necessary as a
+way of responding to demand driven requests for capacity building.
+
+The guiding principle behind the training in this Programme should be the inclusion of the
+
+objects of the training, as opposed to only the subjects for whom the particular project or
+activity is established.
+
+Training is a process that can never be done in isolation from what it is supposed to be
+used on or with. This Programme shall then ensure that training activities always take in a
+relationship between those who are the primary beneﬁciaries of the training and those
+institutions in society that are the objects of that training.
+
+2.7 PROGRAMME INPUTS
+
+The various Programme inputs are indicated below. Funding for these inputs will be
+provided through Programme basket funding as broadly indicated in Table 1 and the
+detailed budgets of sub—projects to be developed under each one of the Programme
+objectives. A number of these inputs, such as levels of stafﬁng and advisory services, will
+be determined through the needs assessment.
+
+2.7.1 Short-term International Consultants
+
+Several short-term international consultants will be needed, particularly during the ﬁrst
+three years of the Programme. These consultants will provide advice on specific aspects of
+democracy consolidation and good governance, particularly those associated with civil,
+society empowerment from below in such a way that the political system and society in
+general could develop a more democratic culture and good governance practices. Apart
+from using the needs assessment to determine expertise required for specific Programme
+aspects, a demand driven approach to expert requirements will also be used as the
+programme evolves in the areas not covered by the needs assessment.
+
+2.7.2 National Experts/professional Personnel
+
+Professional staff are needed for the Programme period as will be determined through a
+needs assessment exercise. These will constitute the core substantive Programme Team of
+the Programme Ofﬁce. They will mainly be concerned with designing and improving
+systems, methods and procedures for civil society empowerment in political and social~
+economic processes, governance reporting, monitoring and evaluation, and supporting civil
+society/constitutional bodies capacity building at community, district and central levels in
+such areas as project planning and ﬁnancial management.
+
+2.7.3 National Consultants
+
+Provision is made in the budget for several person—months of assistance from national,
+consultants. The exact number of person-months will be determined through the needs
+
+34
+
+ 
+
+assessment. However, provisionally and depending on the scope of the task, the consulting
+period for each consultant is expected to range from one month to six months. These
+consultants will be needed for the following tasks:
+
+0 Undertake a Programme capacity needs assessment;
+
+0 Undertake stakeholders analysis and develop a plan for involving other
+governance partners in support of Programme activities;
+
+0 Develop a database on governance and democracy which will include
+programmes, players and location;
+
+0 Develop a monitoring system on the state of democracy;
+
+0 Develop a participatory monitoring and evaluation system with clearly deﬁned
+tools
+
+0 Develop guidelines and criteria for programme funding, including project
+
+proposal, budgeting, reporting (technical/ﬁnancial) and activity/plan/time
+
+schedule formats;
+
+Develop Programme coordination mechanism;
+
+Restructure the ﬁnancing mechanism;
+
+Undertake Programme evaluation;
+
+Develop an appropriate participatory IT system for information sharing and an
+
+effective communication strategy that will improve accessibility of the
+
+Programmes’ products and processes to the citizens and receive feedback on
+
+delivery; and
+
+o Undertake sentinel barometer surveys/studies on governance and democracy as
+and when required.
+
+2.7.4 Sub-contracts
+
+Different CSOs, government and constitutional bodies will be involved in the
+implementation of deﬁned projects under the Programme. These organisations will serve
+as contractors to deliver project outputs, which will contribute to the attainment of
+Programme outputs. The Programme budget incorporates the estimated costs of projects to
+be developed and implemented by different implementing institutions.
+
+2.7.5 Administrative support personnel
+Administration support personnel will be needed for the Programme Ofﬁce during the life
+
+of the Programme pending the integration of the Programme Ofﬁce‘s functions and
+responsibilities into a restructured OPC.
+
+2.7.6 Volunteer Staff
+
+During the ﬁrst two years, two UNV experts in governance and democracy will be
+attached to the Programme Ofﬁce to provide advisory services to the national experts and
+skills training to civil society and constitutional bodies on identiﬁed areas of capacity
+development through the needs assessment. UNVs will also be required at UNDP to
+strengthen its capacity in Programme ﬁnancial and procurement administration.
+
+2.7.7 Training
+
+The needs assessment is expected to highlight institutional and human resource capacity
+and skills gaps that would need to be targeted for capacity/skills and knowledge
+development. Provision is made in the budget for short term local and international training
+courses, attachments, twinning arrangements between local implementing institutions and
+those from outside and study tours intended to strengthen the skills of Programme Ofﬁce
+personnel and implementing institutions. For national professional and ﬁnancial
+management personnel, who already have basic professional qualiﬁcations and several
+
+35
+
+ 
+
+ 
+
+ 
+
+years of experience, an effective way to strengthen their expertise is through attachments
+and short courses in specialized governance. democracy and project management courses.
+Pending the results of the needs, the budget allows for a total of 40 people to attend short
+courses and attachments locally and abroad during the ﬁrst three years of the Programme.
+In addition, the budget includes provision for four study tours of one—week duration in
+developing/developed countries where good governance practices and democracy
+consolidation activities are at an advanced stage of implementation.
+
+2.7.8 Monitoring and Evaluation
+
+The geographical coverage of the Programme entails costs for ﬁeld outreach and
+monitoring and evaluation. Funds will be required for subsistence allowances, costs of
+travel on ﬁeld visits by programme personnel and monitoring visits by UNDP staff. In
+addition, funds will be required for Programme external monitoring and evaluation
+missions. The Programme provides an allowance in the budget of US$25000 each year for
+
+ﬁve years for external monitoring and evaluation missions based on current UN standard
+rates.
+
+2.7.9 Equipment and Supplies
+
+Ofﬁce equipment will be needed for the staff at the Programme Ofﬁce, given that the
+Programme Ofﬁce will have additional staff to strengthen its substantive capacity and IT
+base. In addition and for the same reason as above, four vehicles will be needed at the
+Programme Ofﬁce for ﬁeld outreach, monitoring and evaluation. These vehicles will
+replace the current ﬂeet, which are to be boarded off in the near future. It is expected that
+
+some implementing institutions will require vehicles as was the case under DCP I. These
+will be decided upon on a case-by-case basis.
+
+2.7.10 Operations and Maintenance
+Funding will be required to meet documentation and reporting costs and. sundry expenses,
+
+which include costs related to telecommunications. express mail deliveries, postage, e—mail
+service and other unanticipated items.
+
+The equipment will require periodic and adhoc maintenance and repairs to ensure its
+smooth operation and minimize delays in accomplishment of set goals and outcomes.
+
+2.8 PROGRAMME BUDGET
+
+The Programme Results and Resource Requirements Matrix in Section 2.2.4 provides a
+comprehensive budget mainly based on the different Programme outputs and the deﬁned
+inputs above. The main output costs will be the cost of the different Projects to be
+implemented by the different institutions. The comprehensive budget is an estimate based
+on assumed number of institutions to be handled in one year and the average costs of such
+projects. The Programme Management budget emphasizes costs related to the entire
+capacity building aspects and operations of the Programme Ofﬁce.
+
+2.9 FINANCIAL ISSUES
+
+2.9.1 Funding
+
+The ﬁnancial requirement to achieve the outputs of DCP II is estimated at US$113
+million. The budget is a broad estimate, mainly based on the different Programme outputs,
+the estimated number of implementing institutions and the average yearly cost of projects
+to be implemented calculated using historical cost trends of DCP 1. However, this being a
+demand driven Programme, annual expenditures will depend on capacity being developed
+and the number of deserving projects generated by implementing agents. Expenditure will
+
+36
+
+therefore be maintained at safe levels of disbursements taking into account the outcome of
+resource mobilisation efforts in support of Programme basket funding. This implies that
+activities will have to be highly prioritised relative to available resources. These resources
+are required to support interventions in the four key areas summarized in Table 1 below:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1
+ESTIMATED FUNDING FOR DCP II: 2002 TO 2007
+
+Components Total Resources* Resource
+Resources Committed] Gap
+Required Earmarked
+
+Civic Education on Governance 6,350,000 3,500,000 2,850,000
+
+Legal Reform and Administration of Justice 663,493 500,000 163,493
+
+Parliamentary and Political Institutional 1,410,000 1,000,000 410,000
+
+Strengthening
+
+Programme Management Capacity Building 2,927,507 1,500,000 1,427,507
+
+Total 11,311,000 6,500,000 4,811,000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Resources earmarked represent indicative initial funding of US$55 million from the Governments of Norway and
+Sweden and, UNDP contribution of US$15 million TRAC resources to the Programme. A resource gap of
+US$4,81 1,000 will be the subject for resource mobilisation and development partners are invited to join hands in
+basket funding the Programme.
+
+The estimates in Table l are an extrapolation of the Programme Results and Resource
+Requirements framework, which provides the comprehensive budget per output. The table
+shows total Programme resource requirements, resources committed! earmarked and
+resource gap which has to be raised. The area of governance and democracy consolidation
+will for some time to come be heavily reliant on donor funding. Government contribution
+to the Programme will be MK32,000,000 cash (ORT and substantive funding to
+governance and democracy consolidation activities) and MK4,200,000 in kind (ofﬁce
+space). National funding of the programme will be determined annually following an
+annual review of the Programme and will feed into the national budget exercise as guided
+by priorities set in Pillar 4 of the MPRSP, and the Medium Term Expenditure Framework
+(MTEF).
+
+This Programme provides a way for channelling donor funding to its four components. The
+Programme Ofﬁce, with the support of UNDP, will develop and implement a resource
+mobilisation strategy to raise funds and technical assistance for the Programme and ensure
+that such resources to the various components are well coordinated. Part of the strategy
+will involve drawing up a Memorandum of Understanding (MoU) which creates a strategic
+partnership relationship between government, donors and civil society that allows for cost
+sharing and or basket funding of the above components and, for joint Programme review
+and discussions on government plans. Donors will be asked to subscribe to the MoU on the
+basis of which mechanisms for project coordination under the Programme will be worked
+out and maintained. Government of Malawi has requested UNDP to take the lead in
+working out the partnership mechanism.
+
+The main features of the funding system under DCP I, as described in Section 1.2.5, will
+continue with the following improvements:
+
+37
+
+ 
+
+ 
+
+0 The ﬁnancing mechanism is to be restructured to enable implementing institutions
+manage and account for resources disbursed to them in line with the outputs expected
+from projects being implemented.
+
+0 Guidelines providing clear and transparent criteria for Programme funding will be
+developed as an aid to implementing institutions in developing their project proposals
+to respond to Programme outputs.
+
+Standard budgeting and ﬁnancial reporting formats are to be developed to simplify
+budgeting and ﬁnancial reporting.
+
+2.9.2 Accounting
+
+Disbursements of funds under the Programme Ofﬁce will be made quarterly by UNDP to
+the Programme Ofﬁce or to the implementing institutions. This will be based on speciﬁc
+work/activity plans and required inputs developed or approved by the Programme Ofﬁce.
+These institutions will be responsible for the use and accountability of funds advanced to
+them according to the work plans/projects agreed upon. Implementing institutions will be
+expected to professionally maintain books of accounts, in accordance with NEX
+accounting and reporting guidelines. The institutions will, whenever required. ensure that
+the books of accounts are readily available for inspection by the Programme Ofﬁce, and
+for monitoring by UNDP. This calls for capacity building of implementing institutions in
+ﬁnancial management.
+
+Reporting on the use of funds by implementing institutions will be in accordance with the
+ﬁnancial and technical reporting guidelines and the activity/plan/time schedule formats.
+Financial reporting to UNDP by the Programme Ofﬁce on quarterly advances will be done
+through Quarterly ﬁnancial reports received at UNDP by the 15th of the first month of the
+following quarter.
+
+2.9.3 Auditing
+
+This Programme will be audited once after the end of each year by the National Audit
+Ofﬁce or by independent auditing ﬁrms as has been the case during DCP I. The audit will
+be done in accordance with the UNDP NEX Audit guidelines which, among others, focus
+on:
+
+(a) The rate of delivery;
+
+(b) Financial accounting, monitoring and reporting;
+
+(c) Systems for recording and reporting on resources;
+
+((1) Equipment use and management; and
+
+(e) Management structure, including the adequacy of internal control and
+
+record keeping.
+
+2.10 SUSTAINABILITY ASSESSMENT
+
+The Programme focus on broad based civic education and capacity building of civil society
+and governance institutions demands that issues of sustainability are addressed as part of
+programme design and implementation so as to ensure sustainability of DCP 11. The
+
+following areas are outlined as relevant to achieving sustainability of Programme
+objectives:
+
+38
+
+ 
+
+2.10.1 Policy Support Measures
+
+The Government has put in place a number of policies to reduce poverty, empower the
+citizens through their full participation in governance and development at national and
+decentralized levels and, achieve the goals set in Vision 2020. However, to operationalise
+these policies in a sustainable manner, political will on the part of government and
+commitment from all stakeholders is required. The design of this Programme provides a
+systematic way of strengthening political will on the part of Government and building
+commitment from stakeholders around the Programme elements, its goal, objectives and
+outputs. The re-organization of the Programme Management structure, and ﬁnancing
+mechanisms is intended to strengthen Programme management functions as well as
+achieve broad ownership of the Programme through strengthened partnerships,
+transparency and accountability mechanisms. The focus on results is a means to measure
+the contribution of this Programme towards the achievement of national policy outcomes.
+
+2.10.2 Economic Issues
+
+In line with the governance prioritisation set in Vision 2020 and its operational tool, the
+MPRS, the design of the Programme puts emphasis on ensuring that its outputs will be
+mainstreamed in the regular activities of civil society and constitutional bodies and that
+these activities will be followed through by these institutions and organisations after the
+end of the Programme. In addition, the strategy of integrating the functions and
+responsibilities of the Programme into the management structure of OPC is to ensure that
+the implementation of this Programme is centrally coordinated as part of government’s
+overall leadership in implementing Pillar 4 of the MPRS. The strategy of strengthening
+partnerships is to acknowledge the fact that implementing institutions may not have all the
+economic resources to continue civic education and other capacity building activities
+beyond the scope of this Programme. Therefore, there is need to link them to other
+govemance/democracy consolidation projects/programmes that may have the ﬁnancial
+resources to sustain the outputs of this Programme.
+
+2.10.3 Institutional Issues
+
+The fourth component of the Programme addresses institutional aspects of the Programme
+for sustainability purposes. The focus on capacity building of programme management and
+stakeholders, system development for project planning, financial management and
+Programme coordination, monitoring and evaluation and, restructuring of Programme
+Management is intended to ensure that adequate capacity is available or is built to
+implement and sustain activities prior, within and after the Programme’s lifespan.
+
+2.10.4 Social-cultural Issues
+
+The main focus of the Programme is on civic education and civil society empowerment.
+The strategies outlined above are speciﬁc on grass-roots bottom-up approaches to civil
+society involvement in Programme design and implementation and in engendering the
+programme through monitorable indicators. This will ensure that Programme Management
+is sensitive to the need of engaging civil society in the entire process of programming
+democracy consolidation activities. For sustainability purposes, however, more attention is
+required in capacity building strategies to contribute to self—development of the grassroots.
+
+2.10.5 Technological Issues
+
+The Programme acknowledges the need to improve IT for information sharing and for
+developing an effective communication strategy that will improve accessibility of the
+Programme’s products and processes to the citizens and receive feedback on delivery.
+However, the area of participatory appropriate technology development and management
+
+39
+
+ 
+
+is relatively new to Malawi and will need time to study, develop and operationalise
+appropriate principles.
+
+2.11 LEGAL FRAMEWORK
+
+This Programme Agreement (hereinafter called the Agreement or Programme Document)
+is the instrument referred to in Article 1 of the Standard Basic Agreement between the
+Government of the Republic of Malawi (herein called the Government) and the United
+Nations Development Programme (hereafter called UNDP) signed on the 15th July 1977.
+The Programme shall be implemented in accordance with the provisions of this Agreement
+and in conformity with the general terms and conditions applicable to UNDP assistance.
+
+The following types of revisions may be made to this Programme document with the
+signature of the UNDP Resident Representative, provided she/he is assured that the
+signatories of the Programme document have no objection to the proposed changes:
+
+(a) Revisions in, or in addition of, any of the annexes of the Programme
+Support Document;
+
+(b) Revisions, which do not involve signiﬁcant changes in the capacity
+building targets, outputs or activities of the Programme, but are caused by
+rearrangement of inputs already agreed to or by cost increases due to
+inﬂation; and mandatory annual revisions, which re—phase the delivery of
+agreed Programme inputs, or reﬂect increased expert or other cost due to
+inﬂation; and
+
+(c) Mandatory annual revisions that take into account agency expenditure
+ﬂexibility.
+
+40
+
+UNITED NATIONS DEVELOPMENT PROGRAMME
+GOVERNMENT OF MALAWI
+
+PROGRAMME SUPPORT DOCUMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project Number: MLW/02/003
+Project Title: DEMOCRACY CONSOLIDATION PROGRAMME PHASE II
+Start Year: 2002 Budget Financing (in US$)
+
+INPUTS REV "A"
+End Year: 2006 UNDP
+
+Ot-UNDP—IPF/TRAC . (Trac 1.1.1 & 1.11 1,500,000
+Executing TOTAL 1.500.000
+Agent: NEX . National Execution
+
+Implementing
+Agent: NEX - National Execution
+
+Revision Type: lNl - lNlTlAL
+
+Brief Description:
+
+The Democracy Consolidation Programme Phase ll (DCP It) aims at contributing to the Malawi Vision 2020 and the MPRSP by ensuring that
+all Malawians have been empowered to promote, protect and defend human rights. and that there is demonstrated increase in civil society
+participation in the democratic development processes. Its objectives are to support the strengthening of institutional structures and systems
+related to democracy and to support civic education for civil society empowerment. The four focal areas are: civic education on governance;
+legal reform and administration ofjustice; parliamentary and political institutional strengthening; and programme management capacity
+building.
+
+ 
+
+ 
+
+ 
+
+Approved by: Signature: Date: Name/Title:
+
+ 
+
+   
+ 
+ 
+
+‘ t I‘lir-u “"i
+‘try‘ t...'..:¢t'~~-- ZAHRA NURU, RESIDENT REPRESENTATIVE
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNDPZ
+t
+, ,. 1 5e: 
+Government:  /% fir/é?  Mfwlzm'
+1i 1
+
+ 
+
+M
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(’7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EooE< 62
+.mMOF
+
+ 
+ 
+
+ 
+
+ 
+
+32K 0:: mmﬁhb
+
+ 
+
+ 
+
+Mom EnoE< wmz sz coom2m>w ncm 9:255. 5mg
+=0=m3m>m bum attotzoi 63
+.EE
+EsoEd. 62 ‘22. 0:3 mmﬁg
+.98.
+E30E< wmz XwZ >umboEmQ H>23 moglo
+EB
+“CSOrCKx umz  mocmrtmgow w>23 wO‘QPO
+Emma—~59, 2: .30
+.mm mfwlmw on mmq .mook
+Hm. mow ‘mo  mmw E30E< 62 33.5 02.5 maﬁa
+\mﬂ m .93
+~ ma, r H _ m EooE< “m2 XwZ 60333525 8.9.0
+  $93 as»
+oﬁm \ o Hon 6 omm N w «r mm  EsoE< 62 xmz €232 aggro? mo.m5
+Ems. Sim omq..m $53 .98
+cam \o How 6 oma \m «imp fwd. EJOE< #02 XMZ E9234. mEsooo< v0.90
+good? $93 806 amp Eek
+ﬂog: mom :3 oooom mm.in EooEdzwz xmz amabom moms
+Smog QT: ooim mﬁo‘mm :33
+wow _mH 211: om» ~m So am EsoE< “m2 xmz Ewan? assists? News
+homo: 1.93 ommé Sm‘mm .90...
+So ‘5 3m ‘3 omm J“ Hom om EooE< $2 xwz Emanoo< 5.20
+toquam m>tmb£5=i< .mg
+ooodv ooodw oooﬁm 000:”: _muo._.
+ooo‘ow ooo.om oooﬁm EsoE/imz E3.“ 92.5 2:5
+25;: oooooo ooo.mm .98.
+ooo ow ooo _ om ooo 5m EooE< omz sz Emzowcoo _mcoszmE_ Bio
+3:08.462 sz 5m_>o<_mcocmEmE_ Bio
+muzmtamtoo E55222 S .F 3
+quZOmkmm 63
+woow meow vcoN mocN NOON .90... mcﬁcam mczcwEwiE. 9.23:0me 24mm
+:ozsumxm .mcozmz - xwz Socmm< @550me
+.2» ﬁre SEC . o<mh \ "5.5.02: . 3 "£23". ho 3.50m Ems.
+..< ._ 688
+
+F . mama
+
+__ mw<xn 25505 20.59.6300 >o<moosmo - 828:5:
+mEEEmEQ EmEon>mo 3262 09:5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eek
+EnoE< $2 :20.“ m5... mmdmo
+EB...
+Enosi Ez xmz 6% @103: § 9.5.5 2588 momma
+EsoE< 62 xwz 965:. 8.28-5 Some
+GEES 1.. $83095 .mmo
+EooE< 62 Rock wt: 3.2.6
+uCDOEd. HGZ  EEGU .mkxoﬁw mam—m2 ,wQEmgOEmm VG. TWO
+EooE¢ Ez sz omroé giggﬂ mo, 5o
+EnoE< $2 xmz «smegma “8239.8 3 so
+E30de $2 XwZ Embom =20 HmQEwaozmm roemo
+mécmiozmu .36
+0323K.” 6mm
+anE< 62 quOh mko<thzoombw .mwo
+EsoE< 32 ~22. mt: mméwo
+EooE< “m2 sz EQQEES gm 6, So
+1. 35:30 «me
+who—35.200 duo
+wmwomom oomgov ommﬁm :20...
+voodoo mmmqoq ommfw momqmm EgoE<omz 43.0.5 qm220mtmlhomsomm .mS
+whim: oomom: ommdm mwooomm :88.
+whim: mvmoo: ommomm wwmdmm EooE/tmz Ext. 0:: 3K3
+oooop ooooom 805m 2552. .38
+ooo on ooo~om ooo .mm ooo om: EsoE<EZ sz $9338.83 Bio
+owwomm vmoﬁq Homomm Rock
+to ‘m 3.3 .3 gm  E8E< Ez xwz so wacgmﬁen. No.20
+mmmdm Nmmdm omm§ Clown .32.
+mmm .om mom .8 omo § 5. Km €39:sz sz omomcmé Emaoi 85o
+3:83:00 Ecoth N B
+oooog oooom ooooﬂ 89$ :98 220.5 25 868
+moon meow vocN «OON NOON Each 9:35.“. mczcwEoEE. :ozntumoo 24mm
+5:390 .20sz . sz H>ocmm< mczzooxm
+_. a _.._‘._‘ 08.: . 05:. \ "€7.32: . S “mug”. 3 3.3m Ens.
+N woma ,_< _, 533m
+..  o = ww<zm E<mooma zo_._.<o_._0wzoo >o<xoOEmc - 82355.2
+
+mEEEmEQ EmEooEiQ mcgmz nQED
+
+ 
+
+ 
+
+ 
+   
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+o :88,
+0  EsoE< 52 .22. 02.5 3.me
+0  0 . w .32.
+EnoEd $2 xwz Euczm Emma
+wwtbtzm .mmo
+ .mwoh
+ anEd 62 ENE. 2.: @0060
+m “Eek
+xm ESE $2 xmz £on mcﬁoamm Sumo
+£80 Etonom .me
+whomz «quomg .03
+0 0 0 ~ 0 m 50%
+0 .0  0 0 o EsoE< 62 03.0.5 hZMElSOm .26
+000000 000503 000.0m 000 :38.
+000000 000403 000‘0m 000‘00m EsoE<Ez 3.2. 3.5 00.96
+0.0060 000003 000.3 0920.1. .32.
+000.00 000.03 0000a 0000.3 EsoE/tmz xwz mmUEm> «0.30
+000000 00003 000.3 0006mm .23
+000 .3 000 ‘03 000 ‘3 000 63 EsoEfmz sz momo “Eggscm 5mg
+EmEQSDN .nVc
+kzmsisom .26
+00050 :93; oooém “2me .33
+00060 :05: 000000 5062 E85362 Sick 62535. .000
+EnoE< $2 ‘28. 0:3 00.3.0
+EDOE< ~02 XwZ DKIOE HmczmmE 0cm mwocmeEoo 8.va
+ESOE< “m2 XMZ EmEmEmu “30:99:00 «0+8
+EDGE/x EZ XmZ mOwO “mar.ng ccw mocmhwwcoo 3.va
+35.82 a 39:93:00 .33
+meow moon doom MOON «com :30... 9:95". mEEoEmEE. countumoo 24mm
+
+ 
+
+cosaocxw .mcozmz . xmz u>ocom< mczsomxw
+ed 2; 02b - Ugh \ “ETnEZD - 8 66:3“. *0 850m Ems.
+=< ._ $00sz
+
+= 3%»; 25.00am 29.2038on >o<moosmo - 82855.2
+oEEEmEQ EmEan>mo mcozmz 02E:
+
+coma
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o qmqﬁmm @363 ommir: oooxoomg 58.
+o vmqﬁwm oﬁmdwn omméwa ooodomg “ESE/:02 dcﬂOthOQbm .mmc
+oooxom 000.3 0005 oooﬁmm .98.
+000 6m coo :3 000 ~ v 000 \mm E30E< 62 .3905 wbom2<44mow=é .mmc
+     _Nu0._u mEUCDL mcmucwEQEE. £025.5me 24mm
+.8330me .95sz - xwz $059.. mczsuwxw
+_. a _.._..w 09b - 05:. \ unzinz: - E “macs”. *0 850m Ens.
+. q. ome ._< _. 895m
+
+ 
+
+= mw<xm 5.5.001". zoﬁ<o30mzoo >o<moozmo . 828:5:
+mEEmLmoi EmEa2m>wD mcozmz 8E5
+
+ 
+
+ 
+
+ 
+
+0 «Sign @353 034: oooaomg :28.
+o vmwﬁwm wﬂmdww ommgba ooodomi ﬁEcoOHmZ ZOEDMEEZOOKWZ .mmm
+moon moon «cow moan moon Eek 9:95... 3:00 24mm
+:ozsumxw .mcozmz - sz Socwm< mczsuwxm
+w.» re... 08.5 . o<mh \ unwnoz: . S “muss”. *0 850w Ems.
+m mmmm ._< _. Eonsm
+
+__ mm<zm 25.00am zoEEZOmzoo >o<moozmo . 828:5:
+mEEmLmEQ EmEa2m>mQ mcozmz 8E5
+
+ 
+
+ 
+
+ 
+
+Annex I
+
+MAIN OBJECTIVES AND SUMMARY OF
+ACHIEVEMENTS FOR DCP I
+
+The following were the main objectives and achievements under the ﬁve areas of focus:
+
+1. Civic Education and Human Rights '
+Under this area of focus, the DCP’s main objective is to strengthen the national capacrty to
+
+develop, manage and deliver an effective and broad based civic education programme.
+
+Efforts at realizing this objective included the involvement of a number of Government
+departments, constitutional bodies and C805 in the delivery of civic education on
+democratic rights and responsibilities. Human rights awareness campaigns covered issues
+like gender, voter education and general human rights education. This effort saw the
+development of human rights civic education materials and the enhancement of the
+capacities of civil society organizations to deliver human rights and general governance
+civic education programmes.
+
+Efforts at establishing and creating awareness on human rights through civic education
+have made an undeniable contribution towards sensitising the society on its rights and
+obligations. Education materials/manuals in the different priority areas where developed
+and massive human rights education campaigns were conducted by several civil society
+organizations in all parts of the country.
+
+One of the biggest successes under this area of focus is the Tilitonse radio soap opera
+produced by the Story Workshop Educational Trust (SWET). The programme proved
+very popular and recorded a high listenership in 2001 as established by a listeners” survey.
+
+Malawians are no doubt more aware of their political rights in sharp contrast to their
+economic rights.
+
+2. Free and Fair Elections
+
+Under this area of focus, the DCP’s main objective was to enhance national capacities in
+planning and conducting free and fair elections. Activities geared towards attaining this
+objective included support for the computerization of the voters register, support towards
+CSOs capacity building to conduct and deliver voter education, provision of technical
+support to the Electoral Commission and provision of electoral materials.
+
+The DCP extended assistance to the Church/NGO Consortium, Public Affairs Committee,
+Civil Liberties Committee, Blantyre Synod to conduct civic and voter education for the
+1999 Presidential and Parliamentary Elections and the 2000 Local Government Elections.
+The countrywide programme is believed to have contributed towards the generally higher
+awareness among voters. .
+
+The Programme further provided support for the procurement of election materials. The
+Programme provided technical assistance in the form of elections experts who helped the
+Electoral Commission build its capacity for the conduct of the elections.
+
+Finally, the Programme provided support to the Electoral Commission for computerization
+of the voters roll.
+
+41
+
+ 
+
+3. Parliamentary Mechanisms
+Under this area of focus, the DCP’s main objective was to establish an effective Parliament
+
+capable of interacting with other branches of the Government and civil society
+organizations.
+
+Under this objective, the DCP sought to make parliamentary committee members and MPs
+competent to effectively and efﬁciently discharge their legislative, representative and
+supervisory functions. This objective was attained through a Parliamentary Training
+Programme, conducted at Chancellor College of the University of Malawi. The training
+programme was aimed at making parliamentarians more familiar with the roles and
+functions of Parliament in relation to other branches of the Government and other
+stakeholders. The programme was further aimed at sensitising the MP5 on gender issues.
+
+The Programme’s main achievement under this area of focus was the running of the
+Parliamentary Training Programme at Chancellor College of the University of Malawi.
+The training programme, inter alia, covered courses on human rights. parliamentary
+standing orders, gender relations, public ﬁnance and economy, public policy formulation
+and analysis, roles and functions of parliamentarians, the environment and development.
+
+Evaluations of the Parliamentary Training Programme have shown that MPs have found
+the programme very useful. In fact the programme has led to a tremendous improvement
+in the quality of debate in the National Assembly. The Programme has also helped improve
+the MP5 capacity to perform their functions in and out of Parliament.
+
+4. Legal Reform and Administration of IIustice
+
+Under this area of focus, the DCP’s main objective was to promote the rule of law by
+creating an efﬁcient legal and judicial sector, which is capable of protecting and promoting
+human rights in conformity with international norms.
+
+The main output of this area of focus was the development of a coordinated approach to
+legal and judicial reform within the framework of promoting good governance.
+
+The programme extended support to the Law Commission in the revision of the 1995
+Malawi Republican Constitution and the Censorship and Control of Entertainment Act.
+
+The Programme also provided support to Constitutional bodies (Law Commission, Ofﬁce
+of the Ombudsman, Human Rights Commission, Industrial Relations Court) for their
+establishment, operationalisation and capacity building for their staff.
+
+5. Progamme Management Capacity
+
+Under this area of focus, the DCP’s main objective was to build the capacity of
+stakeholders in the above four areas of focus to be able to implement programme activities.
+The programme was also mandated to build the capacity of the IMCHRD and executing
+
+agencies of the programme to ensure efﬁcient management of programme resources and
+timely delivery of outputs.
+
+The main outputs of this area of focus were the establishment and strengthening of the
+capacity of the IMCHRD and its Secretariat to guide the successful implementation of the
+programme and provide operational and logistical support to the Programme.
+
+The Programme has played a vital role in capacity building for stakeholders to enable them
+carry out their constitutional mandates and also effectively and efﬁciently implement
+
+ 
+
+programme activities. For instance, the Programme met training costs for numerous
+ofﬁcials from the Government, the constitutional bodies as well as CSOs, who in turn,
+were expected to share the knowledge gained with their colleagues.
+
+43
+
+ANNEX [I
+
+GRAPHIC REPRESENTATION OF THE CURRENT STRUCTURE OF DCP
+
+ 
+
+DONORS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TASK FORCE
+ON
+ELECTIONS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GOM
+
+ 
+
+ 
+
+(Advisory)
+
+ 
+
+ 
+
+IMCHRD
+A
+
+ 
+
+ 
+
+ (Quarterly Meetings)
+
+ 
+
+INTER TASK FORCE
+(Quarterly Meetings)
+
+ 
+
+ 
+
+ 
+
+TASK FORCE ON
+CIVIC EDUCATION
+AND HUMAN
+RIGHTS
+
+ 
+
+M
+
+STAKEHOLDERS
+
+ 
+
+ 
+
+(bi-annual forum)
+
+ 
+
+TASK FORCE ON
+LOCAL
+GOVERNANCE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TASK FORCE ON
+PARLI AMENT ARY
+MECHANISMS
+
+ 
+
+ 
+
+ 
+
+ 
+
+STAKEHOLDERS
+
+Civil Society
+NGOs
+
+Media
+
+Community at large
+Government
+
+ 
+
+ 
+
+44
+
+ 
+
+ 
+
+ 
+
+mcuNEo “com
+
+muEmEmE 580m
+
+moms/C
+H6550 ogouoom Ecoth
+
+poem 2.: we meson 2:
+b8 umﬁmuubm mo “~26:qu
+
+€35 oEEEwoum
+sewage—Z 353m
+
+ 
+
+ 
+
+nab .
+m0: .
+QUE . 9.832 32:39
+Om0m< . 3953qu “Snow m0 293 Bu: mo “H2688
+mocha “acumen 530% “Scum bﬁuﬁzom H8 0.558 3832 go KEEPER» maﬁuunom mas“; «o wEEEH 5.53% manna Roam—om
+83.5w
+:30 05 “0 mmo=u>uuoo¢m
+wan zozomowtm wE>oEEH
+€0me hum—om . AUmOV .05an 0”:va AMmDV
+
+EC 2: we SEEEEQ
+
+.Eeom 035m :5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mauNEU mandium :30 . Ea “528$ 2t 98 SEC
+
+6mg SEEEEE :onEmEEEx
+
+UEﬂQ was EoEEo>oU 1950 98qu 2:2: mEE-ﬁueam >9:an
+
+mmoNEU 8:988?“ H255 :83 we E25393. Em mcowmwouw “a5 8:25 09 =£EN=N==80Q 2F
+moﬁom
+“SEE—Em *0 €20 05 yo “GEO . o>nﬁcomoaum Ea “amigo
+
+nommmEHEOU 898m xaﬁauaﬁﬁmm . bnﬁumﬁx =25th diuﬂﬂmﬁ E E08313 32:31.3
+
+285:0 Seaman we £3802 . 05 we :3?on 2: MO 850 0380me was “SEEM .«o mcioﬁwsbm
+
+mammouzom . CAOV BEnmU mourcow Enouum «cuﬁuwnzaz
+
+mmuNEU Emmium 235m . can E0235 2: me 850 23an we 3:30 92%: 530m 335m
+
+mHUEOMm
+mH—MAJU—hm—me QDOKU HWGMAAH >UZHU< UEHDUENW mm>FUHHmO>mm>h \mmE—ZEGOwE
+
+ 
+
+m: xa§<
+
+ 
+
+MOZ<me>OO ".0 <mm< MI... 2. thmﬁOmntmeSEEOOm—n— EMT—HQ.
+
+ 
+
+ 
+
+ 
+
+ow
+
+ 
+
+zeta—8&8
+ouﬁooﬁom 38:8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mmmaﬁmﬁuwim 32258.0. 95 .2: E wEEouum 303395 EeEommsz
+@5580. £2?on 283 Begum oomuﬁm .mowmozcm mo x5052 Begum U5 wEEQEO Begum ac saw—«$033520
+$22 3:2:va 33on o
+596% 53qu
+33:6 $30305"ka bumqu :30 9% 352m #0236350 33 8 @322 $5.2 Begum . 3.3 ﬂown—om .5950
+Amy—0:6
+muﬁom 3.533580 EuEHuBomEm Hannah acumoawm 0.55
+3320 B002 moo—ho MUHZ “255 Rood 50 coumozwm 2&0 .50 «335:: 13332
+mOO Z 5:5 5:385:00 Educatome cam 25:3on
+253:0 Eastman 8wa 8355 $334 8553:: Euwnom 830nm mic—Em 33m
+2:3 03 EDEQOBBU
+no wimauow 3wa «o
+5803 bum «BEE Z 93 $5.32 E 5835 86> @5603 Em no 333 2: 335:3 on. 33.95 maﬁa we in
+@5234 we baht/ED .
+:ommmEESU 33 .
+335m Swim .
+355th. 5:359:00 .955 Z .
+833 00 3Eme . 889$ ﬁn;an
+€330 maﬁﬁﬁa . 833. 00 @0332 SEE. e5 00 EuagoEEH «women 3.3 mo 2:“
+amen—ESE:
+5503 mootcom 5:55:80 3:323 EuEmBQEw 32.5030
+
+waEoEmm 23:5
+
+85mg; 580m
+
+95 5950 00 @552
+
+5 EN mo Eoﬁozgﬁ
+
+E .5650 9.323.55va
+
+ 
+
+ 
+
+€390 poem
+
+ 
+
+maoumNEwwHO 528m :30 .
+Suoum Bm>tm .
+580m 255m .
+
+ 
+
+853$ 00 \CEEE
+
+ 
+
+ 
+
+383% :26:ch 5.525
+
+ 
+
+ 
+
+Ev.
+
+ 
+
+moumbmmwmz .
+306:0an buck .
+
+Auumtvm
+DESEEGU so BEEECU
+
+“amazemimam 9 353$
+
+393$
+835m bis—EEC
+3:332 «333%
+
+ 
+
+ 
+
+mcuNEU mmqowwzv ragga 2E. 03:25“? no :ouﬁSEuEE_
+sown Z hazmom < . EO<ZV oEEEwcum
+€332.32 =< maﬂaﬂﬂz =< mommmMEEoU mug. Ecoth =2Eo>oi ma? . 1:250 mE< 3:232
+"foam 38:06 . 8:2: we 3:452 . eEEnuwoum
+SEES mama . baa somtm matxx 08cm we i552 . moodium acmum “Scan: 5.53% SE;
+
+ 
+
+3085300 Food .
+F8683 .
+EoEtmaoQ Emmi .
+
+En;on 35a. ﬁaEEo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEED coach . 853. we 53:52 van 5503 @9558— n<mm<2
+:omaﬁmﬂ ENEmEEEO :uEmEEEO 05
+33:6 :mEmusnEO 2: mo SEC :mEmvsnEO 2t 05 8ch m0 @635 Emommmv me 850 2: 3 225.6
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annex IV
+
+CONCERNS EMERGING FROM CONSULTATIONS
+WITH STAKEHOLDERS
+
+ 
+
+Despite all the diverse initiatives and programmes that have taken place or are currently
+underway, extensive cross—sectoral consultations with the public have revealed substantial,
+anxieties that underline public perceptions of the democracy consolidation process:
+
+(a) Inadequate Civil Society Participation
+
+Any Government cannot undertake the enormous task implicit in promoting and
+consolidating democracy in isolation. The participation of civil society as a whole is
+indispensable. The visible reluctance to involve civil society in political decision-making
+serves to reinforce the suspicion that Politicians and Civil Servants will only serve their
+own interests whilst merely paying lip service to tenets of good governance. Civil Society,
+therefore, feels excluded from the governance process.
+
+(b) Public Scepticism
+
+The freely elected representatives of the people in a democracy are duty bound to
+effectively contribute towards the building of the institutional infrastructure. But the
+current situation in Malawi points towards a deep distrust, cynicism and a growing
+acrimonious feeling between Constituents and their MPs, the Legislature and the Executive
+Branch, Civil Society and the State. This is ﬁirther exacerbated by recent Constitutional
+amendments such as The Abolishment of the Senate and The Defection Bill, which clearly
+display the inability of MPs to put the national interest above adherence to the party line.
+
+(c) Fear of Concentration of Powers
+
+There is growing anxiety within the populace and W5 who see an alarming accumulation
+of power by the Executive Arm of Government, thereby eroding the present system of
+checks and balances. The balance of power is further imbalanced by the fact that
+Parliament relies on the Executive arm for funding, and this can be used as a subtle
+leverage by the Executive. The abovementioned constitutional amendments have further
+reinforced this suspicion.
+
+((1) Political Intolerance
+
+The growth of inter-party, intra-party violence, intimidation of the media etc. are all vivid
+examples of intolerance between players in the political arena and this scenario is creating
+tension and acrimony which detracts from healthy democratic activity. Seemingly endless
+streams of political rallies are used as platforms for political viliﬁcation and character
+assassination, thereby straining the delicate fabric of social harmony.
+
+(e) Inadequacies of Political Parties
+
+Political Parties appear to have serious weaknesses, which adversely impact upon their
+behaviour and performance. These include weak leadership (Little or no renewal or
+turnover), weak ideological base (thus impaired vision of the way ahead), dysfunctional
+formal structures, no formal membership data, no formal revenue generation, lack of
+accountability (no audited accounts — thus ineligibility to collect grants from Parliament).
+
+(f) Blurring of lines between Party and Governmental Role
+
+Both the ruling Party and the opposition have clearly deﬁned roles to play in the
+governmental process, however, there appears to be an inability, or unwillingness to draw a
+line between party and governmental roles. This is manifested in many forms, e. g. usage of
+
+ 
+
+state functions and government resources for Party campaign purposes by the ruling party,
+and boycotting state functions as a political protest by opposition parties.
+
+(g) Corruption
+
+Corruption is seen to be prevalent at all levels of Government. Stakeholders have become
+very cynical in their assessment of integrity and honesty of Politicians, civil service etc.
+This cynicism has not been helped by frequent media reports of corrupt practices within
+key Government ministries such as Education and Health. The cynicism also leads to
+disaffection with all players on the political scene and undermines the legitimacy of the
+Government in stakeholders’ eyes. Indeed, this may be one cause for voter apathy and the
+widening communication gap between civil society and the Government.
+
+(h) Social and Economic Development
+
+Economic reform and structural adjustment programmes that do not heed social realities
+could destabilize processes of transition towards democracy and fuel social and political
+tensions. The social impacts of structural adjustment programmes are being deeply felt,
+whilst the achievement of growth with equity is not really filterng down to the grassroots
+level. Current economic reforms do not ensure a social security net for the most vulnerable
+and marginalized groups in order to eradicate poverty.
+
+(i) Fragile Democratic Culture
+
+The present political structure, though evolving, suffers from profound institutional and
+organizational weaknesses that must be overcome in order to prevent serious setbacks. The
+central aspects of this problem often stem from a lack of capacity in democratic
+institutions, mechanisms and experiences or traditions and above all, the lack of a truly
+democratic mentality and attitude, which frequently tends to give way to intolerance and
+violence instead of unity of purpose and reconciliation. These shortcomings are related to
+economic, political, social, cultural, ethnic and religious factors.
+
+(j) Lack of Management Capacity and Financial Accountability
+
+The perceived lack of transparency and accountability in Parliament, Public sector. NGOs,
+Media have a tendency to lead to misconceptions, which, in turn, create suspicions in the
+public mind. This then causes deterioration of conﬁdence and public trust.
+
+(k) Decentralisation
+
+The realisation that concentration of power is inimical to democracy does not seem to have
+permeated into the political psyche. Instead, the norm appears to be competitive and
+confrontational rather than cordial co-operation. For example, MPs view Local
+Government Councillors with antipathetical suspicion and their relationships are often
+confrontational rather than a co-operative effort towards realisation of common goals.
+
+(1) Privatisation
+
+The privatisation process disposes of Government assets to the private sector and
+ostensibly uses the proceeds emanating there from in social development projects.
+Therefore, loss-making companies, that are run by statutory bodies at huge cost to the
+taxpayer, are converted into productive entities which increase employment and generate
+Government revenue through tax, whilst, at the same time, funding is created for
+development projects. However, the common perception seems to be that these companies
+are being bought by foreign ﬁrms, with huge cash reserves, against which the local
+entrepreneur cannot compete, while the proceeds are merely used to ﬁll the government
+budget deﬁcit and not really used speciﬁcally towards development. Thus these national
+assets are being snatched from the people of Malawi with little or no visible long-term
+
+49
+
+ 
+
+beneﬁts accruing there from. This concern is further exacerbated by the seeming lack of
+transparency attached to the process.
+
+(111) HIV/AIDS Pandemic
+
+The inexorable spread of the HIV/AIDS virus is affecting the most productive sectors of
+Malawian society and shows no sign of abatement. This has created an atmosphere of fear
+and uncertainty about the future evolving into an attitude of fatalistic resignation.
+However, the public feels that Politicians and Government ofﬁcials are merely paying lip
+service by spouting appropriate rhetoric at opportune moments. The issue is not really
+being tackled head on and this spells catastrophe for the future of Malawi in all aspects.
+
+50
+
+ 
+
+ANNEX V
+
+CHAPTER 6 OF THE APPRAISAL REPORT
+1CONCLUSIONS AND RECOMMENDATIONS D
+
+From the analysis of the proposal, the Team has drawn a number of main conclusions,
+
+forming the basis for the recommendations that covers the issues in the Terms of
+Reference.
+
+Conclusions
+
+As a programme proposal, the document is insufﬁciently developed by a number of
+
+standards, as it is not covering integrated elements of a formal proposal like workplans,
+timetables, budgets etc.
+
+The document should rather be regarded as a concept paper, in which function the analysis
+of the ﬁeld of democracy consolidation seems relevant and well taken.
+
+It seems to capture the ﬁeld in a comprehensive and well—reflected way. which covers the
+relevant problems and challenges.
+
+As a potential programme, it also seems very much relevant and needed and seems
+basically not duplicating other programmes or initiatives the way it is proposed.
+
+It is however still not focussed enough and it does not seem sufﬁciently to exploit the niche
+at which the analysis points.
+
+The programme therefore needs to be reoriented and re-focussed towards a basis where it
+
+can play both a strategic and a facilitating role in the whole ﬁeld of democracy
+consolidation in Malawi.
+
+In that relation, the organisational set—up of the programme seems not to provide a viable
+mechanism for a professional, unbiased and efﬁcient management, neither for the linkages
+the programme could provide in the ﬁeld of democracy consolidation.
+
+Recommendations
+
+The proposal needs to be revisited in order to produce a comprehensive and complete
+programme document.
+
+The programme should be based on two legs: empowerment of civil society and facilitation
+of a democratic development in society.
+
+The main focus area should be democratic empowerment of the civil society, which
+basically is encompassing the area of civic education in the proposal. By this focussing. the
+team will point to the need of making this programme the main programme for a bottom-
+up approach in the building of democracy in Malawi. Although the focussing area should
+be civil society in general and civic education in particular, the clients of the programme
+could be drawn from everywhere in society, according to the objectives of the different
+projects or initiatives within the programme. The main goal of this focussing would be
+trying to empower people from below in such a way that the political system and society in
+general could develop a more democratic culture.
+
+51
+
+ 
+
+The other focus area should be building a capacity in this programme for information and
+knowledge sharing on governance and facilitate the co—ordination of different initiatives in
+this ﬁeld outside the programme. This should include the establishment of a databank on
+good governance activities and a capacity for analysing gaps and needs in addition to
+linkages and duplications in the whole area of democracy consolidation in Malawi.
+
+The programme organisation should be made more simple, with a two—level management
+set- up. The National Committee should be kept as the policy-making and co-ordinating
+body, but not enlarged with all stakeholder groups as proposed. The number of
+representatives in the committee should rather be reduced, including in the committee only
+those directly involved in the running of the programme. There should be a representation
+from civil society, as proposed, but in the view of the team, one should not confuse
+stakeholder representation with programme management in this committee. The committee
+should operate as a normal steering committee or board, meeting maybe quarterly.
+
+The Programme Ofﬁce should be strengthened and given wide authority to run the
+programme, within policy guidelines and regulations given from the National Committee.
+These policies and guidelines should however be discussed with the stakeholders,
+including the donors and there should be a general agreement on the platform of the
+programme. The ofﬁce should be established as a professional unit and ensured operational
+independence, including assessment and decision on individual project proposals. The
+Programme Ofﬁce should also be given a clear mandate, stating what tasks it shall
+
+perform, what responsibility it has and what the relation to the different stakeholders
+should be.
+
+Although the Programme Ofﬁce might need advise and support in its work, the team
+recommends that the standing Technical Committee be removed. In the view of the team,
+the committee seems not a feasible mechanism for assessing and deciding on proposals, as
+it confuses the authority of the Programme Ofﬁce. The team also doubts whether the
+committee can provide all the necessary competence needed, without maybe be enlarged
+even more, accentuating the already existing problems of this committee concerning
+meeting schedules, bureaucratic way of operating and so on.
+
+A better way to organise the need for technical advise and support would be to give the
+Programme Ofﬁce the authority to seek the help needed where the exactly deﬁned
+competence is found, even with the possibility of outsourcing tasks if needed, but retaining
+the full responsibility of operating the programme to the ofﬁce.
+
+The Consultative Forum should be made the main stakeholder forum, which should be
+open for all, including donors and government. The forum could meet bi—annua‘lly in the
+beginning of the programme period, then annually when the programme is well
+established. The forum should base its discussions upon an annual report provided by the
+Programme Ofﬁce, including an annual analysis of the status of the whole area of good
+governance in Malawi. The forum should have no authority to instruct the programme
+organisation, but the discussions in the forum should be fed into the workings of the
+
+National Committee, giving input to the strategic and policy-making functions of the
+committee.
+
+The ﬁnancing mechanism should be based on a basket fund, thereby providing the
+programme with a cost efﬁcient and uncomplicated administration of the activities. The
+mechanism should remain at UNDP, but there is probably a need for strengthening the
+capacity and competence at UNDP in handling such a fund.
+
+ 
+
+In that connection there is also a need for developing a monitoring system, enabling the
+programme to follow the different projects and activities closely in the ﬁeld.
+
+53
+
+ 
+
+ANNEX VI
+
+PAST LESSONS LEARNT AND OPPORTUNITIES FOR
+GOVERNANCE/DEMOCRACY CONSOLIDATION
+
+During the past nine years, the Government has initiated and implemented a number of
+projects and programmes to reform the governance system in the country. The
+overriding objective of these projects/programmes has been to develop capacity for
+engaging in multiparty system of governance and in enhancing the efficiency and
+productivity of the public sector. Some of the lessons learnt from the implementation of
+these projects and programmes include the following:
+
+Government established the legal framework and institutions to combat
+corruption and improve transparency and accountability in the management of
+public resources. However, there is need for strengthening the human. financial
+and material base of governance institutions working in the area of transparency
+and accountability to be able to act as effective interlocutors of civil society.
+Fraud and corruption can be averted through independence and autonomy of
+action and strategic civic education. Current systemic institutional rigidities
+make it difficult for constitutional bodies and civil society to exercise such
+autonomy and independence of action.
+
+Government established forums and institutions to promote broad participation
+of the citizenry in the country’s political processes during the transition from
+single to multiparty system of governance. The inauguration of the new
+constitution still requires a systematic approach to governance. Setting an
+enabling environment for fair and equitable political participation is essential
+for raising awareness of citizens about their democratic roles, rights and
+obligations. This contributes to nation building and unity of purpose in tackling
+poverty and socio—economic development.
+
+While Government has attempted to address the need for objectivity in setting
+the national agenda and development priorities, the political discourse has
+continued to emphasize patronage, partisan political development and regional
+tendencies. There is need for change of mind-set in response to the new
+Constitutional order. The strategic opportunity to translate constitutional
+provisions and national development agenda into an integrated focused agenda
+has not been adequately tapped due to capacity constraints in institutions that
+are responsible for those areas. Consequently, human rights issues and the rule
+of law have not been adequately enforced.
+
+Government has undertaken a number of public sector reforms aimed at
+achieving public sector efficiency and effectiveness in the delivery of public
+services. However, there are signs of growing policisation of development
+which has adversely affected the involvement of all stakeholders in. the
+planning and implementation of poverty reduction activities. Political discourse
+has deepened expectations of material gains in return for political allegiance
+and this is creating a sense of dependency and excessive expectations of
+Government. There is need for transparency in the political environment to
+enhance performance of the public sector.
+
+54
+
+AnnexVII
+
+Standard Letter of Agreement Between UNDP and the Government
+on the provision of Support Services
+
+Dear Mr. Chilambe,
+
+1. Reference is made to consultations between officials of the Government of Malawi
+(hereinafter referred to as “the Government”) and ofﬁcials of UNDP with respect to the provision
+of support services by the UNDP country office for nationally managed programmes and
+projects. UNDP and the Government hereby agree that the UNDP country office may provide
+such support services at the request of the Government through its institution designated in the
+relevant programme support document or project document, as described below.
+
+2. The UNDP country ofﬁce may provide support services for assistance with procurement,
+reporting requirements and direct payment. In providing such support services, the UNDP
+country ofﬁce shall ensure that the capacity of the Government—designated institution is
+strengthened to enable it to carry out such activities directly. The costs incurred by the UNDP
+country ofﬁce in providing such support services shall be recovered from the administrative
+budget of the office.
+
+3. The UNDP country office may provide, at the request of the designated institution, the
+following support services for the activities of the programme/project:
+
+(a) Identification and/or recruitment of project and programme personnel;
+
+(b) Identification and facilitation of training activities;
+
+(c) Procurement of goods and services;
+
+4. The procurement of goods and services and the recruitment of project and programme
+
+personnel by the UNDP country office shall be in accordance with the UNDP regulations, rules,
+policies and procedures. Support services described in paragraph 3 above shall be detailed in an
+annex to the programme support document or project document, in the form provided in the
+Attachment hereto. If the requirements for support services by the country ofﬁce change during
+the life of a programme or project, the annex to the programme support document or project
+document is revised with the mutual agreement of the UNDP resident representative and the
+designated institution.
+
+5. The relevant provisions of the (15th July 1997 of the UNDP standard basic
+assistance agreement with the Government) (the “SBAA”), including the provisions on
+liability and privileges and immunities, shall apply to the provision of such support
+services. The Government shall retain overall responsibility for the nationally managed
+programme or project through its designated institution. The responsibility of the
+UNDP country office for the provision of the support services described herein shall be
+limited to the provision of such support services detailed in the annex to the
+programme support document or project document.
+
+6. Any claim or dispute arising under or in connection with the provision of support
+services by the UNDP country office in accordance with this letter shall be handled pursuant to
+the relevant provisions of the SBAA.
+
+7. The manner and method of cost—recovery by the UNDP country ofﬁce in providing the
+
+support services described in paragraph 3 above shall be specified in the annex to the programme
+support document or project document.
+
+55
+
+ 
+
+ 
+
+8. The UNDP country office shall submit progress reports on the support services provided
+and shall report on the costs reimbursed in providing such services, as may be required.
+
+9. Any modiﬁcation of the present arrangements shall be effected by mutual written
+agreement of the parties hereto.
+
+10. If you are in agreement with the provisions set forth above, please sign and return to this
+office two signed copies of this letter. Upon your signature, this letter shall constitute an
+agreement between your Government and UNDP on the terms and conditions for the provision of
+support services by the UNDP country ofﬁce for nationally managed programmes and projects.
+
+Yours sincerely,
+
+ 
+
+Signed on behalf of UNDP
+Zahra Nuru
+Resident Representative
+
+For the Government
+
+Mr. Patrick Chilambe,
+Secretary to the Treasury
+Date: .... ..
+
+56
+
+ 
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+ANNEX VIII
+
+PARTICIPANTS TO THE PSD FOR DCP II STAKEHOLDERS
+CONSLTATIVE FORUM HELD AT KU CHAWE INN. ZOMBA
+
+Mr. Adams D. C. Banda, Director of Research and Documentation, Malawi
+Human Rights Commission.
+
+Mr. Peter Ngulube Chinoko, Manager, Foundation for Human Rights NGOs In
+Malawi (HURIMA).
+
+Mrs. Makoko Chirwa, Women’s Voice.
+
+Dr. Vera Chirwa, (Commissioner) Executive Director, Centre for Advice,
+Research and Education in Rights (Malawi CARER).
+
+Dr. Wiseman Chijere Chirwa, Deputy Director, Centre for Social Research.
+Mr. Marvin Hanke, Managing Director, The Story Workshop.
+
+Mrs. Diana E. Kaluluma, Controller of Human Resource Management and
+Development, Ofﬁce of the President and Cabinet.
+
+Mrs. Susan S. Kaunda, Programme Manager, Development Centre.
+
+Mr. Munday S. Makoko, Programme Analyst, U. N. D. P.
+
+Mr. Jockely Mbeye, Assistant Resident Representative, U. N. D. P.
+
+Hon. M. C. C. Mkandawire, Chairman, Industrial Relations Court.
+
+Mr. Alan Msosa, Research Ofﬁcer, Office of the Ombudsman.
+
+Mr. Amani Mussa, Programme Manager, Democracy Consolidation Programme.
+Mr. Ollen Mwalubunju, Centre for Human Rights and Rehabilitation.
+
+Mr. Martin Kaluluma Phiri, Administrative Ofﬁcer, Democracy Consolidation
+Programme.
+
+Mr. Joseph L. Taju, Programme Accountant, Democracy Consolidation
+Programme.
+
+Mr. Lovemore D. Winga, Under Secretary, Law Commission.
+
+Mr. Bjorn Lunoe, Consultant, Scanteam, Norway.
+
+57
+
+ 
+
+ 
+
+ANNEX [X (3)
+
+TERMS OF REFERENCE FOR THE PROGRAMME
+STEERING COMMITTEE gPSCL
+
+1. ORGANISATIONAL STATUS
+
+The PSC is an advisory, policy making and controlling body in the Programme
+organization, operating within the framework of the GOM/UNDP Agreement and other
+agreed plans. The PSC is responsible and answerable to IMCHRD.
+
+2 ROLES AND RESPONSIBILITIES
+
+The role of the PSC is to monitor the implementation of the Programme and guide the
+Programme Ofﬁce in the execution of the programme, intervene when conﬂicts occur and
+take the required policy decisions to ensure its smooth implementation.
+
+Basic changes in the objectives and scope of the Programme shall be referred to the annual
+consultations between the Agreement partners.
+
+3. COMPOSITION OF THE PSC
+
+The PSC shall comprise of the following members:
+
+Deputy Secretary to the President and Cabinet — Chairperson
+Ministry of Justice
+
+Parliament
+
+Ministry of Home Affairs
+
+Ministry of Education, Science and Technology
+
+The Judiciary
+
+Department of District and Local Government Administration
+One Constitutional Body
+
+Two representatives of the Civil Society
+
+0. UNDP, representing the donors as an Observer
+
+"PWNQS’M‘APNE‘
+
+The Programme Ofﬁce shall act as the Secretary to the PSC.
+
+4. MEETINGS
+
+The PSC shall meet every quarter, or otherwise as decided by the PSC. and the meetings
+shall be called by the Chairperson. All PSC members shall have the right to request ad hoc
+
+meetings to be convened as deemed necessary.
+
+The Programme Ofﬁce shall submit quarterly progress reports to the PSC members in
+advance of the meetings. The progress reports shall form the basis for the meeting agenda.
+
+Minutes shall be kept by the Programme Ofﬁce or otherwise as decided by the PSC. The
+
+minutes shall be formally approved at the consecutive meeting or else as the PSC may
+decide.
+
+58
+
+ 
+
+ANNEX IX (1))
+
+TERMS OF REFERENCE FOR THE STAKEHOLDERS
+
+MM
+
+CONSULTATIVE FORUM
+
+ 
+
+1. ORGANISATIONAL STATUS
+
+The Stakeholders Consultative Forum shall be an independent body established to support
+the planning and implementation of the Democracy Consolidation Programme
+
+2. ROLES AND RESPONSIBILITIES
+
+The Stakeholders Consultative Forum shall act as an advisory/consultative body to the
+Programme Steering Committee and be available to the Programme Ofﬁce as an
+innovative discussions partner.
+
+3. COMPOSITION OF THE STAKEHOLDERS CONSULTATIVE FORUM
+
+The Stakeholders Consultative Forum shall have 30 members, selected/appointed by
+IMCHRD.
+
+The members shall have expertise in socio-economic matters, civic education, governance,
+human rights, legal matters, parliamentary and political issues.
+
+The Chairperson shall be elected by the Forum members.
+4. STAKEHOLDERS CONSULTATIVE MEETINGS
+
+The Stakeholders Consultative Forum shall meet bi-annua'lly, or otherwise as requested by
+the Steering Committee/Programme Office.
+
+59
+
+ 
+
+1.
+
+ 
+
+ANNEX IX (c)
+
+TERMS OF REFERENCE FOR THE PROGRAMME OFFICE
+
+ 
+
+ORGANISATIONAL STATUS
+
+The Programme Ofﬁce is established as the executing body under OPC for the planning
+and implementation of the DCP.
+
+2.
+
+ROLES AND RESPONSIBILITIES
+
+The Programme Ofﬁce shall perform the following roles and responsibilities:
+
+3.
+
+Plan and implement the Programme within the framework of the GOM/UNIDP
+agreement;
+
+Evaluate and contract the planning and implementation of Projects meeting the
+objectives of the Programme;
+
+Coordinate, monitor, control and report on the Programme implementation process;
+Act as the Secretariat to [MCHRD, PSC and Stakeholders Consultative Forum;
+Plan and implement meetings, seminars, workshops. etc. as required for efﬁcient
+and effective planning and implementation of the Programme; and
+
+Establish and maintain an information database. comprising relevant information to
+be made available to the different Programme Target Groups and Beneﬁciaries.
+
+COMPOSITION OF THE PROGRAMME OFFICE
+
+The Programme Ofﬁce shall comprise expertise within:
+
+Management and administration for planning, implementation. monitoring, quality
+and cost control and reporting;
+
+Civic Education; and
+
+Governance and Human Rights.
+
+60
+
+mummmnoﬁ 33:29 * m
+ﬁmbﬁ. FEE/w HE £53m H4. w
+
+NM 8 H \E newcomuﬁop 598080 2 3354 FEB E52 H8 £233 2 m
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ougwcsoo
+
+:Nd .L. m". :N 9. tm N— mim m: Room NF ESQEMU w_m:$mE c2638 Q20 *0 hBE.de mﬁtmﬁE 5:838 £20 mums—hm.me v. F.—
+
+met :mEsc Ucm mocmEm>om
+
+m m P r P v m p N? 330.93 2&5me 5:838 0E0 *0 39? co mﬁtmﬁE E35028 0E0 @0650 m. _.._.
+
+hmoﬁhm aouﬁnuEuEEm
+w _. Nr E905...“ >mm~gm 5.5825 230 m @2960 mg;
+085$on
+
+p r N— nmao_m>mu mEEmaoﬁ 5:838 220 U605 acumen—um Bio 305 a “HEP/0D 5. ~ g
+
+E 3562.: E 352.3 >3.
+Bow 3 $5.5?an
+5338 a was 9:0: cuss: co Bygwcow :03
+6:36 5 :5: \com 9 was tam $3.65,: c8828 0.20 8289
+
+mm; Qua :08 s 8538 9: ﬁx .
+
+wEﬁEEOo Sac eczema...— 8 829:8 scion 0889—on
+E A $8 $8 Nw we can we "6:32 anwi («0 noun—03
+
+no ﬁEmEEou («0 53:5: 05 E 0322: “Ram o >958 2:
+
+:3 nummmﬁoxo 3 E05 mmﬁnﬁbon $92.. USSEQEEM mum Ego—05¢ .muczoﬂsw
+
+Ea 9.3288 «c 2238 8m 95 muuﬁnmmaomme “58$on 83:: was 5.3 2533 333.8%“
+
+nan mEmt :05 mo 29% Ba 233252 2 ES» dEESon commence Bio 985 < A
+
+av @ Q .3532 3.8%... S Eeaz 59:0
+
+his. 2 s. .5; s. b; s. L: m.2
+“www.mmﬁmm m 80> w 89> m Em; N 38> _. 89,
+28.3 .mcm 238:8 co_§cme_qE_ mwcowmQSEQmoﬁc. mm:_>_5< >3. b.8822 59:0
+
+ 
+
+x xmcc<
+
+w02<2¢m>0mu 20 ZO_._.<UDDN 0_>_0
+An—On—v 25n— mZO_._.<¢Wn—O WEE—(£00m:
+
+ 
+
+No
+
+3an 253.2.» “.5 Eva: @238 $2.:va 3m 83H m
+
+952:5 $853  w
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ceamEEEmﬁ
+we moms :omummgtommc we
+8:89 E oxoom Np mums uoﬂome we 52:5: E momungu §Om < 0
+56:8. $8 maﬁaEB
+mEﬁﬁEoo 395— «o .5353 E A5533: pxém < o
+*0 .383: :. “waEﬂESmo £9.85
+5 5833.358 £00m NF .md €02.62 53 PE: :OUwQECum6 we macaw =< Wm
+H5625 E88 9 Equ 3E3
+Eouzom .OmU . EuEEo>oO mm 333% on 2
+:03 mm xuﬁuoEuu 3E mungaum Evan—232v
+$95.05 a dam—Manna“ x53 9 Equ Sea :23 a
+. :0 DE 0 D 0 CM D Em M :—
+39an E $8 NF WMWEOS ~3E3me~WmWEWuu MWmWMSwNMmﬁ a
+$8.83 axoom . . . . Hmaﬁa—£33 823:: >oﬁooEmn *0 coﬁnzouwcoo ucm
+Awnouﬁ .wd 45532“ 53 mm: 3:329. Ewmmom vd mocmEm>oo E EUEQE ﬂ bmﬁom =20 9:. .N
+6v @ E .8952 .2865 8 .0252 52:0
+6 E _ s. E .2 E _ .2 E _ .2 E _ s.
+new wmwwm “Mum m 89> v .mm> m 53, N ﬁm> F 50>
+33.3 act 2328 coszmeﬁE. wmcoﬁmﬂitoﬁoﬁc. «9228.1 >3. hwnEsz 59:0
+5:828 5:833
+RN mr NF or N_. 220 .5256 0" 8:050:96 9.25:me *0 59:52 220 ..m>=0U 0“ wOwO 8 €088 25m 5. w. r
+_m>m_ £09685 E van chSﬁmE
+8: com 3 com mp 009 mp cow 3 om NF 8:5. 320 95.: 5E2: *0 59:52 EcoEwonum E 820 9:9. :mEzc E8“. 0. :
+.wEo: 5:5:
+R E. pm 9 R 9 km NF “NP mp 8.960 30:36 E h3:52 Em mocmEm>om co mcoﬁnEmo wwwcwﬁzﬁ
+8 m E m S 2 NF 2 m? m m? EEmEmag m6an 8:838 22828E=z Em 8:838 920 @950 6:250 m. E
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E was. ccm cgﬁcwﬁmtg .ccEcmE
+mEEEmQQ “cogsgok 5:8 E wOmo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+quoEoEEm mam moaoﬂoﬁv .
+$mm exomh NF Egg £83 98 mommoa‘sm Jonson 389% Mo $9.. “Em Dam EmEEm>oO cmm‘Ewn QEEmEtmn. M
+Q E S .352 .2865 E .352 5&5
+A no 2—2 2 2 .2; s. t: s. b: 2
+wEEE .n. 90 Em Bm Em 30 .mm
+acmmstm§oc m > v > m > m > w >
+«$93 as“. Ezumcom cozﬂcmEmEE. mmcowmwgﬁboﬁoﬁE wmw_>_8< >mx tmnEzz 59:0
+“EOEQEEU van .Eoﬁwnbﬂ .«0 £3502
+£53325 inﬂame «Beau—u («0 $335.:
+comm com NF com NV 000.. N? com NF 86:28 mcmﬁnEmo *0 59:32 was 3—8 05 no 53338 Bio 83:50 m‘md
+20> Cu 600m 05 GO
+8 m E m m. BEmEmEE 8:828 .29 8 £833 6 59:52 mania“ as, £8853 58> x580 12
+$3338
+_. F NP @3055“. mEEmoﬁEmE 53ch 5.. mméouiw mEEEooa E Enema Emmbmcﬁﬁ ﬁNN
+cows—89 cam EmEmmmcmE 65:00
+up n NF m w— m NF m N— 2233 m5EE$oEnEaZ 5 235m. .5823: 6:5 EOE—0Q 55... m. ﬁw
+9.6.52 momma 5v. wocmywimbo new.
+9.5.55 wzwcmmcoo 6985.9 803:8 96:53
+on of NF or N” w NF 8:253 me>nom ho .3532 new EOEQa BE mmE>=om toaasm N. rd
+0 R5822
+com; 08 mp 09 NP 856.2 8258 :o mcuﬁacao “o 598:2 Hogan :0 5:336 230 3:250 2d
+E 3.8.0.25 E 352.2 >8.
+mnouoﬂm EoEEo>oO :33
+tan 3656 can 2: maﬁa b.2300 05 39%
+E89 no 838:: E 38qu «.0988 < o
+3305 2: we :oumuobm EB?
+3.58%»: no mBumZBE £95m We 3:53. -
+ﬂcﬁﬁEoo $899
+5 v oxoom nroom S. was?» 2: Ban gm wctsc “283 tomca—
+SEmEEou mo 59:5: E 5.533: excom < 0
+92:3 v $8 #8 NF £5820 ban ES waist .283 $58
+9.: 515 BE £55.:an E 8:262 swam < o
+nmﬁcmznﬁmo
+amaoﬁu .wd down—6:8 En amazon? haw can 02m 9N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+m m m: m E m S 5&8 «80 we 59%: Em 539 so 88 ho @088 95m 3%
+1w rmN NV 1m .N NF :w NF 85255 warm.me ho EEsz 3.55:30005 Dam >ocmhmawcm: co ﬂatmme
+m m E 88.9% mange 6 89¢ Susana 220 9m:_Emmm_u Em 8630 N. 3
+ﬁnEmadoUum 3cm 558%th
+my m N? m E. m Nw m Nv BEoEmEE £00.65 .5 .wnEJZ Mo 838th ca 55833 239 “2680 «a H 4..
+E 35%»; 5 3.3%“ >3.
+EmEEw>o®
+w£ ct; Ema. 3:026 Ucm >368 .36 .3 83:86
+E. m N, w E. v NF v m” £58. @365me EwEEm>oO @9830 3.
+5338 ucm gm: .6 9530:. Eat
+A £on #8 NF 96% $25885 *0 “8:5: E wmmmbE nmeow m4»
+“5er mEEmaem we vcm
+v «omm oxomw NP m5 3 8289 wmmmo 55.58 E c2828. $mw we mocﬂﬁEoo
+Emeu Q 2%.. 9m Em 5:59:388
+panache“. can 98¢ «0 3522: no mm=.30=8 Ucm >ocmhmawcm= *0 320553..
+A $3 oxoom N? was 85:3 .wEBoEb—umﬁa E 3385 «wow < We van 3.9th $5 3 $525 Em 33,582 .v
+§ 5 E 62...: .285... E .3832 5&5
+his. to. 2 b: 2 b: 2 b: .2
+ﬁwﬁmmﬁmm m Em> v 88/ m Em; m Em> F 56>
+amen... as“. minocom coamEmEmaE. wmcowmQSEQmoﬁc. mmE>zo< >3. \LmQEsz 59:0
+coﬁcmswaﬁ Q can
+w P m Bagmﬁu 5.8 5.8 siesta s 233.9% 3&5 m‘ 5
+8§Eu>om
+5 860m Bm>tn Ea mOmU 4565050
+we 8265.: ER 36.. on. no mdwﬁmﬁmu
+w m NF 0 NF umEmEmEE £8.05 .0 LEEDZ mmocoﬁam was 3:353 230 6:980 045
+cocﬁnoEuEEm
+USN matBEoE 4589293 523
+E N o m S m Np m E 923 €088 5? 866mm 38 3.85:2 5 Sa 93 9 528m :30 we bugs 23m 25
+E 3.28.5 E Egan! >3.
+82mm mEEmﬁQn‘ 05 “o “Em @215 853% wocmEo>oa
+A gm“ camp 8 .82 s SEES 328m =20 :_ $885 #2 ad
+$N___s BEaEmaEm ES Em 832.33%
+Em 88.9% >_E_o_ was Sagas cam 9:382 mm m_ was. Ea :oﬁEmEmaé .mgccma
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$5.0m \EczEEoo
+R n m: 2 E S N. 8:89 £3.20 ho ESE 8 298.53 mmmcmﬁam 5&3" :3
+:m .L N? :m E an E i m: 535% magmas .6 gage . 83:58
+outﬂow EEEEbou .5 £3.65: common?» 339
+m m Np $32906 @8532 "—0 one»... .«o commEEommE can Evans—gun uOQQQmHNw
+:m a... N? in Np 1N NF 5;, N? 859$an 2&5me 96 Eycmac
+32 mo BE
+m m NF SE50 mﬁrmﬁt “0 $9»... any so ﬂatuqu Bmzahummmu wan 335D mgﬁ
+mmﬁcmmm EmEoEoEm
+2 ¢ N, v ﬂ v S v NF Emma“ 9552 B .3522 3m. .2 99858 gmbgm 5380 NE
+mm m NF Or NF Ow Nw m Nw ngrcm—QF: WEWEQ *0 LEE—dz .33 MO 2:.— on“ GO $058360 230 HUEUEOU 9 —.m
+2: 3.5.8:: E 8_E_6< >3.
+cogﬁmébﬂog @5282 m5
+A $8 $8 NF B U983. 935:0 ho 59:2: 5 c2838. $8 mm
+A $8 $8 NF mﬁﬁcg
+m5 Emoom 98 *0 995m mcmugo 6 «com .
+mvoﬁouﬁum QQM>HOm %umﬂsaEOU
+A o\com .wxoom Nw owe—Q58 azammoooam mac—Hobo mo exam.
+“Sow .535 duouoﬁa E can :m .3 Bun—moon was
+“5920?; mm wﬂoaoEOm 3.552? “O 0365.3 2; Nm
+53332” 5.3332
+05 magma Eommwuuu v58 2 ounouonuﬂ§mh u
+30:3me wnzuchﬁF—EEEOU
+3 8982 30353 E 5835.. $3. u
+A ox.va o\omn NP uEto E acuuzceu $5” 0
+v $3 £03 NP §om B 3262 soon PE:
+v u\ mm o\ mw «V 8982 SEmEEOQmaouSOS mo 53:52 o
+O 0
+“50¢
+$08 $8 a :52: $5338 58 m2 32 5:8:
+mo 23 0% 5w Somman we 05:30 ﬂ .m 9: co ENEmcmm $8 92 mcm§mﬁ2 .m
+av Amy E .3532 8.3%... A 5 52...: 535
+hi: E s. b: s. b: s. b; 2
+ucm mm m 58> ¢ an; m Em> N 59 F 80>
+£0ng 6cm Qaumcow cowmwcmEmﬁE. mmcoﬁwmgtoﬁoiE me>=o< >3. \hwnEsz 59:0
+_\ — _ ﬂ b _ m§_ucqum EmEEm>oG *0 mEoEoE _
+
+ 
+
+m5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EDBOQ we 5.5333
+A oxoom oxoom N? m0 233:: uﬁ :o 335:3 3356 we @mom W:
+3125:: 0:me 2: E5563
+NF 0 N? m NF m up a NF oEEEwobm 05 ESE 38.3%“ 3:23: mo 38:32 v...“
+Q Q E 59:32 SE22. 5 .2252 59.5
+5;: E 2 b: s. b: s. 5— 2
+ﬁﬁﬁmnm 23, 28> 23, was, cg;
+$098. as“. minmcom comewEmiE. wmcoﬁgétoﬁoﬁc. mmﬁ>zu< >3. hmnEzz 59:0
+$531338
+:mN 2% NF tmé NF :m 9. 1w NF EEnEwﬁ mﬁrmﬁE *0 2:530 matmumE £28038 £20 965.18me N.N.m
+vmwmmoom
+8 :8 55 25; Em wcoﬁsms $5:
+cmEzz .6 mcouoce :5 3.2 m5 :0 2:399:
+m m NF 8%?% 5:253 .2. 2%: 20 c8838 0.20 6 “858.9% 5&6 30
+3605 33:53:50
+mﬁmt SEE: ho moczﬁﬂaoamo: 98 was: :0
+mp N E m N: m N. m N: 85:38 98.65 BanEaz ages 32an game: a 55% E:
+E “223.5 E «2:513.
+>=msccm
+coﬁﬂEEoO mEmE :mEzz m5 299:. vamEmEE
+m: m N: m N: m ww m mp .26 E BEEooo $8.2: 828:3 920 N.@
+53250 959:
+o o 95:25:— meE :25: m5 3 umEoEmﬂE ucm 852593
+A \oom bow NF :mEzm 35:55:00 Soc 336338333 w. woﬁom 8:255ch £59m cmEaz .2
+wﬁxuom 2:00: 90 8:55: 5 $885 §om m6 95:9an— cQﬁosz 220 @9909:— :< .m
+g as Q .8532 .885... E 35%: Ease
+b1: 2 2 b; s. b: s. F<_ s.
+“NWMFWWOMWM m 80> v ﬁm> m 39/ w 28> F ﬁm>
+Eweﬂ. as“. 238:6 comemEmﬁE. wmcowmgitoﬁoﬁc. me>=o< >3. \hwnEsz 59:0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E 85525 5 momﬁzud‘ >8.
+95me NOON 05 SP; 9500
+$3 #8 NF 9: SEE: ummcmawﬁ wwwmo E 0390:. $8 Né
+.wommd
+3cm d5: 3 3: E Em $9292» E50 “.0 .mwoawﬁ msggvmaxm $5 .2 83¢ E
+P _. w 31d Edmuuoumédou EUEE¢Um= «Em ﬂumszmm m; :53? EMU. uZUuﬁu van 3955 big M
+Q 3v E .BEaz 55%... E 3952 55:0
+his. 2 2 b: 2 b: s. a: s.
+AwEEmthn. E m Em; v 8m», m 23> N am; w Em;
+Em 9: a 32v
+9093 as“. m_:Umcow CeszwEmEE. mmcowmgﬁboﬁoﬁE meZU< >mv. bwnEJZ 59:0
+MOP—.92: "—0 ZO-hghm_z_s_n< 02¢ EMOu—mm— J10“.—
+EuEEu>om
+we 8:235 85: 05 H8 9533 we
+m m NF m Nw m Nw 8839.00 waocmvtoz, 05:5: 53:52 nouﬁgum no 305353 maﬁa»: 83:50 v. H .v
+9958 *0 acumhmawm .6 $5ch
+m F N? w NF N mw N NF 3558 wEES we .SEsz o5 ho “$5325 vcm co_§cmc.§n§
+$385 9 E29 EmEmeﬂm tonnam m. ﬁn
+Egan yo 5:338
+:m :p m. .L «F :N S 1 NF 855% $5me yo $5.50 We “REE 2: .5 2%qu 8:858 2%
+m m Nw 88.056 m—mtmﬁE *0 3%? no :oummwbummﬁ cam EuEmEuRﬁ tommnm m. d . b
+2039” 95 nos—mag mo o—Eucta uﬁ :0
+«F m m? m N, m m. m up 2.5.5. Ecmawaé 3855 ESE: “o .8522 388a amazes 30533 commam w. a H
+E 3.2.0.25 5 35.2 >3.
+cogﬁmcoo 05 .8 638. 959.0 E 8202.: mOwO we.
+muozg Eowﬁsbmdoo
+no $98 :28 99 598:: E 335% “$0— < 5%
+$5sz
+Enouauwnoo no Hawaiian E Sax—a3
+“Eu 825%. as 598:: E nougue § om .
+mcommmuou E50 5:5 Baum—9:00 35m .
+Ewioa Ho c2533
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HES“ E023
+.Enmzsﬁmo :03 mm: as we 0:: on“ an “ovumom 9v
+
+ 
+
+*0 228.5 9: co 35w:me m5 mcmsﬁﬁé .v
+
+ 
+
+ 
+
+ 
+
+mo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+t NV m? m mp In? E 8&9“th mad “0 BnEaz Quito cowsﬁmcm mo< *0 3038 2.5 m. ﬁm
+F E 839% {Saga .mmﬁ mo< .9 £02.25: E8. 8.960 N. to
+w _. 0 822338 EmEmcomE mad. Equmnooa an? we Euanmznﬂmo ﬁcmmsm .v. _ .m
+E 35525 5 moazﬁq >3.
+«.9». 522$ Umcwiﬁmm EmEmcomE EDS
+a\oow m; #9 mp 320$. $98 5 52:5: 5 8855 365. $9 ...m 8.5.80”. oSQwE w>mem=< Echo.“ < .m
+as 5 E 5952 BEE... E .3532 53:0
+E w 2 E 2 E _ 2 E _ 2 E H E
+ﬁMWWoﬁww m 50> v 86> m ﬁw> m Ema» v Em.»
+€93 act Esteem cowﬁcmEmEE wmcoywﬂﬁtoﬁoﬁc. mmE>wo< >3. hmnEzz 59:0
+96. 35.29 :0 9.350 new 9850
+m m E m E m NF BEmEmaﬁ 28.65 ho .3532 .80. Ba 30?. t Sﬁuﬁcom .835 m. SN
+E63. 3m.
+F F n 88.050 Ema 053.8% .2 :mﬁ 053mg 3 EmanE>mn toaaam N. ﬁw
+mimt as:
+w 0 N.. m NF N NF E039 man. he 59:52 no owing ES 92: mo 3032 nausm v.3”
+5 $55.5 @ mo_=>_5< >3.
+F F w 8% 9 5a 8:59 8 2 mam. B 232$ mm
+@2582 was 83092 er0: $59. CMEJL ECOEmEEE 53>
+<08 o\eom NF mEmc Poion .5 uchE 35 was 05 we §om QN ggowcoo E momﬁ E 5Q @555. 300.. .N
+6v Q as 5952 .2855 E 595:2 53:0
+2 _ .2 E s. E _ .2 E _ s. E _ 2
+mﬂcﬁwnwoumnwm m 50> v 23> m 56> N am; F 53/
+£35k ﬁcE 2:60:0w cozmwcwEmﬁE. wocowwm=§b9woﬁE mm_=>_~o< >0! \meE32 5930
+89me Raw. 9 mmmoom new $93.39
+w m E m 8 856%.; 986i 8:838 86 6 .8532 Em: .wﬁNEo :0 8:838 0.20 6:28 m. 3
+oo o 8:: 928005
+88E 8m up 88 N. 835E035 8:35 .6 .2632 :38 85585 QEEmmmﬁ Em 295.5 m. E
+3:: 23.805
+_. w w Eco—gmc «05.3005 :38 EEEEE E50 BEEEE 98 EoEm2u>2u tommdm v.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HEEonEm 3m. >=m6mamw 3:956 253 8,,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$938 995%; magma .mcoﬁwﬂoa Em 5:838
+2 w 3 m ﬂ m E £3: :mEE 9.52% waging E .8532 ta 3&9 s 8032: 82:8 £59. :25: .m
+g E Q .352 8305:. E 5952 33.6
+bis. E 2 b: s. H: s. b: .2
+EEEEDQQ 6 m 56> v 56> m 80> N 56> w a?»
+Em 9: 5 50¢
+2mng .95 mibmzow coszwEmﬁE. mm:9wm=§t0ﬁoi£ $333.06.. >m¥ bmnEzz 5930
+SEE m5
+«0 szacowwmﬂen. vcm Emcao.m>mu Hm 3E5
+r _. NP 88.9% mﬁmE m5 :0 mEEEmoi wEEEon 289093 m 93:85“. i ... _.
+Em=mEn£ 355865 B EmanEwn ncm
+v m N” m m. 28.65 he 6952 8%an um BEE mmwsﬁm 5&5 m. 5
+£va 39: yo
+852335 cam Emﬁcoﬁmﬁoa 55993
+p F NF 83.9% 85.850 9 85.5% 6 “830.9% 5&5 m. P .F
+$323055
+m m N_. m N? 8839.50 3059.33 mEEmb *0 .8532 «:55 H8 823.53 mg: roamzm m. _ A
+E 988mg: 33:35.
+£va 233 9:3 25083 $50953
+A o\oOﬂ 0\08 Nw mDOtM> 5% wwnwﬂ #0 mmmhmgoo E mmmmhop: Q08 N. _.
+2532 88 um>mEom 88 mm:
+A o\oow o\oow mw 05 Eoﬁ ESE Eta USN 2:830? 05 E 52.3% «$2 m4 £85. Etn. DEM chuom—w 9.: 5 E089“. r
+g Q Q .8532 3305:. E .BEsz 5&3
+bis. 2 .2 b: s. b; 2 2— .2
+ﬁﬁweﬁﬁm m 80> V Em; m 50> N 56> F Em;
+«69m... 6cm minwcow CowmacmeﬁE. mmcogmﬂghoﬁowUE m2z>no< >mx \LBEJZ SQSO
+02.2mrh02mmhm ._<ZO_._.D._._._.mz_ ._<0_._._._On_ nz< >m<._.zms_<_._m<n_
+805sz
+m m E m NF gaming 2835 mo< 6.0252 mo< 6 8.6%?» co 23% mNEmcmm Sum
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5:63th 95 £5.96 .mcEcEa cam mnvmaouu< -
+mogmoooa «Em mEBmmm Sang?»
+
+new magma? .mutEEoE 38ng man 32533. o
+
+no.“ dew: wins «in wins?“
+
+2a was $32056 53 9:3 acck EuEummcmE m;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mcmﬁ Ugo..an .ﬁcoaSon mam 88.9% wEng new
+9 mEEooum vamEmﬁﬁ m mEEmcooE 9:. 2. 053m 5.965590 mEEEan. .502 .P
+Q E E .2552 .2365 E “3:52 Sago
+bis. 2 .2 b: .2 5; _2 b: 2
+mmeﬁhWonm m 80> v 59» m 35> N am; w 56>
+cm
+392$ ﬁat 930ch coszmEmﬁE. mmcowmﬂﬁboﬁoﬁc. ww_~_>_~o< >3. $952 5930
+02—04—55 >._._O<L<0 PZWEMO<Z<E NEE§GO¢m
+amp 8 S 8 NF 8%: was. 6 .3522 £5. E Egg 8:900 N. 5
+P w NF Bogus—Gm Ecgﬂrim :0 300995: was. how ﬁancee E 0.80 m Q0350 fwd
+E «228:: 533513.
+vetwq mEEmEQQ Emaicmm mEmSo
+$8 9: *0 ucm 9: E Raﬁ: mcmcﬁcmEMEmu *0 $8 ﬁm cam E .29 .65 £5, 8___E& 90E was. .m
+g E E 386:: .286... 8 35:52 5&6
+5;: E s. b: 2 b: s. be; 2
+“WWWMWJMWM m 80> v h$> m a?» N am; _. Em;
+mama» .mcm magnum co_§:mEm_qE_ mmcowmﬂihoﬁoﬁE 8:322 >3. twnEaz 59:0
+9.2553 mcEﬁb .mcoﬁmmﬁa ucm c8838
+m m NF m w “.89ch mﬁzwﬁE 05:8,: ho won»... EQEQ .9 £96ng 05263 Em 6:50an
+P F NP 33.9% E:_:o.E:o 3%.: SEE; wEm: SEE... .0 EmanE>mu 535 N. .mm
+mumﬁoo mﬁwt Egan we boEoU
+om mm m_ ma NF 82:8 mg? :25: 62.2. o. 85% Em ho .8222 as a 82.235 2 5&3 agency wager: , _ .m
+
+ 
+
+E «828::
+
+5 33.3 >3.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ﬁmEEQED daemtn. SEE 630$ 865mm
+
+ 
+
+ 
+
+ 
+
+:.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+w NF NP 8035 3:33:00 mEﬂEmcoo .chEEQE chm“ 52w 989m.
+m NF m; w Np Eu,ng 9:33:00 magawcoo .9559. EB“ :05 m5on
+EwEonmxﬂm 9 “550.9% Ewenoa
+
+8n 8; NF 02 NF E S S. w— 335% 8&3? E 59:52 E65 .2 $533 $2.530 mm;
+95:2 wEEanE 8“. 3.9.5 Em
+
+_. _. 3 8552.8. mcmEo 96:2 ucm EmEmcomE 0:65;“. EwEEomE 0:6:ch m5 mhzuoaumom v. E,
+.mouwcmﬂoo“. ﬂaw noumﬂmbu .nanEOE
+
+.cocmaoﬁoaaw .62:qung Hmonoa .mﬁmmmﬁ
+
+F _. m 8906.56 mmcgmuim Dram mEmﬁ>m 60.3.3— 8“ magenta. and mama? 36.25 ﬂaw;
+F r E 83.93 :mE 9055 0:202: .8 can m .98th m. :
+5.68.
+
+can @263 .wwEEEmoa 955% EmboEmn
+
+F NF vmﬁﬁmﬁm xcmn 9mm ncm mocmEm>om :0 339% m ao_m>mo m. :
+mEEzooom
+
+vcm EwE¢mmcmE .ﬂocmca @5695:
+
+,v «F 35m: 28% 6.3252 :_ ram 850 mEEEooi £9... v. E
+:Omm:_m>m
+
+vcm accotcoE .SnﬁcmEmuE. .Emanmiwu
+
+35m: 2350 E .2522 “ow—ca :_ tﬁm mQtO wEEani ES... m. 2
+
+32:5 @088 8:5
+
+r — N? 33.9% Ema 33.9% mEEmboE .9 :mE 20986 8.050 F. E
+E v mp v 8 E N, m S 8569: own. to .2532 3::me ooEEEoo mccmﬁm 3890 v. E
+m F E m E NF 8 F E 8550:. “Em .0 .Beaz magon E20“. .oyocmxma 3:390 m. E
+m m N, BE 80581 8:0 2.898.; E 9028a E N. E
+E 3:035 E wo_§ao< >8.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Emnﬁcmxﬁm 255.9 2 mEm=m>m wumE
+van 8585 5mm 0%: Emacs .8895 629m
+
+3958 235an oEuEmE bw>wo<
+83335
+
+235?: 550 v.3 EoEonoxSm
+0568on wﬁwmoﬁém .mEmEEQDE
+soqumooo 98 8359000
+
+mEmEESE 35:8 @235
+$53qu mauowgm
+
+N...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Emgoﬂoi comm 6 new m5 6 Lo .8
+8.58 w£ E m:o_meEm@o 328m :20 3 9..an
+36me EB gnaw mzmﬁmoom £0395 nozmiﬁwm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+£an5008 Em $5690 Em Emvﬁzmxﬂm NF UQEQEmﬁg
+mama 853.4“ 2 96.88 Em Ecgmmu $3 92 ewuaﬁﬁw
+H885 EmEmﬁé 0:538 mam: amyocmxwﬁ F.F BF mEEEmoi @52de Eomamo < {m
+Q Q E .263 5.8%... E .85: 59:0
+A E ﬂ 2 E s. E w 2 E _ 2 E _ 2
+mEESmoi 6 5mm Em “mm Em .60
+ncm m5 8 .8on m > v > m > N > F >
+£0ng as“. Qzumcom co_FmeEm_QE. mmcoFmQSEOFmoﬁE mm_F_>_Fo< >mx 5.0952 5930
+mtoam.
+F. F NF F NF F NF F NF 80:85 35%: Fo 52:32 amhoocmn F0 95m .msccm $535 n. F. F
+2986;
+F F NF .8 8E8 $535 95an E96? .9 $633 83200 N. F. F
+83655 EmboEwc F0 9mm 9: co Eme>m
+F F NF 598,:on F0 9me 9:85;. .2 99855 98.. accogcoE m wuﬁcozﬂwuo ucm 3.050 F. F. F
+E 3.23:: 5 352.3 >8.
+EchEmEE 9:3
+m was 8335 53 mm: $02 9:28.:
+85:5 Em E298 8;qu 2.8.0 £3 E9me 83.65 new
+F F NF 2.53 was 83836 Eu 98%;. 565535. E 9:28,: .couﬁcmcmug 29838 < .w
+as g Q ages: 6.8%... E .3532 53:0
+F< _ s. .2 s. E .2 F< F .2 .E _ s.
+m 80> v .mm> m 56> w 56> F 28>
+F F «F 53.9.“. 09 .
+bwcouﬁm .
+F F NF 93E;— moEO .
+F NF 52% o
+F F NF .mccwom .
+F m NF QmEEEmSQEoo .
+w v NF 8.03% .
+v “EmEQSUm 8E0 @585 m. F.F
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 3 NF . NP . NP 35003 32:33me wm=QQaw 9.8 EmEQEm
+6:598 £508.
+
+.28 QBEmE Ewen Emmng «8.6..
+
+m N_. m 9 8839.8 80%ch mcEﬁz *0 63:52 .9 3059—53 052:5 €038 Sancoo NN.
+@5th new mczcaoog
+
+.EwEwmmcmE $5:ch :_ Eomqmo >689
+
+e NF cmcmﬁmcmtm £038 :20 55055 2 ﬂowbcoonam 2:005 ﬂu.
+mczczooom ncm EmEmmmcmE 3052:
+
+v v NP REE: E850 6 52:32 .mczwmcan E 929.0%.qu Em; v. 5
+5.628%
+
+ucm QESEOE .cOmSEEmEE €250.92
+
+mm m“ S 2 ﬂ 8:? 28% ho 53:52 Each 5 EmEmeSm :6: m. 2
+85:3 €me
+
+F F Np 33.9% :30. 03995 EmQwaSw 5* CME Qamwgw ao_m>wo F. E
+F F up So 8E8 EmEmmmmmm E088 Emacsmxﬂm .8 EmEmmwmmm €038 53300
+E 3:23.: 5 8526a. Nag
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

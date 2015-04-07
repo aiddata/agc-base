@@ -67,7 +67,7 @@ tokens = nltk.word_tokenize(raw)
 stopwords = nltk.corpus.stopwords.words('english')
 months = ('january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december')
 # additional stopwords list (see junk2geo)
-general_stops = open('junk2geo/stopwords/stopwords_en_es_fr_pt_de_it.txt','r').read().split('\n')
+general_stops = open('stopwords_en_es_fr_pt_de_it.txt','r').read().split('\n')
 
 content = [w for w in tokens if w.lower() not in stopwords and w.lower() not in months and w.lower() not in general_stops]
 

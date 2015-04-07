@@ -1,0 +1,87 @@
+,Road Section Name/Description,Road Designation,Road Length (Km),No. of Bridges,Location,
+,,,,,District,TA
+1,Dembo Market to Thabwani School,UD,8.5,,Chikwawa,Maseya
+2,Namalindi Sch to Mthumba TC,UD,7.8,,Chikwawa,Katunga
+3,Njeleza to Pende vge,UD,11,,Chikwawa,Kasisi
+4,Kalima Vge to Changoima T/C,UD,16,3,Chikwawa,Chapananga
+5,Chang'ambika Health Centre to Off D379,UD,5.2,1,Chikwawa,Chapananga
+6,Gashitali T/ C to Chikombe Border Post,D379,8,,Chikwawa,Chapananga
+7,Chikwawa Boma to Pende School,UD,7,,Chikwawa,Kasisi
+8,Phanda CDSS to Nkhwangwa M1,D390,14.3,1,Chikwawa,Ngowe
+9,Mulomba (off M1) to Bereu T/C,UD,7,,Chikwawa,Maseya
+10,Thabwani Sch to Dzimphutsi Road,UD,7.3,,Chikwawa,Maseya
+11,Mapelera TC to Lazaro vge,UD,10,,Chikwawa,Makhuwira
+12,Chizenga School to Jojo village,UD,5.45,,Chikwawa,Ngabu
+13,Mchacha to Mwananjovu School,UD,5.1,,Chikwawa,Ngowe
+14,Kalima School  to Bereu Trading Centre,UD,6,,Chikwawa,Maseya
+15,Phandadzinja to Masache via Mtayamanja School,UD,10,1,Chikwawa,Masache
+16,Phanda to Thudzu Village Road,UD,9,,Chikwawa,Ngabu/Masache
+17,Makande to Malikopo School Road,UD,12.8,,Chikwawa,Ngabu
+18,Kapichira to Kandeu,UD,6.6,,Chikwawa,Kasisi
+19,Pende to Nthumba,D380,5.2,,Chikwawa,Kasisi
+,SUB TOTAL,,162.25,6,,
+1,Zoa TC to Sandama TC,UD,9.25,,Thyolo,Mbawela
+2,Namikanga Sch to January Sch,UD,5.6,,Thyolo,Chimaliro
+3,Nansadi to Goliati via Thabwa,UD,6.7,,Thyolo,Bvumbwe/Chimaliro
+4,Chinzama to Zoa Estate,UD,6.55,,Thyolo,Changata
+5,Henderson to Thabwa Trading Centre,D353,13,2,Thyolo,Chimaliro
+6,Mwitere to Namikanga School,UD,7,,Thyolo,Nanseta/Chimaliro
+7,Ngomano clinic to Mankhamba School via Monekera School,UD,6.2,,Thyolo,Thomas
+8,Kamba School (Sandama) to Mbawela Clinic,T420,8.6,,Thyolo,Mbawela
+9,47 Miles (Off Thekerani Road) to Nyalugwe School via Milore School,UD,6.5,,Thyolo,Mbawela
+10,Naming`azi CCAP to Four Corner Tading Centre via Chikolombe CDSS,UD,7.4,,Thyolo,Kapichi
+11,Thekerani TC to Nsanje School,UD,10.4,,Thyolo,Nsabwe
+12,Nsanje School to Gombe,UD,5,1,Thyolo,Thukuta
+13,Thabwa to Nyambalo School,UD,16.1,1,Thyolo,Chimaliro
+14,Chitengu-Maonga via Kalintulo,UD,11.15,,Thyolo,Mphuka
+15,Matiya to Thukuta,UD,12,2,Thyolo,Thukuta
+16,Masambanjati to Luchenza Road,D355/UD,35.1,1,Thyolo,Kapichi/Changata
+17,Chisoka to Lalakani,UD,7.7,,Thyolo,Chimaliro
+18,Goliati to Makande via Mashalubu,UD,6.2,,Thyolo,Chimaliro/Nanseta
+19,Bvumbwe to Mpanenga Road,UD,5.1,,Thyolo,Bvumbwe
+20,Chalingana II to Malosa,UD,8.2,,Thyolo,Changata
+,SUB TOTAL,,193.75,7,,
+1,Mthilamanja to Chonde TC,UD,5.9,2,Mulanje,Mthiramanja
+2,Namisasi to Namtombozi,UD,5.8,,Mulanje,Mabuka
+3,Mwanakhu to Thanguzi,UD,7.1,,Mulanje,Mkanda
+4,Nkhonya to Samson School,UD,5,,Mulanje,Mkanda/Chikumbu
+5,Luwangwa Sch to Chiradzulu Border,UD,12.4,,Mulanje,Juma
+6,Namitupa to Lufaneti,UD,6.9,1,Mulanje,Mthiramanja
+7,Msikawanjala to Namisasi,UD,5.8,,Mulanje,Mabuka
+8,Khwalala to Mulomba,UD,10.6,,Mulanje,Juma
+9,Chisitu TC to Namisasi vge,D371,8.1,1,Mulanje,Chikumbu
+10,Chambe to Chikonde via Namadidi School,UD,8.3,1,Mulanje,Mkanda
+11,Chambe Court to Chingoli CCAP ,UD,16,2,Mulanje,Mkanda
+12,Chikuli to Kachere via Sikoya Sch,UD,8.4,,Mulanje,Mkanda
+13,Chonde to Chingoli,D368,9,1,Mulanje,Nthilamanja
+14,Chinakanaka to Msikawanjala,D370,9,,Mulanje,Chikumbu/Nthilamanja
+15,Master to Namphungo Road,T408,10,3,Mulanje,Juma
+16,Lichenya to Lujeri Road,UD,11,,Mulanje,Mabuka
+17,Nkhonya to Nantombozi Road,D373,16,2,Mulanje,Chikumbu
+18,Loudadale to Milonde,UD,10,,Mulanje,Mabuka
+19,Msikawanjala to Ntata,A142,6.8,,Mulanje,Mabuka
+20,Ntata to Chinyama,A142,7.2,,Mulanje,Mabuka
+,SUB TOTAL,,179.3,13,,
+1,Billy Village to Lundu Court via Linjizi Market,UD,6.2,,Blantyre,Lundu
+2,Mombo TC to Chikuli Admarc,UD,7.9,,Blantyre,Kunthembwe
+3,Chilala Sch to Lunzu TC,UD,5.5,,Blantyre,Machinjiri
+4,Ngumbe GDC (Off M1) to Kaumeni School via Chilaweni School,UD,6.3,,Blantyre,Machinjiri
+5,Lunzu T/C (PTC) to Mankhokwe TC (Ngumbe Off S138) ,UD,6,,Blantyre,Kapeni
+6,Ndogolo(Bench) Off M2 to  (BT/TO Boundary) via Mang`omba School,UD,8,,Blantyre,Kapeni
+7,Lirangwe to Jordan via Namikoko H/Centre,UD,10,2,Blantyre,Lundu
+8,Chigumula TC to Chiradzulu Border,UD,6.8,,Blantyre,Makata
+9,Nancholi School to Mpemba SDI junction,UD,8.1,2,Blantyre,Somba
+10,Jumbe / Ziboda to Bakiri,UD,7.2,,Blantyre,Somba
+11,Jubeck to Billy Village  7.6km,UD,7.6,,Blantyre,Chigaru/Lundu
+12,Domwe TC to Ngongomwa,UD,7.5,,Blantyre,Makata and Kapeni
+13,Chumachienda TC  to Makanjira Sch,UD,7.75,,Blantyre,Kunthembwe
+14,Chileka PTC to Lemu School ,UD,10,1,Blantyre,Kuntaja
+15,Makomano School to Lirangwe TC,UD,10,,Blantyre,Lundu & Makata
+16,Chisi Trading Centre to  Kholombidzo Road,UD,7.4,,Blantyre,Chigaru
+17,Tsoka to Chimembe Road,UD,7,2,Blantyre,Kumtaja
+18,Chitungu Village to Domwe T/C Road,UD,7,,Blantyre,Kapeni
+19,Mdeka to Mpanda School Road,UD,6,,Blantyre,Chigaru
+20,Sigerege to Jeweta Village Road,T388,7.6,2,Blantyre,Kuntaja
+21,Lirangwe to Mchere Road,UD,5.7,,Blantyre,Kapeni
+,SUB TOTAL,,155.55,9,,
+,ZONE TOTAL,,690.85,35,,

@@ -1,0 +1,4678 @@
+AFRICAN DEVELOPMENT FUND MLW/PSES/2000/01
+Language:EngHsh
+Original: English
+
+ 
+
+APPRAISAL REPORT
+
+SUPPORT TO COMMUNITY DAY SECONDARY SCHOOLS
+(EDUCATION IV PROJECT)
+
+REPUBLIC OF MALAWI
+
+COUNTRY DEPARTMENT OCDS
+SOUTH REGION SEPTEMBER 2001
+
+SCCD. N.G.
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page
+CURRENCIES, LIST OF TABLES, LIST OF ANNEXES, LIST OF ABBREVIATIONS, (i-Viii)
+PROJECT INFORMATION SHEET, BASIC DATA SHEET, PROJECT MATRIX,
+EXECUTIVE SUMMARY
+1. ORIGIN AND HISTORY OF THE PROJECT 1
+2 THE EDUCATION SECTOR 1
+2.1 The Education System 1
+2.2 The Current State of the Education System 3
+2.3 Education Financing 5
+2.4 Donor Interventions in the Education Sector 6
+2.5 Education Policy Framework 7
+3. THE SUB—SECTOR 8
+3.1 Secondary Education 8
+3.2 Community Day Secondary Schools 10
+3.3 Donor Intervention in the Secondary Education Sub—Sector 12
+4. THE PROJECT 13
+4.1 Project Concept and Rationale 13
+4.2 Project Area and Beneficiaries 13
+4.3 Strategic Context 14
+4.4 Project Objectives 15
+4.5 Project Description 15
+4.6 Project Activities and Components 16
+4.7 Environmental Impact 19
+4.8 Project Costs 19
+4.9 Sources of Financing and Expenditure Schedule 20
+5. PROJECT IMPLEMENTATION 22
+5.1 Executing Agency 22
+5 .2 Institutional Arrangements 22
+5.3 Supervision and Implementation Schedules 23
+5.4 Procurement Arrangements 23
+5.5 Disbursement Arrangements 25
+5.6 Monitoring and Evaluation 25
+5.7 Financial Reporting and Auditing 25
+
+5.8 Aid Co—ordination 26
+
+TABLE OF CONTENTS (cont’d)
+
+ 
+
+Page
+6. PROJECT SUSTAINABHJTY AND RISKS 26
+6.1 Recurrent Costs 26
+6.2 Project Sustainability 26
+6.3 Critical Risks and Mitigating Measure 27
+7. PROJECT BENEFITS 28
+7.1 Economic Analysis 28
+7.2 Social Impact Analysis 29
+8. CONCLUSIONS AND RECOMMENDATIONS 30
+8.1 Conclusions 30
+8.2 Recommendations 30
+
+ 
+
+ 
+
+This report was prepared by Mr. Abdi Younis, Education Specialist (0CDS.3) and Mr. Jorgen Friis, Architect
+(0CDS.3) following their mission to Malawi in August 2001. Inquiries should be addressed to Ms. A. Hamer,
+Division Manager, 0CDS.3 (Extension 4119)
+
+ 
+
+ 
+
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+5.1
+
+II.
+III.
+IV.
+
+VI.
+VII.
+
+VIH.
+
+XI.
+
+CURRENCY EQUIVALENTS
+
+(August 2001)
+National Currency 2 Malawi Kwacha (MWK)
+lUA = MKW 95.1119
+1 UA 2 US$ 1.25874
+MEASURES
+l Kilometer (km) 2 0.62 miles
+1 Meter (m) 3.28 feet
+1 Hectare = 2.47 acres
+FISCAL YEAR
+July 1 to June 30
+LIST OF TABLES
+
+Summary of Project Costs by Component
+
+Summary of Project Costs by Category of Expenditure
+
+Sources of Financing
+
+Financing Plan by Category of Expenditure
+
+Expenditure Schedule by Component
+
+Expenditure Schedule by Category of Expenditure & by Source of Finance
+Procurement Arrangements
+
+LIST OF ANNEXES
+
+Administrative Map of Malawi
+
+Structure of the Education System
+
+Organization Structure of the MoEST
+
+Donor Support for the Education Sector
+
+Comparative Data on Malawi’s Secondary School System
+Detailed Project Cost Estimates
+
+Project Implementation Schedule
+
+Provisional List of Categories of Expenditure
+Environmental and Social Management Plan Summary
+On—going Bank Operations in Malawi
+
+List of Annexes in Project Implementation Document
+
+"U
+81%
+to
+
+20
+21
+21
+21
+22
+23
+
+ABB
+ADB
+ADF
+AIDS
+CDSS
+CIDA
+CSS
+DANIDA
+DEC
+DEO
+DfID
+EMAS
+EMIS
+GDP
+GER
+GoM
+GTZ
+HIV
+ICB
+IAPSO
+J ICA
+
+J CE
+KfW
+MANEB
+MCDE
+MHE
+MK
+MoEST
+MoFEP
+MSCE
+MTEF
+NCB
+NER
+PEA
+PHj
+PIU
+PRSP
+PSLCE
+SSB
+TDC
+TED
+UNFPA
+UNICEF
+USAID
+WFP
+
+ii
+
+ABBREVIATIONS
+
+Activity Based Budget
+
+African Development Bank
+
+African Development Fund
+
+Acquired Immune Deficiency Syndrome
+Community Day Secondary School
+
+Canadian International Development Agency
+Conventional Secondary School
+
+Danish International development Agency
+Distance Education Center
+
+District Education Officer
+
+Department for International Development
+Education Methods Advisory Services
+Education Management Information Systems
+Gross Domestic Product
+
+Gross Enrolment Ratio
+
+Government of Malawi
+
+Deutsche Geselleschaft fur Technische Zusammenarbeit
+Human Immunodeficiency Virus
+
+International Competitive Bidding
+Inter—Agency Procurement Services Office
+Japanese International Cooperation Agency
+Junior Certificate Examination
+
+Kreditanstalt fur Wideraufbau
+
+Malawi National Examinations Board
+Malawi College of Distance Education
+Malawi Institute of Education
+
+Malawi Kwacha
+
+Ministry of Education, Science and Technology
+Ministry of Finance and Economic Planning
+Malawi School Certificate of Education
+Medium Term Expenditure Framework
+National Competitive Bidding
+
+Net Enrolment Ratio
+
+Primary Education Advisor
+
+Policy & Investment Framework
+
+Project Implementation Unit
+
+Poverty Strategy Reduction Paper
+
+Primary School Leaving Certificate Examination
+Stabilized Soil Blocks
+
+Teacher Development Centre
+
+Teacher Education Department
+
+United Nations Fund for Population Activities
+United Nations Children’s Fund
+
+United States Agency for International Development
+World Food Program
+
+1.
+
+2.
+
+10.
+
+iii
+
+AFRICAN DEVELOPMENT FUND
+01 B.P. 1387, ABIDJAN 01
+Tel: (225) 20-20-44-44
+Fax: (225) 20-21-77-53
+
+PROJECT INFORMATION SHEET
+Date: September 2001
+
+The information given hereunder is intended to provide some guidance to prospective suppliers,
+consultants and all persons interested in the procurement of works, goods and services for projects
+approved by the Boards of Directors of the Bank Group. More detailed information and guidance
+should be obtained from the Executing Agency of the Borrower.
+
+COUNTRY
+
+NAME OF PROJECT
+
+LOCATION
+BORROWER
+
+EXECUTING AGENCY
+
+ 
+
+PROJECT DESCRH’TION
+
+ 
+
+TOTAL COST
+
+i) Foreign Exchange
+ii) Local Currency
+
+BANK GROUP FINANCE
+
+ 
+
+i) ADF loan
+
+OTHER SOURCES OF FINANCE:
+
+ 
+
+GoM:
+
+DATE OF APPROVAL
+
+Republic of Malawi
+
+Support to Community Day Secondary Schools
+(Education IV Project)
+
+Throughout the country
+Government of Malawi
+
+Ministry of Education Science and Technology
+Private Bag 328
+
+Lilongwe 3, Malawi
+
+Fax: 265 788 064
+
+Tel: 265 789 422/335
+
+The project will consist of the following components:
+
+Infrastructure Development
+
+Education Materials Provision
+
+Teacher Education Development
+
+Capacity Building for School Management
+Project Management.
+
+9:59.“?
+
+UA 16.67 million
+
+UA 11.74 million
+UA 4.93 million
+
+UA 15.00 million
+
+UA 1.67 million
+
+November 2001
+
+ll.
+
+12.
+
+iv
+
+ESTIMATED STARTING DATE
+AND DURATION
+
+ 
+
+June 2002 — 54 months
+
+PROCUREMENT OF GOODS AND WORKS:
+
+ 
+
+All procurement of goods and works will be carried out in accordance with Bank’s Rules of
+
+Procedure for Procurement of Goods and Works.
+
+13.
+
+International Competitive Bidding (ICB)
+
+ 
+
+Science equipment and books
+
+National Competitive Bidding (NCB)
+
+ 
+
+Civil works, furniture, office equipment
+Other Procurements (LIC, International or National Shopping, Direct Purchase)
+Equipment for project management and operating costs
+
+CONSULTANCY SERVICES REQUIRED
+
+ 
+
+Procurement of consulting and training services will be undertaken in accordance with the
+Bank’s Rules of Procedure for the Use of Consultant
+
+Short—Listing
+
+Professional services for civil works and training institutions
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MALAWI
+COMPARATIVE SOCIO-ECONOMIC INDICATORS
+Year Malawi Africa Developing Developed
+Countries Countries
+Basic Indicators GNP Per Capita ( US $)
+Area ( l000 sz) 119 30,061 80,976 54,658
+Total Population (millions) 1999 10.6 765.6 4,793.2 1,185.2
+Urban Population (% of Total) 1999 23.8 37.1 39.4 75.8
+Population Density (per KrrF) 1999 89.8 25.5 59.2 21.7
+GNP per Capita (US $) 1999 180 684 1,250 25,890
+Labor Force Participation » Total (%) 1999 47.6 43.3
+Labor Force Participation » Female (%) 1999 46.0 35.0  
+Gender »Re|ated Development Index Value 1998 0.4 0.483 0.634 0.916
+Human Development Index (Rank among 174 countries) 1998 163 n.a. n.a. n.a. 1991 1992 1993 1994 1995 1996 1997 1993 1999
+Population Living Be|ow$ 1 a Day (% of Population) 1995  45.0 32.2 I Ma'aWi lAmca
+Demographic Indicators
+Population Growth Rate » Total (%) 1999 2.8 2.4 1.6 0.3
+Population Growth Rate » Urban (%) 1999 8.5 4.5 2.8 0.6 POPU'aﬁO" GrOWth Rate (%)
+Population < 15 years (%) 1999 47.3 42.7 32.8 18.5 30
+Population >= 65 years (%) 1999 2.7 3.2 5.0 14.0 2.5 _ l:- . é:
+Dependency Ratio (%) 1999 91.9 86.1 61.0 48.6 20
+Sex Ratio (per 100 female) 1999 98.1 99.4 103.3 94.8 \ /
+Female Population 1549 years (millions) 1999 2.3 181.1 151.8 297.2 1'5 \ /
+Life Expectancy at Birth » Total (years) 1999 40.2 52.7 64.3 75.5 1-0 \ /
+Life Expectancy at Birth » Female (years) 1999 40.4 53.5 66.0 79.2 0.5 V
+Crude Birth Rate (per 1,000) 1999 46.1 36.3 23.4 10.9 0.0 .
+Crude Death Rate (per moo) 1999 221 13.7 34 10.3 1991 1992 1993 1994 1995 1996 1997 1998 1999
+Infant Mortality Rate (per 1,000) 1999 128.7 76.4 57.6 8.9 + Malawi +Africa
+Child Mortality Rate (per 1,000) 1999 191.6 116.6 79.8 10.2
+Maternal Mortality Rate (per 100000) 199096 620 698 491 13
+Total Fertility Rate (per woman) 1999 6.3 4.8 2.8 1.6 Life Expectancy at Birth ( Years )
+Women Using Contraception (%) 199099 21.9  56.0 70.0
+Health & Nutrition Indicators 60
+Physicians (per 100,000 people) 199297 2 35 78 287 50
+Nurses (per 100,000 people) 199297 6 107 98 782 :2
+Births attended by Trained Health Personnel (%) 199298 55 38 58 99 20
+Access to Safe Water (% of Population) 199298 60 58 72 100 10
+Access to Health Sen/ices (% of Population) 199298 35 64 80 100 0
+. . . 1991 1992 1993 1994 1995 1996 1997 1993 1999
+Access to Sanitation (% of Population) 199097 3 58 44 100
+Percentage of Adults (aged 1549) Living with HIV/AIDS 1997 14.9 5.7   + Malam +Amca
+Incidence of Tuberculosis (per 100,000) 1997 205 201 157 24
+Child Immunization Against Tuberculosis (%) 1997 100 72 82 93
+Child Immunization Against Measles (%) 1997 87 64 79 90
+Undenrveight Children (% of children under 5years) 199097 30 26 31  '"fam Mma'iw Rate ( Per °°° I
+Daily Calorie Supply 1998 2,226 2,439 2,663 3380
+Public Expenditure on Health (as % of GDP) 199398 2.3 2.0 1.8 6.3 200
+Education Indicators 150
+Gross Enrolment Ratio (%) 100
+Primaw School » Total 1996 132.8 80.0 100.7 102.3 50
+Primaw School » Female 1996 126.3 73.4 94.5 101.9 0
+Secondaw SChDDI ’ Tomi 1996  29-3 50-9 99-5 1991 1992 1993 1994 1995 1996 1997 199a 1999
+Secondaw School » Female 1996 12.2 25.7 45.8 100.8
+Primary School Female Teaching Staff (% of Total) 199097 39.0 40.9 51.0 82.0 I Ma'aWi lAfrica
+Adult I||iteracy Rate » Total (%) 1999 40.7 38.8 27.2 1.3
+Adult I||iteracy Rate » Male (%) 1999 26.1 30.7 19.5 0.9
+Adult I||iteracy Rate » Female (%) 1999 54.6 48.2 35.0 1.7
+Percentage of GDP Spent on Education 199097 5.4 3.5 3.9 5.9
+Environmental Indicators
+Land Use (Arable Land as % of Total Land Area) 1998 19.9 5.9 9.9 11.6
+Annual Rate of Deforestation (%) 199095 1.6 0.7 0.4 0.2
+Annual Rate of Reforestation (%) 198190 8.0 4.0  
+Per Capita CO2 Emissions (metric tons) 1996 0.1 1.1 2.1 12.5
+
+ 
+
+Source : Compiled by the Statistics Division from ADB databases; UNAIDS; World Bank Live Database and United Nations Population Division.
+
+Notes: n.a. Not Applicable
+
+Data Not Available
+
+Last update: May 2001
+
+vi
+
+Project Matrix
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NARRATIVE SUMMARY INDICATORS MEANS OF VERIFICATION ASSUMPTIONS/RISKS
+Sector Goal By year 2012, in primary NER of 95% reached, dropout
+Increased coverage and improved quality and and repetition rates reduced to 5%, percentage of under- MoEST’s statistical data
+efficiency of the education system qualified teachers to 10%; in Secondary GER of 30%, with
+50% of enrollment being girls, reached, percentage of
+under-qualified teachers reduced to 10%, percentage of
+students passing the MSCE increased.
+Project Objectives By year 2006
+MoEST’s statistical data using improved Over crowding of the facilities avoided
+Improved quality and equity of secondary 1.1 All project schools upgraded to the minimum physical annual school survey, annual reports, and Trained teachers retained
+education at the Community Day secondary standards set by the MoEST national assessment
+Schools (CDSSs) 1.2 Percentage of students passing MSCE increased from
+the 1999 rate of 5% to 30% in project schools
+1.3 Percentage of girls passing MSCE increased from the
+1999 rate of 1% to 30% in project schools
+1.4 Percentage of unqualified teachers reduced from the
+1999 rates of 93% to 10%
+Outputs
+1 School infrastructure improved 1.1 Physical facilities at 40 schools improved Quarterly Progress Reports Facilities maintained
+2. Availability and use of textbooks and other 2.1 Instructional materials for 7000 students provided Supervision Missions
+instructional materials increased 3.1 Training of 2500 teachers provided Mid-term Review
+3. In-service training of teachers improved 4.1 Training of 300 school managers and educational Borrower’s Project Completion Report
+4. Management capacity at the CDSSs improved officers undertaken Project Completion Mission
+5. Program management strengthened 5.1 54 man-months of personnel support for project
+management provided
+Activities Inputs
+Project Budget (UA millions) ADB Disbursements Records
+A. Design, preparation, supervsion A. Professional services 1.35 GoM Disbursements Records
+B. Construction of civil works B. Construction of civil works 8.77 Project Accounts
+C. Provision of furniture C. Provision of furniture 0.57 Annual Audit Reports
+D. Provision of equipment D Provision of equipment 3.20 Quarterly Progress Reports
+E. Training of teachers, school managers E Training of teachers, school managers 2.25 Supervision Missions
+F. Support to operating costs F. Support to operating costs E
+Total 16.67
+Sources of Finance (UA millions):
+ADF 15.00
+GoM 1._67
+Total 16.67
+Overall Implementation Schedule
+Annual Work Plans
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vii
+EXECUTIVE SUMMARY
+
+Project Background
+
+The proposed Education IV Project has its basis in the government’s Policy Investment
+Framework (PH?) for the development of the education sector. The PD3 defines the country’s
+educational policies and strategies and outlines priorities for the period 2000—2012. The project
+will support these policies and strategies by contributing to the improvement of the quality of
+secondary education provided at the community day secondary schools, which has been accorded
+a central position in the govemment’s strategy for poverty reduction.
+
+Puggose of the Loan
+The ADF loan of UA 15.00 million, amounting to 90% of the total project cost will be used to
+finance 100% of foreign exchange (UA 11.74 million) and 66.2% of the local cost (UA 3.26
+
+million).
+
+Sector Goal and Project Objective
+
+ 
+
+The sector goal is to increase coverage and improve the quality and efficiency of the education
+system in Malawi. The objective of the project is to contribute to improved quality of secondary
+education at the Community Day Secondary Schools (CDSSs) in the country.
+
+Brief Description of the Project’s Outputs
+
+ 
+
+In order to achieve this objective, the project will focus attention on (i) infrastructure
+development, (ii) education materials provision, (iii) teacher education development, and (iv)
+capacity building for school management.
+
+Project Cost
+
+The total project cost is estimated at UA 16.67 million out of which UA 11.74 million (70.4%)
+will be in foreign currency and UA 4.93 million (296%) will be in local currency.
+
+Sources of Finance
+
+The project will be jointly financed by ADF and the Government of Malawi. ADF funds
+will be utilized to finance professional services, civil works, furniture, equipment and supplies,
+training, technical assistance, and operating cost. The total ADF contribution representing 90% of
+total costs, will be utilized to cover 100% of foreign exchange costs and 66.2% of local costs
+which represent 29.6% of total cost of the project. The Government of Malawi’s contribution of
+UA 1.67 million, representing 10% of the project costs, will be utilized to cover parts of the civil
+works and furniture. However, since the ADF—VIII allocation for Malawi has been fully
+committed, an additional allocation of UA 15.00 million will be required to finance this project.
+Given the project’s significant potential to contribute to the country’s poverty reduction
+objectives, through improvements in the quality of education, this additional allocation will
+further support the Bank’s development objectives as articulated in the CSP 1999—2001.
+Furthermore, the resources will be utilized efficiently as reﬂected by Malawi’s good performance
+rating in the 2001 Country Performance Assessment.
+
+viii
+Project Implementation
+
+The project Will be implemented over a period of 4.5 years. The executing agency of the project
+will be the Ministry of Education.
+
+Conclusions and Recommendations
+
+ 
+
+The proposed project responds to MalaWi’s need to improve the quality and equity of
+education. It Will contribute to the Government’s effort to improve secondary education at
+Community Day Secondary Schools. The project Will provide resources for infrastructure
+development, instructional materials provision, teacher education development and capacity
+building for school management, complementing assistance provided by other development
+partners to the sector.
+
+It is recommended that an ADF loan not exceeding UA 15.00 million be granted to the
+Government of Malawi for the purpose of implementing the project as described in this report,
+subject to conditions specified in the Loan Agreement.
+
+1. ORIGIN AND HISTORY OF THE PROJECT
+
+1.1 The 1999 World Human Development Report ranked Malawi 159 among 174
+countries, and as one of the least developed countries. The report also indicates that about 60
+per cent the population live below the poverty line, which is reﬂected in low social indicators.
+For example, Malawi’s infant and maternal mortality rates are among the highest in the
+region, at 128.3 per 1,000 and 620 per 100,000 respectively. Among other socio—economic
+variables in Malawi that significantly constrain economic productivity is its education levels,
+among the lowest in the region. The provision of quality education is central to the reduction
+of poverty in Malawi.
+
+1.2 The proposed project has its basis in the government’s Policy and Investment
+Framework (PH3) for the development of the education sector. The PD3 is the education
+sector’s response to the government policy of poverty reduction. The PD3 provides direction
+in the development of education and is based on a comprehensive analysis of the education
+sector in Malawi. It defines the country’s educational policies and strategies and outlines
+priorities for the period 2000—2012. The PD3 was developed through an extensive participation
+of all stakeholders and was the subject of a joint review of the Malawi education sector in
+October 2000. Along with other development partners active in the sector, a Bank mission
+participated in the joint review in October 2000 and identified the project at the same time,
+following government request in June 1999 for a fourth education project. The Education IV
+Project is planned to fit into this investment framework, by supporting the policies and
+strategies expressed in the PD? The project was prepared by a Bank mission that visited the
+country in March 2001 and was appraised in August 2001.
+
+1.3 The project will assist government efforts to improve the quality of secondary
+education provided at the Community Day Secondary Schools in Malawi. This is consistent
+with the country’s strategies for reducing poverty as outlined in the Poverty Reduction
+Strategy Paper (PRSP). In recognition of the impact of access to quality education on poverty
+reduction, improvement of the quality of education at the Community Day Secondary Schools
+has been accorded a central position in the PRSP. The project is also in line with the Bank’s
+lending strategy for Malawi, which is to assist the country in its efforts to alleviate poverty
+through sustainable and equitable growth and improved access to basic health and education
+as outlined the Country Strategy Paper (1999—2001). In addition, the project complements the
+assistance provided by other development partners and is consistent with the Bank’s
+education sector policy.
+
+2. THE EDUCATION SECTOR
+
+2.1 The Education System
+
+2.1.1 In its broader context, education is organized around three main categories: basic,
+secondary and tertiary. Basic education includes pre—school, primary, and non—formal
+initiatives such as adult literacy. The provision of pre—school education is not well organized
+and is mainly left to private education providers. Pre—schools are much more common in
+urban areas where such non—state providers have a ready market. There are however a few
+parts of the country where communities have established their own day care centers.
+
+2
+
+It is estimated that there are 4,000 such day care centers in Malawi, concentrated mainly in 13
+of the 33 country’s districts. Adult literacy is run under the National Adult Literacy Program
+that is currently supporting almost 2,000 adult centers.
+
+2.1.2 The formal education system is organized around 8 years of primary education, four of
+secondary and four (or five) of university, depending on the degree program being pursued.
+Annex H shows the structure of Malawi’s education system. There are currently 4,500
+registered and unregistered primary schools enrolling about 3 million pupils (about 80% of
+the relevant age group). During the last year of primary education, pupils register for the
+Primary School Leaving Certificate Examination (PSLCE), which is used for selection for
+secondary education.
+
+2.1.3 It is estimated that there are 937 secondary schools in Malawi, which have an
+estimated student population of 242,740 (about 18% of the age cohort). Secondary school
+education is offered through three types of schools, namely: conventional secondary schools
+(CSSs), community day secondary schools (CDSSs) and private schools. CSSs are
+government supported day schools and are the most privileged with regard to educational
+infrastructure and human resources. CDSSs, previously known as Distance Education Centres
+(DECS), are the most disadvantaged. The third category is that of private schools managed by
+individual entrepreneurs with no subsidy from government. There are two categories of
+private schools: the designated schools, mostly catering for foreign students and therefore
+following on European syllabus and those following the Malawi curriculum. The majority of
+these private schools are comparable to CDSSs from the point of view of the available
+teaching/learning resources. There are two national selection secondary school examinations;
+the Junior Certificate Examination (JCE) done after two years of secondary school education
+and the Malawi School Certificate Examination (MSCE) which is taken by students who have
+completed four years of secondary education.
+
+2.1.4 Tertiary education is provided at two levels: teacher training colleges and university.
+Primary and secondary teacher training colleges, vocational and technical institutions and a
+few other middle level professional colleges cater to those students who cannot gain
+admission to university. There are approximately 8,000 students enrolled in 6 national
+primary teacher—training colleges. An additional 500 are enrolled at the Domasi College of
+Education, which trains secondary school teachers. The country’s technical and vocational
+education institutions which are now under the management of the Ministry of Labor and
+Manpower Development enroll a further 1,300 students. At the university level, the
+University of Malawi and Mzuzu University provide university education to about 4,000
+youth. About 0.8% of the relevant age group are enrolled in the tertiary level.
+
+2.1.5 Provision of education is supported by a system of four national institutions. The
+Malawi Institute of Education (MHE) develops and evaluates the school curriculum and
+coordinates in—service teacher training. The Malawi National Examination Board (MANEB)
+administers national examinations and develops examination syllabuses for all examinable
+subjects. The Malawi National Commission for UNESCO links government ministries, the
+intellectual and civil societies with UNESCO and its library is the official depository of all
+UNESCO publications in the country. Finally, the Malawi National Library Service has the
+responsibility of promoting, establishing, equipping and managing national libraries.
+
+2.1.6 In keeping with the current Government policy of decentralization, the Ministry of
+Education, Science and Technology (MoEST) is embarking on a policy of decentralizing
+educational delivery. Already, there are moves to support the development of district
+education plans to fit within overall district plans. However, the MoEST headquarters remain
+largely responsible for the planing, management, coordination and financing of the national
+education system. The organizational structure of the MoEST is shown in Annex HI. The
+country is divided into six educational regions, which are further sub—divided into 33
+educational districts. A district education office administers a number of school zones that are
+the lowest administrative authorities. An average zone covers 10 to 15 schools.
+
+2.2 The Current State of the Education System
+
+ 
+
+2.2.1 Malawi has experienced some remarkable expansion of its national education system
+during the last decade. At the basic education level, the introduction of free primary education
+in 1994 resulted in a rise of the primary school population from approximately 1.4 million in
+1990 to about 2.8 million in 1995 and to a high of almost 3 million in 2000. It is estimated
+that almost 80% of the primary school age group are attending primary education. Progress
+has also been noticeable at the secondary school sub sector. In 2000, approximately 250,000
+Malawians were enrolled in secondary education compared to approximately 31,500 in 1990
+and just over 48,000 in 1995. Likewise, the tertiary sub—sector is now opening up. As of 2000,
+approximately 4,000 Malawian youth were enrolled in the country’s universities, up from
+slightly over 3,000 in 1990 and about 3,500 in 1995. Almost 8,000 students are enrolled in
+primary and secondary teacher training institutions.
+
+2.2.2 Access however remains an area of concern at the secondary and tertiary levels where
+approximately 18 and 0.8% of the relevant secondary and tertiary age groups are enrolled at
+these levels, respectively. This represents some of the lowest enrolment ratios in Africa.
+Moreover, the gains of increased primary school access have been somewhat diminished by
+the fact that an average of 12 and 15% of those enrolled in primary education repeat or drop
+out of the system, respectively. In fact, almost 30% of the children who enter primary school
+do not progress from grade four to five.
+
+2.2.3 A second major problem confronting the country’s education system is unequal
+access. Although a number of measures have been taken to improve girls’ and women’s
+participation in Malawi’s educational institutions, gender parity at all levels of the education
+system has yet to be achieved. Girls are particularly under—represented at the secondary and
+tertiary education levels. Currently, less than 40% of the secondary school population are girls
+and only 5% of the Malawian girls of secondary school age are enrolled at this level of
+education compared to 7% of the boys. And while approximately 1.2% of Malawian men
+aged between 18 an 23 are enrolled in tertiary institutions, only 0.5% of the women are.
+Women constitute less than 30% of tertiary education enrollment. Malawian girls are also
+relatively under—represented in vocational training institutions and are more prone to
+repetition and dropout. Females also form the majority of the country’s illiterates. In addition,
+there are inequalities of access across socio—economic groups and regions as well as between
+rural and urban areas.
+
+4
+
+2.2.4 A third major constraint is the relatively poor quality of education offered by the
+country’s educational institutions as evidenced by the results of national selection
+examinations. Many primary school children are taught in overcrowded classes by
+unqualified teachers and have to share very limited teaching/leaming resources. More than
+40% of the primary school teachers do not posses relevant professional and academic
+qualifications. The average pupil: teacher ratio in primary school is 63:1. The average number
+of pupils in a primary school classroom is about 119, an average of 38 pupils share 1 desk and
+there are 48 pupils to a chair. The textbook situation is not any better as on average more than
+20 pupils share a single textbook for the key subjects of English, Math and Chichewa. The
+MoEST is addressing the textbook problem in primary schools by supplying almost 10
+million books, which would mean that there would be a textbook for each pupil in primary
+school. The poor state of the available leaning/teaching facilities also applies to secondary
+schools and especially at the CDSSs. Available facilities in tertiary educational institutions
+are also outdated and over—stretched beyond their capacities.
+
+2.2.5 Moreover, effective mechanisms for monitoring and evaluating the performance of
+students are not in place. School inspectors are greatly handicapped not only by the large
+numbers of schools they are expected to monitor but also by a lack of transport facilities.
+Thus the Primary Education Advisors (PEAS) who are responsible for 10—15 schools and
+more than 150 teachers cannot reach even a third of the schools under their jurisdiction during
+an given school term. Also critical is the fact that many of the educational administrators
+charged with the responsibility of monitoring the quality of education at all levels of the
+system have not benefited from appropriate professional training.
+
+2.2.6 Poor quality education is also a result of poverty—stricken households where there are
+limited out—of—school learning opportunities due to a lack of reading materials and the mass
+media, among other factors. Poverty is a particularly significant factor as it is the main reason
+a substantial number of Malawian school going children are of poor health with many
+suffering from malnutrition, a situation which greatly limits the learning potential of many of
+them. The poor health and nutritional condition of many of these children are intensified by
+the facts that once in school, they have to contend with the health hazards related to the
+absence of school latrines and clean water. Less than 20% of Malawi’s primary schools have
+access to safe drinking water and an average of 350 primary school pupils share one pit
+latrine.
+
+2.2.7 A fourth constraint is a school curriculum that needs to be more responsive to societal
+needs. The school curriculum is particularly weak with regard to the teaching of science and
+mathematics at the secondary school level. In fact, only about half of those studying science
+subjects pass national selection examinations and thus join higher educational institutions, as
+a result of which Malawi’s production of scientific manpower in the natural sciences is
+relatively poor. Recently there have been efforts to review the basic education and secondary
+school curriculum with a view to addressing its shortcomings.
+
+2.2.8 Inadequate planning and management capacity is yet another constraint confronting
+the system. Although the Government has embarked on a decentralization strategy in recent
+years, the education system remains relatively centralized. This leaves little room for
+flexibility by regional and local level school administrations with regard to issues such as the
+determination of fees levels, use of funds raised locally, adjustment of the curriculum to local
+needs, the recruitment of staff, or for the involvement of communities, parents, teachers, and
+
+pupils in taking of educational decisions which affect them directly. A second administrative
+challenge is that head teachers are usually overburdened with routine administrative matters.
+This leaves them with little time to attend to the monitoring and evaluation of relevant
+standards and the curriculum. In addition to these management—related problems, Malawi’s
+educational system is characterized by a weak planning capacity, mainly due to a shortage of
+professionally qualified planners and because mechanisms and capacity for gathering good
+planning data is inadequate.
+
+2.2.9 The impact of HIV/AIDS pandemic on the education system is another serious
+constraint to the effective delivery of education services. Teacher absenteeism and mortality
+resulting from HIV/AIDS is hampering the efficient functioning of the schools. Although it is
+not easy to catalogue the exact magnitude of morbidity arising from HIV infection, survey of
+sample schools indicates increased levels of absenteeism among teachers, which parallels the
+increased levels of teachers living with HIV/AIDS. The death records from MoEST also
+conform to the expected trend of increasing mortality in a situation where HIV prevalence is
+high. The MoEST records show that 456 primary school teachers died in 1999. But a review
+report in 1999 by Malawi School Support System Program, estimates that 2,369 primary
+school teachers will die in 2001, five times the number in 1999.
+
+2.3 Education Financing
+
+2.3.1 The Govemment’s strong commitment to the education sector is underlined by the
+fact that in fiscal year 2000/01, it allocated 28% of its total recurrent budget, one of the
+highest in sub—Saharan Africa, to this sector. This represents 5% of GDP. In 1994, when free
+primary education was introduced, recurrent budget for education was 20% of the total
+government recurrent budget. The Government is also strongly committed to strengthening
+basic education and has accordingly allocated 60% of its education recurrent budget to this
+sub—sector in 2000/01. Tertiary education received the second largest share at 18% while
+secondary education remains the least funded as this sub—sector accounted for 12% of the
+recurrent education budget allocation in 2000/01. In the 2000/01, personnel emoluments
+accounted for almost 90% of the recurrent budget allocations for the primary and secondary
+education sub—sectors, leaving only 10% for relevant learning/teaching inputs.
+
+2.3.2 Local communities, donor partners and the business community continues to play an
+important role in supporting the national education system. Local communities and parents
+contribute to education through sharing in the cost of buildings and their maintenance,
+transport to schools, food, school uniforms, learning materials and extra—curricular activities.
+It is estimated that local communities have participated in the building of almost 75% of the
+country’s schools and most schools’ maintenance is officially their responsibility. At the
+secondary level, almost 15% of Malawi’s secondary school population is enrolled in private
+institutions.
+
+2.3.3 In 1996/7 MoEST introduced the Medium Term Expenditure Framework (MTEF)
+budgeting process as a way for improving the efficiency of the use of available educational
+resources. It is hoped that this approach will lead to relatively greater macroeconomic balance
+with the placing of GoM budgets within a realistic expenditure framework.
+
+Among other things, the MTEF approach should promote: the articulation of broad policy
+intentions; the commitment by the districts, divisions and some of the other cost centres to the
+budgeting process through the preparation of Individual Activity Based Budgets (ABBs); and
+the adoption of a participatory, bottom—up approach with regard to the preparation of ABBs.
+The approach should also promote an integrated approach to budgeting with regard to
+development and recurrent budgets.
+
+2.4 Donor Interventions in the Education Sector
+
+ 
+
+2.4.1 External development partners play an important role in the financing of the
+Malawian education system. This is particularly the case with regard to development
+expenditures. The donor’s share of the total MoEST development expenditure has averaged
+more than 80% during the 1999/2000 and 2000/2001 fiscal years. Secondly in 1999/2000,
+total grants from the three major donors were equivalent to the total education development
+budget. In addition to the main education donors, NGOs have continued to support education
+mainly through the construction of school buildings. In order to minimize duplication of
+effort donors have accelerated efforts to improve coordination as evidenced by their joint
+support for education sector reform, the holding of a joint sector review in October 2000 and
+the strengthening of the monthly donor meetings, which are now chaired by the Minister for
+Education.
+
+2.4.2 More than 75% of the donor support has been directed to basic education. Those
+active in the sector include: ADB, CIDA, DANIDA, DfID, KfW, GTZ, JICA, The
+Government of Norway, UNICEF, UNESCO, UNFPA, USAID and the World Bank. For
+2001, donor support for the sector is estimated to be about US$ 56 million. Annex IV
+summarizes the size of present support by each agency and the area of support.
+
+2.4.3 Donor support focused on improving access and equity, quality and relevance and the
+planning and management capacity for all levels of the system. In the area of access and
+equity, the emphasis has been on the construction and rehabilitation of primary and secondary
+schools. Donors have also supported programs aimed at improving the participation and
+retention in primary and secondary education of disadvantaged groups such as females, the
+physically disabled and children living in remote and poor environments. In the area of
+quality and relevance, the focus has been on: teacher training including in—service teacher
+training; the construction and rehabilitation of teacher training colleges and Teacher
+Development Centres (TDCs); curriculum review and development; provision of text books;
+enhancement of school health and sanitation; provision of safe drinking water; awareness
+creation related to HIV/AIDS and the introduction and popularization of the life skills’
+curriculum; and on the improvement of school assessment systems. With respect to
+management and planning, donor resources have been directed toward: the development of
+national and district level education strategies; national school mapping and census exercises;
+the development of an education management information system (EMIS); the construction
+and rehabilitation of district education offices; training of educational managers, teachers and
+other educational stakeholder groups, including primary education advisors (PEAS), heads of
+schools, teachers, school management committees and community leaders on planning and
+management issues; improvement of central, regional and district planning capacity; and
+toward the development of a decentralized structure for continuing education, advanced
+training and supervision.
+
+2.5 Education Policy Framework
+
+ 
+
+2.5.1 The Government’s education strategy is spelt out by the Education Sector: Policy and
+Investment Framework (PIF). The PD3 outlines five main objectives for the education system.
+The first of these is the improvement of access to educational opportunities at all levels of the
+education system. At the basic education level, the intention is to arrive at a net enrolment
+ratio (NER) of 95% in all districts by 2012. At the secondary school level, the aim is to
+increase the Gross Enrollment Ratio (GER) from the current 18% of the relevant age cohort
+to 30% during the same period. Participation in tertiary education is to be raised from the
+current 0.8% of the relevant age group to 1%. Accordingly, appropriate measures for reducing
+poor attendance, enrollment, repetition and dropout are stated.
+
+2.5.2 Secondly, the PH3 proposes measures for improving the equity of access and outcomes
+particularly for disadvantaged social and economic groups and regions. In this connection, the
+PH3 identifies relevant strategies for improving the participation of girls and women, children
+with special needs and other disadvantaged youth and that of rural communities at all levels
+of the education system. It is proposed that female participation at the primary, secondary and
+tertiary levels are increased to at least 50% of the total enrollment at all levels of the
+education system.
+
+2.5.3 Pm’s third objective is to enhance the quality and relevance of the country’s
+education. With regard to quality improvements, appropriate strategies will aim at combining
+the right inputs, the right processes and the right outputs. The relevance of Malawi’s
+education system is to be achieved through ongoing reviews of the curriculum aimed at
+ensuring that it addresses the needs of individual school goers and those of the country more
+effectively. Because adequate numbers of professionally qualified teachers are critical for
+promoting these goals, The PD3 stresses the need for a quality and sustainable teacher—training
+program as a way of promoting quality and relevant education.
+
+2.5.4 Fourthly, PHj outlines measures for developing an institutional and financial
+framework to sustain the country’s education system. In this connection, the PH3 underlines
+the need to strengthen the capacity of the MoEST and relevant regional and local institutions
+to plan and manage educational programs in a more cost—effective manner. Finally, the PH:
+encourages those in society who can afford it to share in the cost of education provision while
+ensuring that the poorer sections of society are not forced to drop out of school because of
+inability to pay. In recognition of the crucial role that communities, the private sector and
+international development partners could play in the development of education in Malawi, the
+PH3 proposes strategies that will encourage an increase in their investment in this sector.
+
+3. THE SUB-SECTOR
+3.1 Secondag Education
+
+3.1.1 Secondary education begins after the 8 years primary education cycle. Secondary
+education aims at equipping its recipients with appropriate skills and knowledge to facilitate
+further education as well as their survival as individuals and participants in the nation’s socio—
+economic and political spheres. In view of this, the govemment’s goal as spelt out in the PD3
+is to raise the enrollment of the relevant secondary school age group from the current 18% to
+30% and to improve the quality of education provided by the country’s secondary schools.
+
+3.1.2 Secondary education comprises a junior and a senior cycle. The junior cycle consists
+of the first two years of secondary education after which students sit for the JCE. The great
+majority of students who pass this examination continue to senior secondary school, also
+consisting of two years. From the point of view of employment or further education and
+training, the JCE is of minimal value and in fact there have been calls for its abolition.
+Successful completion of the final two years of secondary education qualifies eligible
+students to sit for the MCSE that opens a wide variety of opportunities in terms of both
+employment and further training for those who pass it.
+
+3.1.3 Before 1998 secondary education was provided through four main types of secondary
+schools; government school; grant—aided schools; Distance Education Centers (DECS); and
+private schools. In 1999, the MoEST reclassified the secondary school system as follows:
+conventional secondary schools (CSSs); Community Day Secondary Schools (CDSSs); and
+private schools.
+
+3.1.4 Until the ongoing national school mapping exercise is completed, it is difficult to give
+accurate statistical data on secondary education and particularly on the CDSSs. Nevertheless,
+it is estimated that there are 937 secondary schools in Malawi. CDSSs are by the majority at
+approximately 556. They have an estimated enrollment of 166,781 students of whom 6,723
+(37%) are girls. There are 103 CSSs enrolling an estimated 58,174 students, 22,294 (38%) of
+whom are girls. An estimated 278 registered private schools enroll about 17,245 students,
+7,507 (44%) of whom are girls. An estimated further 4,200 students are enrolled in the non—
+registered private schools. The system of selecting students for these schools varies for the
+different school types. From among the CSSs, national schools are the first to select from a
+national merit list. They therefore pick the top performing students. Former grant—aided
+schools then select the best from those left out by the national schools. CDSSs and private
+schools are the last to select and therefore pick the lowest performing students, although some
+high performing students may join the top quality private schools if they so wish. Currently,
+selection for the national boarding and day schools and government day/boarding schools is
+based on the principle of admitting at least 15% of the students from the local catchment area
+of the school. The other 75% are selected from the rest of the country. CDSSs select their
+students from their respective localities while private schools selection process is open. PHj
+has recommended a local catchment area selection system but this has yet to be implemented.
+
+3.1.5 All secondary schools with the exception of the designated schools offer the same
+government approved curriculum. The revised curriculum promotes a broad learning
+approach according to which students have to be proficient in languages, mathematics,
+sciences and humanities. The curriculum of both the junior and senior secondary cycles is
+
+9
+
+organized into core and elective subjects. For the junior cycle, the core curriculum comprises
+of English, Math, Agriculture, Physical Education, Chichewa, Integrated Science and Life
+Skills. The electives include a range of subjects depending on what is feasible for specific
+schools but must include at least one of the following: Geography, History and Social
+Studies. A student is expected to select a total of eight subjects (6 core and 2 electives) in
+which they have to pass in at the JCE. The core curriculum of the senior cycle comprises of
+Chichewa, English Language, Math, Science and Technology, Social Studies, Life Skills and
+Physical Education. Students can select their electives from a wide range of subjects but again
+depending on the situation of the schools, these electives should include at least one of the
+following subjects; Literature in English, Literature in Chichewa and Crafts and Art.
+
+3.1.6 There are an estimated 4,325 teachers (942 or 22% female) in the secondary school
+system. About 68% of these teachers are not qualified for secondary school teaching,
+adversely affecting the quality of education provided. In most CSSs, the curriculum is
+delivered by qualified teachers, but in the CDSSs, the great majority (93%) of the teachers are
+academically and professionally under—qualified. It is estimated that if all the secondary
+schools have to be equipped with academically and professionally qualified teachers, the
+system would need approximately 700 new teachers annually for the next 5 years. This, plus
+the upgrading of the under—qualified teachers is one of the biggest challenges facing the
+secondary school sub—sector today. The continued shortage of secondary school teachers led
+to the opening of Mzuzu University in the northern part of the country. Bunda College of
+Agriculture trains agriculture teachers and the Polytechnic also supplies some science
+teachers. In 1999, approximately 300 trained secondary school teachers graduated from the
+country’s teacher training colleges. About 600 of the under qualified secondary teachers are
+also receiving in—service training managed by Domasi College of Education. The remaining
+under—qualified teachers can benefit from similar in—service teacher training program.
+
+3.1.7 Within the MoEST, the division of Education Methods Advisory Services (EMAS) is
+entrusted with the responsibility of monitoring the quality and relevance of education offered
+by the country’s public and private secondary schools. Among other responsibilities, the
+functions of EMAS include: the coordination and supervision of teaching and learning; the
+coordination of teacher support including pre—service and in—service education; coordination
+of the secondary school assessment and evaluation system; planning, review and
+implementation of the curriculum for both schools and relevant teacher training institutions;
+and registration of private secondary schools. With the policy of decentralization, the
+functions of EMAS as they relate to the inspection and monitoring of the secondary system
+have been devolved to the education divisions under a Senior Education Methods Advisor
+(SEMA). However, although the target of decentralization is the district, there is no secondary
+education Methods Advisor for a district. At the school level, head teachers and heads of
+departments deal with issues of quality assurance. Capacity for advisory services at the
+secondary level therefore needs to be strengthened.
+
+3.1.8 The Director of Secondary and Higher Education who is based at the MoEST
+Headquarters oversees all management issues of the secondary education system. A deputy
+director of secondary education, two assistant deputy directors and a senior education officer
+assist him. Division managers who are based at the divisional headquarters oversee matters
+related to secondary administration in the divisions. At the division level, a desk officer for
+secondary education is directly responsible for the administration of secondary education. The
+division planner who is also responsible for primary education planning issues assists
+
+10
+
+him/her. With the implementation of the decentralization policy, the District Education
+Officer (DEO) shall coordinate the management and planning issues of secondary education.
+This will require the replacement and/or retraining of the current crop of under—qualified
+DEOs.
+
+3.1.9 Below the districts, head teachers are responsible for managing their respective schools
+with the support of school boards and their teachers. But the management skills of most
+secondary schools heads, deputy heads and heads of departments are seriously lacking. About
+10% of school managers, all of them from CSSs, have received training in school
+management aimed at making schools effective. Similar training is needed for CDSS
+managers to build the capacity required for improving the effectiveness of the schools.
+
+3.1.10 On financing, secondary education is allocated 10% of the total MoEST recurrent
+expenditure. The bulk of these funds are spent on personnel emoluments and boarding
+facilities in CSSs and CDSSs. In 2000/01, personnel emoluments and boarding facilities
+accounted for approximately 40 and 16% of the total recurrent expenditure for secondary
+education while teaching/leaming materials accounted for approximately 5% of the available
+recurrent funding in this year. Students attending CSSs and CDSSs pay modest tuition and
+boarding fees as well as a small deposit for textbooks and examinations. Until 1999, students
+in the CDSSs met the full cost of their tuition and boarding expenses while the government
+met the costs of teacher salaries and learning/teaching materials. It needs to be said that for
+both the CSSs and CDSSs, fees collection rates are less than 50%. Since 2000/2001,
+secondary education has received 60% of the education sector development expenditure
+compared to 30% for primary education and 10% for the tertiary sub—sector. This is as a result
+of the government policy of taking over CDSSs with the aim of improving the quality of
+education offered by them.
+
+3.2 Community Day Secondary Schools (CDSSs)
+
+ 
+
+3.2.1 The origins of CSSs go back to 1964 when Malawi attained political independence.
+At independence, Malawi inherited a highly elitist secondary education system. In 1965 for
+example, only 5% of primary certificate holders found a place in the country’s secondary
+school system. Yet the immediate independent govemment’s aim for education was to
+accelerate the production of an educated cadre of Malawians to take over the middle and
+senior management positions left vacant by the colonial administrators. The post—
+independence government therefore embarked on a program to expand secondary education
+as a result of which every district had at least one government secondary school by 1982.
+
+3.2.2 Despite these government efforts, access to secondary education for the relevant age
+group has remained severely limited. An alternative mode for delivering secondary education
+had to be identified; thus the birth of the CDSSs.
+
+11
+
+CDSSs were initially started under the Malawi Correspondence College (MCC) in 1964 and
+were then known as Distance Education Centres (DECs). DECs were run as part of the
+Malawi College of Distance Education (MCDE) which replaced the MCC in 1980. The aims
+of MCDE were to provide: an alternative for the secondary school age population who could
+not be accommodated by the formal system; and secondary schools’ teachers upgrading
+courses. The MCDE depended on three main modes of instruction, namely: printed materials,
+radio broadcasts and audio tapes available at designated MCDE centers.
+
+3.2.3 Although the MDCE Program was originally envisaged as a correspondence program
+for both primary and secondary education, by the late 1990s more than 80% of their students
+enrolled for subjects offered by the formal secondary school system. In recognition of this
+demand for formal secondary educational opportunity by a large number of Malawians, DECs
+were converted to CDSSs in 1998. The intention was to upgrade CDSSs with a view to
+having a unified national system of secondary school education provision. Such a policy was
+not without a price. DECs were constructed by communities, with provision for some poorly
+constructed classrooms, and were staffed by primary school teachers paid by the government.
+But the DECs, were converted to conventional secondary schools without being provided
+with relevant physical infrastructure; teaching/leaning facilities and the required qualified
+teaching force.
+
+3.2.4 Compared to CSSs, CDSSs provide education of very poor quality. Many of these
+secondary schools operate in borrowed primary school premises, are run by a largely
+unqualified teaching force, are characterized by inadequate and overcrowded classrooms, lack
+essential teaching/learning materials and have no libraries and science facilities. In the CSSs,
+almost 90% of the teaching force are qualified for their teaching responsibilities compared to
+7% in the CDSSs. With regard to teaching/learning materials, more than 15 CDSSs students
+share 1 text book in the key subjects of English, Math and Physical Science compared to an
+average of 6 students in the CSSs. Severe inequalities between the two systems are also
+apparent in the realm of physical facilities. While an average of 114 CDSSs students share a
+classroom, 93 of those in the CSSs do the same. Only 10% of CDSSs have science teaching
+and library facilities compared to 60% of the CSSs. Such inequalities in the level of available
+human and physical resources explain much of the differential achievement in the MSCE. In
+1999 for example, almost 30% of the CSSs students who sat for the MSCE passed it
+compared to about 4% of those who were enrolled in the CDSSs. Annex V gives comparative
+data on Malawi’s secondary school system.
+
+3.2.5 It would thus appear that CDSSs deserve almost immediate attention if the quality of
+education offered here has to show any significant improvement. Thus, although access for
+secondary education in Malawi remains a major problem, it is necessary to support programs
+aimed at consolidating these access gains by strengthening the capacity of secondary
+education and particularly, the CDSSs to offer education of some quality. Support is thus
+urgently needed with regard to the provision of relevant leaning infrastructure, classrooms,
+science laboratories, libraries, administrative blocks, teachers' houses, textbooks, science
+equipment and other relevant inputs. Given that a key contributory factor to the poor quality
+of secondary education in general and CDSSs education in particular is the severe shortage of
+qualified teaching staff, it would be useful to support in—service teaching programs as a way
+of addressing this problem.
+
+12
+
+Finally, improved management and planning capacity are critical in ensuring that the impact
+of relevant physical and human inputs are sustained in the long run. One way of contributing
+to strengthening of this capacity is through training of school heads and secondary education
+methods advisors on management and maintenance skills.
+
+3.3 Donor Interventions in the Secondary Education Sub—Sector
+
+ 
+
+3.3.1 DANIDA is the principal donor at the secondary education level. In the area of policy
+planning DANIDA has supported secondary school policy development as part of the PH3 and
+division and secondary schools cluster developments aimed at strengthening secondary
+education provision and management. In the area of access, support has focused on physical
+infrastructure improvement revolving around secondary school mapping and data bank
+generation, girls’ bursary schemes and on the construction, rehabilitation and maintenance of
+secondary schools, including the establishment of school construction and maintenance
+procedures. DANIDA is also active in developing an effective advisory and support services
+through the Education Methods Advisory Services (EMAS). With regard to secondary teacher
+education, DANIDA is supporting teacher training and the development of a secondary
+teacher training strategy. In addition, DANIDA is putting some funds in programs targeting
+senior secondary school curriculum improvement, the development of a sustainable textbook
+provision and the upgrading of school libraries.
+
+3.3.2 In the secondary school sub—sector, JICA supports a program for the strengthening of
+science and mathematics education in secondary schools. This program revolves around
+actual training, targeted technical exchanges and study visits by science and mathematics
+teachers. A second JICA initiative focuses on the dispatching of Japanese volunteer teachers
+to needy Malawian secondary schools. Future J ICA support in this sub—sector may involve the
+expansion of Domasi College of Education; and construction of teaching facilities for
+secondary schools.
+
+3.3.3 ADB, the World Bank, CIDA and UNFPA are also active in the secondary education
+sub—sector. ADB and World Bank support has included the construction and rehabilitation of
+some secondary schools, the provision of school textbooks and other leaning/teaching
+materials and the development of HIV/AIDS materials. CIDA is supporting a distance
+education diploma program in education for 600 secondary schoolteachers in collaboration
+with Domasi College of Education. CIDA is also working with the MoEST and other donors
+to develop an Education Management Information System (EMIS) for both the secondary and
+primary education systems. UNFPA support has focused on the development of an integrated
+syllabus for junior secondary in the areas of social studies, agriculture, home economics,
+biology and geography. In this connection, UNFPA is funding the development of appropriate
+textbooks for students and of a methodology guide for teaching these subjects. Future
+support in this area is to include the printing of ICE textbooks and teachers’ guide books for
+all career subjects and the orientation of secondary school teachers in the teaching of the
+revised curriculum.
+
+13
+
+4. THE PROJECT
+
+4.1 Project Conception and Rationale
+
+ 
+
+4.1.1 This project is a response to the GoM’s poverty alleviation strategy as enunciated by
+the country’s PRSP. The PRSP highlights the critical role education could play in alleviating
+poverty and in generating the human resources that could contribute to the country’s socio—
+economic and political advancements. To achieve these goals, the PRSP lists as priorities the
+expansion of educational opportunity for disadvantaged groups and the improvement in its
+quality as the key building blocks of a long—term national educational strategy. These issues
+are underlined by the official government policy in education as spelt out by the Education
+Sector: Policy and Investment Framework (PH3). PHj was finalized in 1999 following lengthy
+consultations with the majority of the country’s education partners. It identifies appropriate
+strategies for enhancing the quality of education at all levels of the education system. For
+secondary education, the main focus is on upgrading the standards of poorly equipped
+CDSSs. Towards this end, this proposed project would aim at complementing GoM and other
+development partners’ efforts to strengthen the capacity of a selected number of CDSSs to
+offer education of acceptable quality. The project has been developed through an extensive
+participation of key stakeholders whose involvement will continue during implementation.
+Views of education planners and managers, school administrators and teachers, parents and
+external financing agents were sought and incorporated in the design of the project. It should
+also be pointed out that the schools the project will support have been founded with strong
+community participation. The DECs, which became the CDSSs, although poorly resourced,
+were constructed by the communities. The project will thus be complementing community
+initiatives.
+
+4.1.2 To date the Bank has funded three education projects in Malawi. The first two
+projects approved in 1980 and 1986 for ADP loans of UA 7.37 million and UA 15.66 million
+respectively are complete. The third project approved in 1997 for an ADF loan of UA 12.00
+million is on—going and is being implemented very satisfactorily. The projects aimed in
+general to increase access and improve the quality of primary and secondary education, and
+build capacity for educational planning and management. The new project will reinforce these
+objectives. Lessons learned from the implementation of the earlier projects will also inform
+the new project. For example, the successful implementation of the on—going Education 1H
+project is attributed to the effective management of the project by a competent project staff
+and the adequate supervision of the project by the Bank. The integration of project activities
+fully into the operations of the Ministry of Education and the close coordination with other
+development partners has also meant the efficient use of project resources.
+
+4.2 Project Area and Beneficiaries
+
+ 
+
+4.2.1 The project sites will be distributed throughout the country. However, since most
+CDSSs serve remote rural communities, the schools that the project will support will be
+located in disadvantaged rural areas. The actual schools to be supported by the project will be
+determined on the basis of the outcome of the on—going school mapping survey, which is
+expected to be completed by end of November 2001.
+
+14
+
+As a condition of first disbursement, MoEST will submit for fund approval the list of the
+districts and locations of the schools to be supported by the project.
+
+4.2.2 Initially, the most direct beneficiaries of the project will be students enrolled in the
+secondary schools that will be supported through the project. As of now, it is estimated that
+40 CDSSs will be supported. Each of these schools will have a minimum student population
+of 160, which means that almost 7,000 students will benefit from the improved secondary
+school education at any given time. Since CDSSs are generally located in rural areas, the
+majority of the beneficiaries of the improved learning conditions will be students from
+disadvantaged communities.
+
+4.2.3 Other beneficiaries of the project will be the almost 2500 professionally under—
+qualified secondary school teachers to be upgraded through the project’s in—service training
+program. Female teachers will be among the major beneficiaries of this training. This is
+because more than 90% of the female teachers in CDSSs are professionally under—qualified.
+As the project will aim at training most of the untrained teachers currently working in the
+CDSSs, a conscious effort will be made to include the majority, if not all, the under—qualified
+female teachers in the lot of the project’s trainees.
+
+4.2.4 Females students will also be beneficiaries of the project. As of now, girls represent
+almost 40% of the enrollments in the CDSSs. Although performance in national examinations
+is poor for both boys and girls, during the last decade, girls enrolled in CDSSS have tended to
+perform slightly worse than the boys in the JCE and MSCE for all subjects except Chichewa
+and Bible Knowledge. In 1999 for example, while 5% of the boys who sat for the MSCE
+passed, only 1% of the girls did. By improving the conditions of the CDSSs through the
+training of their under—qualified staff, the building and rehabilitation of infrastructure, the
+provision of science and library facilities, equipment and books as well as other facilities
+likely to appeal to females, such as latrines and clean water, it is likely that the achievement
+levels of female students will improve and more of them will be attracted to CDSSs.
+
+4.3 Strategic Context
+
+4.3.1 The goal of education as stated in the PRSP is the alleviation of poverty. PHj
+reinforces this position by stressing the developmental and poverty alleviation role of good
+quality education. Among others, the objectives include the promotion of access to quality
+health and education; an economy supported by a strong scientific and technological base; an
+equitable distribution of wealth; and a sustainably managed environment. This project will
+reinforce these goals in a number of ways. Firstly, the improvement of 40 secondary schools
+will promote quality education that is likely to open up increased employment and higher
+education opportunities for graduates of these schools, thus preparing them to better
+contribute to the development of the economy. The project will also promote the national goal
+of strengthening the country’s scientific and technological base as all the project schools will
+be equipped with science facilities, equipment and relevant science textbooks. Unqualified
+teachers in these schools will have their teaching skills upgraded which will make them better
+teachers for science and other subjects. Overall, the project will contribute to improving the
+productivity of the economy, as those graduating from the project’s schools will be better
+equipped for employment and further education.
+
+15
+
+4.3.2 Second, the project will promote the goal of moving toward some form of equitable
+distribution of income by making it possible for graduates of originally disadvantaged schools
+to compete on an equal footing with those from the more advantaged conventional schools. It
+is also noteworthy that many of these beneficiaries will come from rural areas of Malawi, as
+most CDSSs are located there.
+
+4.3.3 Finally, the project will contribute to developing healthy human resources by
+promoting improved health standing among students from the projects’ schools and their
+teachers as well as their immediate associates by putting resources in programs focussing on
+HIV/AIDS awareness and prevention.
+
+4.4 Project Objectives
+
+The objective of the project is to contribute to improved quality and equity of
+secondary education provided at the Community Day Secondary Schools (CDSSs) in Malawi.
+This will be achieved through the establishment and rehabilitation of physical facilities,
+provision of educational materials, training of under—qualified teachers and capacity building
+for school management.
+
+4.5 Project Description
+
+The project, which will be implemented over a period of four and half years, will
+consist of five components with following outputs:
+
+0 Based on a maximum of 4 classrooms per school site, the project will construct/
+rehabilitate 160 classrooms at 40 CDSSs, providing a total of 6,400 class spaces in
+schools where very little provision currently exists or the facilities are in dilapidated and
+impermanent structures. 40 science facilities, 40 libraries, 40 administrative blocks, and
+80 teachers’ houses will be built. 160 double and 80 pit—latrines provided, together with
+40 boreholes with hand pumps. Playgrounds will also be provided where none exist.
+
+0 Science equipment, books and other teaching leaming—materials for pupils at project
+schools will provided.
+
+0 2,500 teachers will be trained under the project’s in—service teacher training program and
+two fellowships in secondary teacher education will be provided.
+
+0 As a capacity building for schools, and in support of the policy strengthening the methods
+advisory services, 300 school managers and methods advisors will receive training in
+school management.
+
+0 The project will support the operational costs of implementation for the 54 months of the
+project period.
+
+16
+
+4.6 Project Activities and Components
+
+ 
+
+4.6.1 The project will include a range of activities within the following categories:
+
+(A) Professional Services
+(B) Civil Works
+
+(C) Furniture
+
+(D) Equipment
+
+(E) Training
+
+(F) Operating Costs
+
+The details under each component are as follows:
+
+Component 1: Infrastructure Development
+
+ 
+
+4.6.2 In view of the need to improve the quality of secondary education at the CDSSs,
+especially in the rural areas of Malawi, this component is intended to improve the provision
+of physical facilities that will enhance the quality of the education provided. The schools that
+the project will assist as indicated in paragraph 3.2.4, have no science teaching and library
+facilities; classrooms are either lacking or dilapidated and overcrowded, unfit for teaching and
+learning; and latrines and access to safe water are absent. Thus the need to upgrade these
+schools to the minimum physical standards set by the government justifies the use of
+resources for school infrastructure development.
+
+(A) Professional Services
+
+4.6.3 Architectural and engineering services for the rehabilitation/new construction of
+existing community day secondary schools, will be required to carry out site surveys,
+including levels and soil conditions and to prepare the adaptations of the standard designs for
+the classrooms and other facilities to the site layouts, adjust to contours and other parameters,
+and include provision of drinking water by appropriate means. After tendering and selection
+of contractors, carried out by the PIU, full post—contract services and site supervision will be
+required by consultants until final completion. The progress of work on sites will be fully
+supervised by regular visits by the consultants, who will also maintain clerk of works with
+day—to—day supervision for the duration of the contracts.
+
+(B) Civil Works
+
+4.6.4 The civil works under the project’s first component comprise the rehabilitation,
+modification and extension of facilities and service infrastructure at 40 existing community
+day secondary schools, in selected districts.
+
+4.6.5 Typically, a community day secondary school will have the following facilities:
+
+— administration block with head teacher office, staff room, administration and store
+— 4 classrooms in two blocks
+
+— library and laboratory block
+
+— 2 student toilet/latrine blocks, 4 units each
+
+— 1 teacher toilet/latrine block, 2 units
+
+17
+
+— 2 staff houses
+— internal roads, sports ground, fences, gates, walkways, storm water drainage
+
+(C) Furniture
+
+4.6.6 All furniture required for the above—listed facilities will be provided under the project
+in accordance with specified lists prepared by MoEST. Built—in furniture will be provided for
+under the construction contracts. The main items of loose furniture will be tables, chairs,
+desks, storage and display units and any other items of essential furniture required for the
+functioning of the schools. Locally produced furniture will be used as far as possible in order
+to make future repairs and replacements cheaper.
+
+(D) Equipment
+4.6.7 The project will provide adequate general office equipment to the schools to be
+constructed in accordance with the MoEST list of standard office equipment and supplies for
+
+community day secondary schools.
+
+Component 2: Educational Materials Provision
+
+ 
+
+4.6.8 Given the lack of science teaching equipment, and inadequate supply of books and
+other teaching/learning materials, this component provides for these materials, in as much as
+they enhance the quality and efficiency of secondary education provided at the CDSSs.
+
+(D) Equipment
+
+4.6.9 The project will supply and deliver educational materials in sufficient quantities to
+provide for all the project schools. The materials will comprise science equipment and
+consumables for the 40 science facilities; text books for core subjects provided at a ratio of
+one book per student per subject; books and reading materials on HIV/AIDS; supplementary
+reading materials; books for the 40 libraries; teaching and learning aids such as charts and
+maps. The books to be supplied will be identified by the schools and will be available from
+commercial suppliers in and outside the country.
+
+Component 3: Teacher Education Development
+
+ 
+
+4.6.10 The component aims to support MoEST efforts to reduce the number of under—trained
+teachers in CDSSs, through the provision of in—service training. The component will provide
+about half of the MoEST’s needs for this type of training.
+
+(E) Training
+
+4.6.11 A program of in—service training will be funded by the project for about 2500 CDSS
+teachers. Teachers will receive training in both content and methodology. The training will
+also include training in HIV/AIDS awareness and prevention, gender and environmental
+issues. Appropriate staff from Colleges of Education, Universities, EMAS, TDCs, and
+schools will be used to provide the training, which will principally consist of a period of 8
+weeks of residential training followed by a period of distance learning. Capacity for
+secondary teacher education development will also be strengthened through the provision of
+
+18
+
+long—term training for two of the Teacher Education Department (TED) officers. A detailed
+training program will be submitted following loan effectiveness.
+
+Component 4: Capacity Building for School Management
+
+4.6.12 This component will assist in efforts to build capacity for school management at the
+CDSSs through the provision of training. The component will provide training for a
+significant number of school managers as well as EMAS staff involved in the delivery of
+secondary education at the CDSSs. The component will further support the development of a
+maintenance culture and strengthen community school and local administration in support of
+effective maintenance projects and decentralized maintenance policy implementation.
+
+(E) Training
+
+4.6.13 Training in curriculum and facilities management, which will also cover HIV/AIDS
+awareness and prevention, gender and environmental issues, will be provided for about 300
+CDSS school managers. The training, which will consist of one—month duration, will be
+provided using staff from MoEST agencies, including the University of Malawi, and other
+agencies identified by MoEST as being appropriate. The capacity of EMAS will also be
+strengthened through the provision of long—term training to 2 EMAS staff members and short—
+term training of 3 months duration to 6 EMAS staff. Training of one—week duration in school
+infrastructure maintenance will be provided for school managers, teachers and community
+members and organized at the schools. A detailed training program will be submitted
+following loan effectiveness.
+
+Component 5: Project Management
+
+ 
+
+(D) Equipment
+
+4.6.14 In view of the large number of project sites in deprived rural areas and the need for
+regular supervision of the project activities, the project will fund the provision of three
+vehicles and ten motor bicycles for project coordination and site supervision. Two desktop
+PCs with software and printers, one photocopying machine and basic office equipment for
+project management will also be provided.
+
+(F) Operating Costs
+4.6.15 The operational costs in carrying out the administration, coordination and procurement
+
+activities necessary for the successful completion of the project, will be met by the project for
+the 54 months of implementation.
+
+19
+
+4.7 Environmental Impact
+
+4.7.1 As the project aims basically at rehabilitating existing school infrastructures, it has
+been classified in the category H according to the Banks environmental guide—lines. The
+project will have minimal negative impact on the environment provided that the mitigation
+measures indicated below are properly implemented. All the construction work to be done
+will consist of one—story buildings. Principles of environmental protection will be observed in
+the civil works in terms of preserving existing trees and planting new ones. Where there is no
+existing water supply, the construction of boreholes has been proposed to ensure the
+availability of good quality water. As far as the disposal of human waste is concerned, the
+existing facilities, which are foul smelling pit latrines, will be replaced by ventilated
+improved pit latrines (VIP). In order to prevent any health hazard from laboratory waste each
+school will be provided with a fenced laboratory waste area or small incinerator, and septic
+tanks will be constructed for liquid waste.
+
+4.7.2 The production of burnt bricks is a well known and widely applied building
+technology in Malawi. Furthermore, it represents a main source of income for people in rural
+areas. The burning of bricks with fuelwood, however, also constitutes a serious
+environmental problem in light of the deforestation taking place in many areas of the country.
+The ADF education projects have so far used burnt bricks for construction of schools, while
+other donors supporting the sector (DFID and DANIDA) are now recommending the use of
+Stabilized Soil Blocks (SSB). In view of the large number of schools to be constructed in the
+Education IV Project, it is recommended to use such environmental friendly building
+material. A large number of school buildings have already been built with Stabilized Soil
+Blocks, which consumes only approximately 7% cement. The blocks are produced with block
+making machines, which contributes to a high quality. This construction technology will be
+specified in the project for areas with suitable soil.
+
+4.8 Project Costs
+
+4.8.1 The total cost of the project, net of taxes and customs duties, is estimated at UA 16.67
+million, of which UA 11.74 million is in foreign exchange and the equivalent of UA 4.93
+million is in local currency. For the purpose of costing, all items have been priced in USD and
+converted into UA at the exchange rate applicable in the Bank for the month of August 2001.
+A summary of project cost estimates is given below in Table 4.1 by component and in Table
+4.2 by category of expenditure.
+
+4.8.2 The cost estimates for civil works are based on current tenders for similar facilities
+with base costs up—dated to August 2001 (time of appraisal). The cost estimates for furniture,
+equipment and supplies are based on data obtained from the PIU and the MoEST. Physical
+contingencies are set at 10% of base costs for all categories of expenditure. Price
+contingencies are estimated at 3% inﬂation per year both for foreign costs and local currency
+costs since the project is priced in USD, with 90 % of the total cost being funded in UA. The
+detailed project cost estimates are shown in Annex VI.
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 4.1
+Summary of project Costs by Component
+USD million UA million %
+COMPONENT F .E. L.C. Total F .E. L.C. Total of Tot
+I. Infrastructure Development 8.04 3.59 11.62 6.38 2.85 9.23 55.4
+II. Educational Material Provision 3,00 0.00 3.00 2.39 0.00 2.39 14.3
+III. Teacher Education Development 1.03 1.03 2.06 0.82 0.82 1.64 9.8
+IV. Capacity Building for School
+Management 0.15 0.15 0.31 0.12 0.12 0.24 1.5
+V. Project Management g H M Q E w 3.4
+Base Costs 12.49 5.21 17.70 9.93 4.14 14.06 84.4
+Physical Contingencies @ g m w H E 8.4
+Sub-Total 13.74 5.73 19.47 10.92 4.55 15.47 92.8
+Price Contingencies & w E w w w 7.2
+TOTAL COSTS 14.77 6.21 20.98 11.74 4.93 16.67 100.0
+70.4% 29.6% 100.0% 70.4% 29.6% 100.0%
+Table 4.2
+Summary of Project Costs by Category of Expenditure
+USD million UA  %
+CATEGORY F .E. L.C. Total F .E. L.C. Total of Tot
+A) Professional Services 0.00 1.41 1.41 0.00 1.12 1.12 6.7
+B) Civil Works 7.51 1.88 9.39 5.97 1.49 7.46 44.7
+C) Furniture 0.30 0.30 0.60 0.24 0.24 0.48 2.9
+D) Equipment 3.38 0.00 3.38 2.69 0.00 2.69 16.1
+E) Training 1.18 1.18 2.37 0.94 0.94 1.88 11.3
+F) Operating Costs w % g M ﬂ % 2.7
+Base Costs 12.49 5.21 17.70 9.93 4.14 14.06 84.4
+Physical Contingencies @ g m w H E 8.4
+Sub-Total 13.74 5.73 19.47 10.92 4.55 15.47 92.8
+Price Contingencies & w E w w w 7.2
+TOTAL COSTS 14.77 6.21 20.98 11.74 4.93 16.67 100.0
+70.4% 29.6% 100.0% 70.4% 29.6% 100.0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note: All figures are rounded from spreadsheet calculations and may not always exactly “add up” in
+these tables
+
+4.9 Sources of Financing and Expenditure Schedule
+
+4.9.1 The project will be financed jointly by the ADF (90%) and the Government (10%) as
+shown in Table 4.4. The ADF’s contribution, with a loan of UA 15 million, will meet 100 %
+of all foreign exchange costs and 66.2 % of local costs. The Government will finance 33.8 %
+of the local costs, estimated at UA 1.67 million, which represents 10 % of the total project
+costs. In addition, the Government will finance all taxes and duties. It is noted that the ADF—
+VHI allocation for Malawi has been fully committed. Therefore, an additional allocation of
+UA 15.00 million will be required to finance this project. Given the project’s significant
+potential to contribute to the country’s poverty reduction objectives, through improvements in
+the quality of education, this additional allocation will further support the Bank’s
+development objectives as articulated in the CSP 1999—2001. Furthermore, the resources will
+be utilized efficiently as reﬂected by Malawi’s good performance rating in the 2001 Country
+Performance Assessment.
+
+4.9.2 The ADF’s financing of part of the local costs, covering professional services, civil
+works, training and operating costs, is justified given the social nature of the project. Malawi
+is making determined effort towards mobilizing internal and external resources to the
+
+ 
+
+21
+
+requirements of its increased budgetary allocations to the social sector as reﬂected in the
+PRSP. The increase in the share of education in the budget (from 20% in 1994 28% in 2000)
+and the limited availability of foreign currency due to balance of payment constraints justifies
+ADF financing of part of the local costs.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 4.3
+Sources of Finance (UA mill.)
+SOURCE F.E. % L.C. % TOTAL %
+A D F 11.74 100.0 3.26 66.2 15.00 90.0
+GOVERNMENT M 0.0 E 33.8 E 10.0
+TOTAL 11.74 4.93 16.67
+70.4% 29.6% 100.0%
+Table 4.4
+Financing Plan by Category of Expenditure (UA mill.)
+TOTAL ADF GOM
+CATEGORY F .E. L.C. TOTAL % F .E. L.C. TOTAL % L.C. TOTAL %
+A) Professional Services 0.00 1.35 1.35 8.1 0.00 1.35 1.35 100.0 0.00 0.00 0.0
+B) Civil Works 7.01 1.75 8.77 52.6 7.01 0.37 7.38 84.2 1.38 1.38 15.8
+C) Furniture 0.28 0.28 0.57 3.4 0.28 0.00 0.28 50.0 0.28 0.28 50.0
+D) Equipment 3.20 0.00 3.20 19.2 3.20 0.00 3.20 100.0 0.00 0.00 0.0
+E) Training 1.12 1.12 2.25 13.5 1.12 1.12 2.24 100.0 0.00 0.00 0.0
+F) Operating Costs 04 m E Q m m E M M M m
+TOTAL 11.74 4.93 16.67 11.74 3.26 15.00 1.67 1.67
+70.4% 29.6% 100.0% 100.0% 66.2% 90.0% 33.8% 10.0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.9.3 Tables 4.5 and 4.6 below show the expenditure schedule by component and by
+category of expenditure and source of financing respectively.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 4.5
+Expenditure Schedule by Component (UA mill.)
+
+COMPONENT 1: 2002 2003 2004 2005 2006 TOTAL %
+A) Professional Services 0.17 0.34 0.34 0.34 0.17 1.35 12.4
+B) Civil Works 0.00 2.22 3.33 2.78 0.44 8.77 80.4
+C) Furniture 0.00 0.00 0.09 0.47 0.00 0.57 5.2
+D) Equipment M M M m M & 2.0
+
+TOTAL COMPONENT 1 0.17 2.56 3.80 3.77 0.61 10.91 100.0
+
+Percentage 1.6% 23.5% 34.9% 34.6% 5.6% 100.0%
+
+COMPONENT 2: 2002 2003 2004 2005 2006 TOTAL %
+D) Equipment M M w M M & 100.0
+
+TOTAL COMPONENT 2 0.00 0.00 0.47 2.37 0.00 2.85 100.0
+
+Percentage 0.0% 0.0% 16.7% 83.3% 0.0% 100.0%
+
+COMPONENT 3: 2002 2003 2004 2005 2006 TOTAL %
+F) Training M w w w M ﬂ 100.0
+
+TOTAL COMPONENT 3 0.24 0.49 0.49 0.49 0.24 1.96 100.0
+
+Percentage 12.5% 25.0% 25.0% 25.0% 12.5% 100.0%
+
+COMPONENT 4: 2002 2003 2004 2005 2006 TOTAL %
+F) Training M M M M M w 100.0
+
+TOTAL COMPONENT 4 0.04 0.07 0.07 0.07 0.04 0.29 100.0
+
+Percentage 12.5% 25.0% 25.0% 25.0% 12.5% 100.0%
+
+COMPONENT 5: 2002 2003 2004 2005 2006 TOTAL %
+D) Equipment 0.14 0.00 0.00 0.00 0.00 0.14 20.2
+G) Operating Costs w w w w M E 79.8
+
+TOTAL COMPONENT 5 0.25 0.12 0.12 0.12 0.06 0.67 100.0
+
+Percentage 37.9% 17.7% 17.7% 17.7% 8.9% 100.0%
+
+TOTAL PROJECT 0.70 3.24 4.96 6.82 0.95 16.67
+
+4.2% 19.4% 29.7% 40.9% 5.7% 100.0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 4.6
+Expenditure Schedule by Source of Finance (UA mill.)
+
+A D F 2002 2003 2004 2005 2006 TOTAL %
+A) Professional Services 0.17 0.34 0.34 0.34 0.17 1.35 9.0
+B) Civil Works 0.00 1.87 2.81 2.34 0.37 7.38 49.2
+C) Furniture 0.00 0.00 0.05 0.24 0.00 0.28 1.9
+D) Equipment 0.14 0.00 0.51 2.55 0.00 3.20 21.3
+E) Training 0.28 0.56 0.56 0.56 0.28 2.25 15.0
+F) Operating Costs 0.12 0.12 0.12 0.12 0.06 0.53 3.6
+
+Total 0.00 2.89 4.38 6.15 0.88 15.00 100.0
+
+Percentage of Total 0.0% 19.3% 29.2% 41.0% 5.9% 100.0%
+
+G O M 2002 2003 2004 2005 2006 TOTAL %
+B) Civil Works 0.00 0.35 0.53 0.44 0.07 1.38 82.9
+C) Furniture 0.00 0.00 0.05 0.24 0.00 0.28 17.1
+
+Total 0.00 0.35 0.57 0.67 0.07 1.67 100.0
+
+Percentage of Total
+0.0% 21.0% 34.4% 40.5% 4.1% 100.0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T O T A L 2002 2003 2004 2005 2006 TOTAL %
+A) Professional Services 0.17 0.34 0.34 0.34 0.17 1.35 8.1
+B) Civil Works 0.00 2.22 3.33 2.78 0.44 8.77 52.6
+C) Furniture 0.00 0.00 0.09 0.47 0.00 0.57 3.4
+D) Equipment 0.14 0.00 0.51 2.55 0.00 3.20 19.2
+E) Training 0.28 0.56 0.56 0.56 0.28 2.25 13.5
+F) Operating Costs 0.12 0.12 0.12 0.12 0.06 0.53 3.2
+
+Total 0.70 3.24 4.96 6.82 0.95 16.67 100.0
+
+Percentage of Total 4.2% 19.4% 29.7% 40.9% 5.7% 100.0%
+
+ 
+
+ 
+
+5. PROJECT IMPLEMENTATION
+
+5.1 Executing Agency
+
+The MoEST, through its Planning Department, Will be the executing agency for the
+project.
+
+5 .2 Institutional Arrangements
+
+ 
+
+5.2.1 The existing PIU, currently responsible for the implementation of the ADF Education
+1H Project, Will be retained and strengthened to implement and supervise the project. The PIU
+has already the following administrative staff at its offices in Blantyre: project coordinator,
+architect, procurement officer (quantity surveyor), and an accountant. It also engages
+consultants for the professional services required. Given the increased scope of the work
+compared to the on—going project, the capacity of the PIU Will be strengthened by the addition
+of a structural engineer to its staff. The PIU, Which is fully integrated With regular operations
+of the MoEST, has successfully and efficiently managed the ADF projects.
+
+5.2.2 The Director of Planning of MoEST Will have the overall responsibility for the
+coordination and management of the project. The project coordinator, under the direction of
+the Director of Planning, will be responsible for the implementation of the operational
+activities related to the project. The teacher education development and the capacity building
+components Will be implemented in collaboration With the TED, EMAS and the Secondary
+Education Department.
+
+23
+
+The technical staff of the PIU (architect, quantity surveyor and structural engineer) will be
+responsible for the implementation of the infrastructure component, including the day—to—day
+inspection of construction works, tender documents and designs, whereas the accountant will
+be responsible for the project accounts. Detailed job descriptions for these staff are stated in
+the PID. Basic office equipment, vehicles for supervision and necessary funds for the
+activities related to the implementation of the ADF project will be provided under the project.
+
+5.3 Supervision and Implementation Schedules
+
+ 
+
+The project will be implemented during a period of 4.5 years (54 months) from
+effectiveness of the loan, assumed to be in the first quarter of 2002. The implementation
+schedule is presented in Annex VH. The Bank’s supervision plan is presented in the PID.
+
+5.4 Procurement Arrangements
+
+ 
+
+5.4.1 Procurement arrangements are summarized in Table 5.1 below and described in detail in
+the PID. All procurement of goods, works and services financed by the Bank will be in
+accordance with the Bank’s Rules of Procedure for Procurement of Goods and Works or, as
+appropriate, Rules of Procedure for the Use of Consultants, using the relevant Bank Standard
+Bidding Documents.
+
+5.4.2 Malawi’s national procurement laws and regulations have been reviewed and
+determined to be acceptable. However, recent changes in the review process of procurement
+activities by the government has resulted is some delays in the implementation of both
+government and external supported programs, including some of the activities of the ongoing
+ADF project. The government is planning to revise the review process to address the
+concerns of funding and executing agencies. The PIU will be responsible for the procurement
+of goods/services/training and the resources, capacity and experience are adequate to carry
+out the procurement in accordance with the Bank’s Rules of Procedure.
+
+ 
+
+ 
+
+Table 5 .1
+Procurement Arrangements (UA mill.)
+CATEGORIES ICB NCB OTHER SHORTLIST TOTAL
+CIVIL WORKS:
+
+ 
+
+Rehabilitation/new construction of
+CD55 schools
+
+8.766 [7.384] 8.766 [7.384]
+
+ 
+
+GOODS:
+
+ 
+
+Furniture for CD55 schools
+
+Ofﬁce Equipment for CD55 schools
+Educational Equipment for CD55
+schools
+
+Equipment for Project Management
+
+2.847 [2.847]
+
+0.569 [0.284]
+0.216 [0.216]
+
+0.135 [0.135]
+
+0.569 [0.284]
+0.216 [0.216
+2.847 [2.847]
+
+0.135 [0.135]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONSULTING SERVICES &
+
+TRAINING:
+
+Professional services for civil works 1.354 [1.354] 1.354 [1.354]
+Training 2.246 [2.246] 2.246 [2.246]
+MISCELLANOUS:
+
+Operating costs Project Management 0.534 [0.534] 0.534 [0.534]
+TOTAL 2.847 [2.847] 9.551 [7.884] 0.669 [0.669] 3.600 [3.600] 16.668 [15.001]
+
+ 
+
+* Amounts in brackets are financed by the Fund.
+
+Civil Works
+
+ 
+
+24
+
+5.4.3 Civil works for rehabilitation and expansion of 40 Community Day Secondary
+Schools, valued at UA 8.76 million, will be procured under National Competitive Bidding
+(NCB) as individual contracts for each site or grouped in lots of two to three schools. The
+value of each contract will be UA 0.2 million. Given the remote location and the scattered
+nature of the sites and the size of the contracts, it is unlikely to attract foreign competition.
+But there is sufficient number of qualified local contractors to ensure competition. Eligible
+bidders resident within or from outside the borrowing country, may also submit bids, if they
+wish to participate.
+
+Goods
+
+5.4.4 Educational equipment including equipment for science laboratories for 40 CDSSs,
+valued at UA 2.84 million will be awarded under International Competitive Bidding
+procedures. Office and general equipment (UA 0.56 million) will be awarded under NCB.
+Given the small size of the contracts, this is the most efficient and economical way of
+procuring these goods.
+
+5.4.5 Furniture valued at UA 0.57 million and office equipment valued at UA 0.22 for 40
+CDSSs will be procured under NCB as two contracts. Given the nature of the goods and size
+of the contracts, it is unlikely to attract foreign competition. But there is sufficient number of
+qualified local suppliers to ensure competition. Eligible bidders resident within or from
+outside the borrowing country, may also submit bids, if they wish to participate.
+
+5.4.6 Vehicles for 3 field supervisors and motorbikes for 10 clerks of works for the
+technical support and supervision of construction works valued at UA 0.12 million, will be
+procured through IAPSO. Office equipment for the project management, valued at UA 0.02
+million, will be procured under National Shopping procedures. This is the most efficient and
+economical way of procuring these goods.
+
+Consulting Services and Training
+5.4.7 Professional services for the preparation of tender documents for rehabilitation work
+and new construction for 40 CDSSs, as well as site supervision, estimated at UA 1.35
+million, will be procured in accordance with the Bank’s Rules of Procedure for the Use of
+Consultants. Selection will be through short—listing following the procedure of technical
+quality with price consideration.
+5.4.8 Training valued at UA 2.24 million will be through a shortlist of training institutions.
+
+Miscellaneous
+
+5.4.9 All items financed under operating costs for Project Management (UA 0.53 million)
+will be procured in accordance with Government procedures acceptable to the Fund.
+
+25
+
+5.4.10 The text of a General Procurement Notice (GPN) has been discussed with the PIU and
+will be finalized at negotiations. The Bank will publish it in the UN Development Business
+magazine, upon approval of the loan.
+
+5.4.11 The following documents are subject to review and approval by the Bank before
+promulgation: Specific Procurement Notices; either shortlists and Requests for Proposals (RFP)
+including TORs for consultancy services and training institutions; Lists, Designs,
+Specifications, Tender Documents, with Draft Contract Agreements for Civil Works, Furniture
+and Equipment; Tender Evaluation Reports, or Reports on Evaluation of Consultants’
+Proposals, including Recommendations for Contract Award; Draft Procurement Contracts, if
+these have been amended from the drafts included in the tender documents, and draft contracts
+for consultancy services and training.
+
+5.5 Disbursement Arrangements
+
+ 
+
+It is envisaged that the following disbursement methods will be followed for the
+various components and categories of expenditure: one Special Account for civil works,
+operating costs and training (related to the ADF loan), the establishment of which will be a
+condition precedent to first disbursement; and direct payment method for professional
+services, equipment and furniture.
+
+5.6 Monitoring and Evaluation
+
+ 
+
+5.6.1 The project management will submit to ADF quarterly project progress reports
+(QPPR) in accordance with the established format covering all aspects of the project, within
+30 days following the end of each quarter. The project management will also prepare and
+submit a project completion report in accordance with the format recommended by ADF.
+Additional reports and clarifications will be submitted to the Fund as required.
+
+5.6.2 A mid—term review will be conducted after two years to evaluate progress. ADF will
+be responsible for undertaking the review in collaboration with the MoEST. Participatory
+approach will be ensured in the review process. In the event there will be a need for
+modification of the project for the remaining two years, submissions will be made to ADF for
+consideration.
+
+5.6.3 The key progress indicators for monitoring delivery of project inputs and
+achievements of project outputs are described in the Project Matrix. These include
+
+performance of students in key subject areas and performance in completion exams.
+
+5.7 Financial Reporting and Auditing
+
+ 
+
+The project management will maintain separate project accounts to ensure efficient
+monitoring of project implementation. Detailed accounts concerning expenditure from ADF
+and Government should allow identification of expenditure by project component, category of
+expenditure and source of finance. The accounts and ledgers will be kept separately from
+other projects and be adequately secured. The office of the Auditor General will audit the
+project accounts. The accounts will be presented annually to ADF, within six months
+following the end of each accounting period, along with a mid—year summary.
+
+26
+5.8 Aid Co—ordination
+
+The PD3 is the guiding document for education development in Malawi. All
+development partners active in the education sector support and assisted in the development
+of the policies and priority strategies contained in the PD? The development of the PD3 is also
+seen as the first stage in a process that will lead to the adoption of a Sector Wide Approach
+(SWAP) and the development of a sector investment program. Monthly donor meetings have
+also significantly improved donor coordination and partnership with the government. Annual
+joint reviews of the sector (first one took place in October 2000) will further strengthen the
+aid coordination and effectiveness of programs. Supervision missions of the project will be
+planned to coincide with the annual sector reviews. Additionally, project activities will be
+coordinated with those of DANIDA, which is the principal external supporter of quality
+improvement at the CDSSs and with those of CIDA which provides assistance to the
+upgrading of CDSS teachers.
+
+6. PROJECT SUSTAINABILITY AND RISKS
+6.1 Recurrent Costs
+
+The recurrent costs generated by the project are relatively small. This is because the
+schools to be supported through the project already exist and that the major recurrent cost,
+teachers’ salaries, is already met by the government. Moreover, the Public Expenditure
+Review supports the movement of resources toward the provision of relevant
+leaming/teaching inputs, which will be required for the replacement of materials after the
+initial stock provided by the project is exhausted. Recurrent costs related to maintenance of
+facilities will be met by communities and management training which heads of schools will
+undergo will help in improving preventive maintenance. The PD3 requires schools to invest at
+least 0.5% of the value of their school buildings on maintenance starting in 2001.
+
+6.2 Project Sustainability
+
+6.2.1 The project should benefit from the GoM’s strong commitment to the education sector
+as is evidenced by the fact that currently, 28% of the recurrent national budget is being
+allocated to education. Also significant is the fact that the PH3 advocates for the strengthening
+of all the areas that will be the focus of this Project. With regard to quality improvement, PHj
+directs that all secondary schools be upgraded to minimum operational standards. Appropriate
+strategies for achieving this goal are outlined and include: strengthening of the secondary
+schools’ quality assurance system; the upgrading of the professional capacity of head teachers
+and heads of departments; provision of adequate instructional materials; strengthening of
+school assessment systems; and awareness creation related to HIV/AIDS. On management,
+PHj advocates for the establishment of basic school management and maintenance systems,
+which among other things will provide for community involvement and management for the
+project schools.
+
+27
+
+6.2.2 Among other things, the design of this project was informed by the need to promote
+sustainability of its expected outputs. Firstly, to ensure long—term sustainability of the
+infrastructure, materials and equipment provided through the project, there will be a training
+program for head teachers and teachers of the project schools as well as secondary school
+methods advisors. Relevant training will also focus on equipping school administrators with
+appropriate management skills, which will promote a more cost effective utilization of the
+project’s facilities as well as improved time management. Secondly, through the use of simple
+designs, the project will attempt to establish structures that are not difficult to maintain.
+Additionally, this project will benefit from the experience of the ADF PIU and collaboration
+with other donors active in the sector such as DANIDA and CIDA. The PIU has gained
+considerable experience in project management through implementing the previous three
+ADF projects, and is fully integrated into the regular operations of the MoEST. Finally, the
+schools, which were established with community assistance, continue to have the support of
+the communities, which is essential for long—term sustainability. For example, each school
+has a school development committee from the community, which leads the mobilization of
+resources for infrastructure development and maintenance.
+
+6.3 Critical Risks and Mitigating Measures
+
+ 
+
+6.3.1 One of the risks associated with this project relates to the possibility of the GoM
+directing the expansion of the project schools to take in more students than the capacity of the
+facilities provided through the project and without commensurate increase in the level of
+recurrent expenditure allocated to these schools. This may result from the facts that the better
+equipped schools attract more students and because continued expansion of the primary sub—
+sector will put added pressure on the few existing secondary schools to admit more students
+than their actual capacities. To minimize the effects of this risk, continued dialogue on the
+implementation of the PH3 strategies that relate to the upgrading of the existing secondary
+schools to relieve pressure on the project schools would be maintained. Moreover, it is
+expected that communities and parents will contribute to the expansion of available
+infrastructure as well as toward their maintenance.
+
+6.3.2 A second risk relates to inadequate maintenance of the project’s facilities. This project
+will address this possible outcome through a training program for school heads and education
+methods advisors which, among other things will focus on cost—efficient management of
+limited resources as well as on the maintenance of existing resources to benefit larger
+numbers of students. The Project schools will also be encouraged to strengthen their security
+systems in order to minimize loss of materials and equipment through vandalism. In addition
+to allocating more resources for school security, the project will promote the idea of
+community policing for school and other educational administrators as part of the training
+programs.
+
+6.3.3 The incidence of HIV/AIDS among teachers and other education officials targeted by
+the project could reduce the impact of some of the project’s outcomes. MoEST is committed
+to promoting awareness on the epidemic. It is expected that the training program for teachers
+and education methods advisors will complement these efforts.
+
+28
+7. PROJECT BENEFITS
+
+7.1 Economic Analysis
+
+7.1.1 Employers are becoming increasingly concerned about the ability of their new
+employees to follow written instructions, to communicate effectively, and to take advantage
+of modern scientific technology in the course of their duties. By strengthening measures
+aimed at enhancing the quality of secondary school education, the project will contribute to
+increasing acceptance of secondary school graduates by employers and post—secondary
+training institutions. Although opportunities for formal sector employment may be limited,
+being able to successfully complete secondary education increases the graduate’s chances of
+both employment and post secondary training.
+
+7.1.2 Outside of formal employment, the project should enhance the productivity of
+graduates who enter the non—formal sector. This would be a significant development as it
+would be consistent with one of the stated goals of secondary education, namely the
+preparation of graduates for informal sector employment. The potential of this employment
+sector has yet to be fully exploited especially by those possessing reasonable levels of formal
+education. As of now, many of the Malawians involved in the country’s informal sector are
+relatively elderly individuals without much formal education. Yet research on small and
+medium size enterprises attests to the fact that possession of at least secondary education is an
+important influential factor with regard to business success. In fact, among other results, the
+liberalization of most sub—Saharan economies has encouraged regional trade that requires
+those involved to be able to: communicate in foreign languages; utilize electronic
+communication; and to handle international travel. All this calls for an above average level of
+education on the part of such entrepreneurs.
+
+7.1.3 Support for science subjects in the secondary school curriculum should also contribute
+to generating additional opportunities for secondary school graduates. This is because
+improvement in the scientific competency of graduates of schools where science education
+will be strengthened will open doors for careers that call for above average mastery of
+scientific knowledge which is not possible in most CDSSs as they lack both science facilities
+and teachers. In fact, a ready market for nurses and teachers already exists in Malawi. Partly
+due to the HIV epidemic, Malawi faces a severe shortage of health care personnel in most of
+the country’s health facilities. It is estimated that as many as 40% of the posts in the Ministry
+of Health and Population are vacant. Many of these openings are for professionally trained
+nurses. With the inputs this project is to invest in science education, beneficiaries of the
+project will contribute to filling in the human resource gap in the health sector.
+
+7.1.4 By supporting training programs in HIV/AIDS for both teachers and school managers
+and by providing relevant HIV/AIDS materials for secondary schools and their teachers, the
+project will further enhance efficient utilization of existing human resources in the education
+sector. This is because HIV/AIDS is among the major cause of teaching and administrative
+staff attrition due to illness and death. What is more, much teaching time is lost because of
+participation by teachers in AIDS—related functions, particularly funerals and because teachers
+who are sick due to HIV/AIDS are less effective in their teaching even when they report for
+work.
+
+29
+
+Nor are students infected with HIV likely to benefit maximally from their time in school.
+Thus, in addition to promoting awareness on HIV/AIDS among the project’s beneficiaries,
+teachers and those education administrators who will have profited from the HIV/AIDS
+aspect of their in—service training and the students who will be recipients of books focussing
+on HIV/AIDS which will be provided through the project, the project will contribute to
+enhancing both the internal efficiency of the secondary educational system and effective use
+of the available educational resources.
+
+7.1.5 Finally, outside of the education system, the project will have economic benefits for
+Malawian entrepreneurs and workers who will be contracted to do building works, to provide
+teaching materials and equipment and other professional services. These individuals and
+organizations will have additional opportunities for generating income.
+
+7.2 Social Impact Analysis
+
+7.2.1 The project will address a number of the key obstacles to Malawi’s socio—economic
+development. It is estimated that more than half of the Malawian population is absolutely
+poor surviving as they do on less than US$40 per capital per annum. One manifestation of
+poverty in Malawi is the extreme inequalities in the provision of basic social services across
+socio—economic groups, gender and regions. This is particularly the case with regard to
+education, a particularly serious problem given that access to it is perhaps the single most
+important determinant of upward mobility for a majority of poor Malawians. While equity of
+access is less of a problem at the basic education level due to the policy of free primary
+education, it remains a problem at the secondary school level where fees are charged.
+Moreover, some of the best secondary schools in Malawi also tend to be the most expensive
+and teaching/learning materials are less accessible to the poor. Learning conditions for poor
+secondary students are also very poor as a result of which they find it more difficult to
+compete for scarce university places with their counterparts from the better endowed home
+backgrounds. Because access to quality secondary schools has much to do with the quality of
+primary school preparation, the more economically advantaged Malawians also join the best
+secondary schools. Hence, poor quality CDSSs, most of which are located in remote rural
+areas, remain the only option for most poor Malawian students. By focusing on secondary
+education in general and CDSSs in particular, the project will contribute to addressing the
+problem of unequal access to quality secondary school opportunity.
+
+7.2.2 Second, by supporting improvement of the quality of education provided by schools
+close in proximity to where students live, the project will contribute to improving learning
+conditions for female students. This is because parents are more likely to allow girls to attend
+school when the distance to travel is relatively short. Furthermore, by strengthening the
+teaching of science in the project schools, female students enrolled in them are likely to be
+more interested in pursuing the sciences than they would have if they did not have this
+opportunity. In this way, they stand a chance of benefiting from opportunities open to
+students who are competent in the sciences.
+
+7.2.3 Third, Malawi’s fertility rate (6.3) is among the highest in sub—Saharan Africa. From a
+population perspective, the education of the graduates of the schools benefiting from the
+project will result in gains for themselves, their families and the country at large.
+
+30
+
+This is because a better—educated population has been known to be more likely to have
+smaller families, a situation that is likely to lead to reduced pressure on limited family
+earnings and on a nation’s social services, including health and education. Furthermore, focus
+on health education related to HIV/AIDS, use of clean water and other sanitation facilities
+(latrines, clean water) provided to the project schools, should promote a health culture and
+better health standards not only among the teachers and students directly benefiting from the
+project, but also among the wider population who may have the opportunity to interact with
+these teachers and students.
+
+7.2.4 Finally, by strengthening the secondary sub—sector, this project will assist in enhancing
+the capacity of Malawi’s education system to generate some of the human resources required
+for the country’s development. In the first place, emphasis on basic education since the
+education for all impetus of the early nineties has resulted in the neglect of the secondary and
+tertiary education sub—sectors such that only about 30% of the Malawian pupils graduating
+from primary education hope to enroll in secondary education. Worse still, the quality of this
+secondary education, and particularly of the CDSSs remains very poor. Yet, Malawi needs a
+strong secondary education sub—sector not just for the reason that it is the bridge between the
+basic and tertiary sub—sectors but more so because secondary education imparts cognitive
+skills that enhance productivity more broadly. It also needs to be appreciated that with recent
+donor and government initiatives which reinforce the contribution of good tertiary education
+to Africa’s development, Malawi needs a strong secondary education sub—sector that can
+contribute effectively to the production of graduates to enroll in the country’s tertiary
+education institutions.
+
+8. CONCLUSION AND RECOMMENDATIONS
+8.1 Conclusion
+
+To address the inadequate provision of educational services in the country, the
+government of Malawi, together with its development partners, formulated a policy
+investment framework, which outlines the policies and strategies for the development of the
+education sector. The project will support these policies and strategies by contributing to the
+improvement of the quality of secondary education provided at the community day secondary
+schools. It will provide resources for the improvement of these schools’ physical facilities and
+teaching/learning materials, for the training of under—qualified teachers and for strengthening
+their management capacity.
+
+8.2 Recommendations and Conditions for Loan Approval
+
+It is recommended that an ADF loan not exceeding UA 15.00 million be granted to
+the government of Malwi for the purpose of implementing the project described in this report.
+The loan will be subject to the following specific conditions that:
+A. Conditions Precedent to Entry into Force
+
+The entry into force of the Loan Agreement shall be subject to the fulfillment by the
+
+Borrower of the provisions of Section 5.01 of the General Conditions Applicable to Loan and
+Guarantee Agreements.
+
+31
+B. Conditions Precedent to First Disbursement:
+The obligations of the Fund to make the first disbursement of the Loan shall be
+conditional upon the entry into force of the Loan Agreement as provided in ‘A’ above and the
+fulfillment by the Borrower of the following conditions:
+
+The Borrower shall have:
+
+i) submitted to the Fund, for approval, the list of the districts and schools to be supported
+by the project (para 4.2.1)
+
+ii) opened a special account in a bank acceptable to the Fund for the purpose of receiving
+part of the loan resources (para 5.5);
+
+C. Other Conditions:
+The Borrower shall:
+Submit a detailed training program to the Fund, for approval, within (6) months,
+
+following the date of disbursement of the loan, for training activities described under
+components HI and IV (parag 4.6.1 land 4.6.13).
+
+REPUBLIC OF MALAWI
+ADMINISTRATIVE MAP
+
+ 
+
+ 
+
+Zambia
+
+    
+  
+    
+
+Tanzania
+
+NTCHEU
+
+BAL
+
+   
+
+M a zambique
+
+  
+    
+  
+
+ 
+
+ 
+
+Annex I
+
+NORTHERN DIVISIONS
+
+Chitipa
+Karonga
+Rumphi
+Mzimba North
+Mzimba South
+Mzuzu City
+Nkhata Bay
+Likoma Island
+
+EAST DIVISION
+
+Kasungu
+Nkhotakota
+Salima
+Ntchisi
+Dowa
+
+SOUTH EAST DIVISION
+
+Mangochi
+Machinga
+Zomba Rural
+Zomba Urban
+Balaka
+
+WEST DIVISION
+
+MChinji
+Lilongwe City
+Lilongwe East
+Lilongwe West
+Dedza
+
+Ntcheu
+
+SOUTH WEST
+
+i
+
+Blantyre City
+Blantyre Rural
+Mwanza
+Chikwawa
+Nsanje
+
+. IRE HIGHLANDS
+
+Phalombe
+Mulanj e
+Thyolo
+Chiradzulu
+
+This map has been prepared by the ADB
+Group’s staff exclusively for the convenience
+of the readers of the report to which it is
+attached. The denominations used and the
+boundaries shown on this map do not imply,
+on the part of the Group and its affiliates, any
+
+judgement on the legal suits of any territory
+
+or any endorsement or acceptance of such
+boundaries.
+
+ 
+
+PLSCE
+
+ 
+
+Technical & Vocational Education
+Ministry of Labour
+
+ 
+
+ 
+
+ 
+
+ﬂﬁi
+
+ 
+
+ 
+
+ 
+
+Primary Education
+
+JCE
+
+ 
+
+ 
+
+MSCE
+
+Kamuzu College of
+Nursing
+
+ANNEX H
+
+ 
+
+—1
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diploma & Degree in Nursing
+
+Bunda College of Agriculture
+
+ 
+
+—1
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+4
+
+ 
+
+E
+
+ 
+
+Polytechnic
+
+Diploma in Agriculture; BSc (Agriculture); MSc (Animal Sci);
+MSc (Agr.Economics); MSc (Crop Science)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Secondary Education
+
+ 
+
+PSLCE Primary School Leaving Certificate Examination
+
+JCE
+MSCE
+
+Junior Certificate Examination
+Malawi School Certificate Examination
+
+ 
+
+ 
+
+ 
+
+Primary Teacher Education
+Teacher Training Colleges
+
+W
+
+_ _S_eco_nda_ryTeacher—Education?
+
+'_ _D_°r_n§s_i 99"_ege_°_f Equseﬁpn J
+
+ ______ __
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+4
+
+ 
+
+=
+
+ 
+
+Medical College
+
+Dip. Bus.St; B.Com; BSc (Eng); Dip.Eng; BSc (Tech.Ed)
+
+ 
+
+—1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— 2 3 4
+MBBS Medical Training
+— Chancellor College
+— 2 3 4
+
+EE
+
+ 
+
+ 
+
+— Mzuzu University
+
+Dip.Ed; B.Ed; BA; Dip.PA; BSc; LLB; B.Soc.Sci; BA (PA)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+STRUCTURE OF MALAWI’S NATIONAL EDUCATION SYSTEM
+
+Annex HI
+Organizational Structure of
+Ministry of Education. Science & Technology
+
+ 
+
+MINISTER
+FOR EDUCATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+L SECRETARY
+FOR EDUCATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+L PRINCIPAL SECRETARY
+BASIC EDUCATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Director Director
+Planning —— Methods and Advisory
+Project Implementation Unit
+Director Director
+Basic Education —— Secondary & Higher Education
+Director Controller
+Education Development Unit —— Accounting Services
+Divisional Manager Divisional Manager Divisional Manager L Divisional Manager
+Central Eastern —— Shire Highlands South Western South Eastern
+Division Division Division Division
+Divisional Manager Divisional Manager
+Central Western —— Northern
+Division Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annex IV
+Donor Support for the Education Sector (2001)
+Donor Area of Activity Budget(USD mill)
+ADF Primary, Secondary, Capacity Building 4.00
+CIDA Primary, Secondary Teacher Education 5.55
+DANIDA Secondary, Policy Development 8.70
+Dle Primary, Policy Development, Teacher Education 15.00
+GTZ Primary 0.50
+KfW Primary 3.75
+IDA Secondary, Capacity Building 9.00
+J ICA Micro—planning 1.50
+Norway Primary, Tertiary 1.00
+UNFPA Secondary textbook development 0.37
+UNICEF Primary 1 .00
+USAID Primary, Teacher Education, Policy Development 4.10
+WFP Primary feeding 1.55
+Total 56.35
+
+ 
+
+ 
+
+ 
+
+Source: Appraisal Mission, 2001
+
+ 
+
+Comparative Data on MalaWi’s Secondary School System (1999)
+
+Annex V
+
+ 
+
+ 
+
+School Type
+CSSs CDSSs Private Total
+
+1.Number of Schools 103 556 278 937
+2. Enrollments 58,714 166,781 17,245 242,740
+0 Boys 36,420 105,058 9,738 151,216
+0 % (62) (63) (56) (62)
+0 Girls 22,294 61,723 7,507 91,524
+0 % (38) (37) (44) (38)
+3. Teachers 1,005 2,980 340 4,325
+0 University Graduates 368 90 1 19 577
+o % (37) (3) (35) (13)
+o Diploma Holders 521 128 143 792
+o % (52) (4) (42) (18)
+. Unqualified 1 16 2,762 78 2,956
+. % (11) (93) (23) (68)
+. Total Male 746 2329 308 3,383
+o % (74) (78 (91) (78)
+. Total Female 259 65 1 32 942
+. % (36) (22) (9) (22)
+4. Student: Teacher Ratio 58:1 56:1 51:1 56:1
+5. Pupil Per Textbooks
+0 English 5 l6 7 10
+o Chichewa 4 5 6 5
+0 Math 6 16 8 1 1
+0 Physical Science 7 20 17 14
+6. Physical Facilities
+0 Pupil/Classroom Ratio 93 1 14 81 103
+o % Schools With Sci.
+
+Labs. (estimates) 60 10 20 13
+o % Schools With
+
+Libraries (estimates) 60 10 30 15
+6. Performance in National
+Examinations
+(i) JCE (% Pass) 92 91 92 91
+0 Boys 96 93 95 94
+0 Girls 86 88 90 88
+(ii) MSCE (% pass) 29 4 27 15
+0 Boys 34 5 34 17
+. Girls 21 1 1 8 1 1
+
+ 
+
+ 
+
+Source: MoEST Statistics, 1999
+
+Detailed Cost Estimates
+(in US Dollars)
+
+ 
+
+ISECONDARY EDUCATION
+
+ 
+
+ 
+
+ICOMPONENT 1: INFRASTRUCTURE DEVELOPMENT
+
+ 
+
+(A) Professional services (Construction Supervision)
+
+Rehabilitation of existing CDSS Schools (15% of constr. Cost)
+Total: Professional Services (1)
+
+(B) Civil Works
+
+(C
+
+v
+
+Rehabilitaﬂan/construction Work at Existing CDSS Schools
+
+One CDSS school
+
+Buildings
+
+Administration and staff Block (152 m2)
+
+Classroom Block, 2 x classrooms and stores (2 x 152 m2)
+Laboratory and Library Block, store and registration (152 m2)
+Teacher House, headteacher and teacher (2 x 85 m2)
+Pit Latrines, 2 girls and 2 boys, (2 x 20 m2)
+
+Pit Latrines, 2 teachers, (1 x 10 m2)
+
+Pit Toilet and Bath, (2 x 10 m2)
+
+External Works
+
+Site Works and Landscaping
+
+Paths and access road
+
+Borehole and Pump
+
+Playing Ground
+
+Name post
+
+Flagpole
+
+Stormwater Drainage
+
+Generator
+
+Preliminary & General (15 % of building costs)
+Sub—total one school
+
+Total: Civil Works 40 CDSS Schools (1)
+Furniture CDSS Schools
+
+Classroom and Office Furniture
+Total: Furniture CDSS Schools (1)
+
+Unit
+
+Lot
+
+m2
+m2
+m2
+m2
+m2
+m2
+m2
+
+Lot
+Lot
+Lot
+Lot
+Lot
+Lot
+Lot
+Lot
+Lot
+
+Units
+
+Lots
+
+Nos
+
+40
+
+1 52
+304
+1 52
+1 70
+40
+1 0
+20
+
+_L_L_L_L_L_L_L_L_L
+
+40
+
+40
+
+Unit cost
+
+35,197
+
+192
+
+93
+149
+124
+203
+203
+203
+
+13,511
+16,800
+7,000
+31,658
+112
+225
+14,340
+5,000
+30,606
+
+15,000
+
+Base cost
+
+1,407,876
+1,407,876
+
+29,184
+28,272
+22,648
+21 ,080
+8,120
+2,030
+4,060
+
+13,511
+16,800
+7,000
+31 ,658
+112
+225
+14,340
+5,000
+30,606
+234,646
+
+9,385,840
+
+600,000
+600,000
+
+Phy cont
+
+140,788
+140,788
+
+2,918
+2,827
+2,265
+2,108
+812
+203
+406
+
+1,351
+1,680
+700
+3,166
+11
+
+23
+1,434
+500
+3,061
+23,465
+
+938,584
+
+60,000
+60,000
+
+Sub-Total
+
+1,548,664
+1,548,664
+
+32,102
+31,099
+24,913
+23,188
+8,932
+2,233
+4,466
+
+14,862
+18,480
+7,700
+34,824
+123
+248
+15,774
+5,500
+33,667
+258,111
+
+10,324,424
+
+660,000
+660,000
+
+Price cont
+
+156,155
+156,155
+
+2,208
+2,139
+1,713
+1,595
+614
+154
+307
+
+1,022
+1,271
+530
+2,395
+8
+
+17
+1,085
+378
+2,315
+17,750
+
+709,998
+
+55,890
+55,890
+
+Total
+
+1,704,818
+1,704,818
+
+34,310
+33,238
+26,626
+24,783
+9,546
+2,387
+4,773
+
+15,884
+19,751
+8,230
+37,219
+132
+265
+16,859
+5,878
+35,982
+275,861
+
+11,034,422
+
+715,890
+715,890
+
+Annex VI
+
+% of F.E. % of Total
+
+8.13%
+0% 8.13%
+
+0.16%
+0.16%
+0.13%
+0.12%
+0.05%
+0.01%
+0.02%
+0.00%
+0.08%
+0.09%
+0.04%
+0.18%
+0.00%
+0.00%
+0.08%
+0.03%
+0.17%
+1.31%
+
+80% 52. 59%
+
+3.41%
+
+50% 3.41%
+
+(D) Equipment CDSS Schools
+Office Equipment
+Total: Equipment CDSS Schools (1)
+
+SUMMARY COSTS BY CATEGORY: COMPONENT 1
+(A) Professional Services
+(B) Civil Works
+(C) Furniture
+(D) Equipment
+TOTAL: COMPONENT 1
+
+ 
+
+ICOMPONENT 2: EDUCATIONAL MATERIALS PROVISION
+
+ 
+
+(D) Educational Equipment CDSS Facilities
+Science Equipment
+Text Books
+Library Books
+Sub—total one school
+
+Total: Educational Equipment CDSS Facilities (2)
+SUMMARY COSTS BY CATEGORY: COMPONENT 2
+
+Equipment
+TOTAL: COMPONENT 2
+
+(D
+
+v
+
+ 
+
+ICOMPONENT 3: TEACHER EDUCATION DEVELOPMENT
+
+ 
+
+(E
+
+v
+
+Training
+
+ln—service Teacher Training (2500 teachers @ 800 USD)
+Staff Training (fellowships) for TDU
+
+Total: Training (3)
+
+TOTAL: COMPONENT 3
+SUMMARY COSTS BY CATEGORY: COMPONENT 3
+
+Training
+TOTAL: COMPONENT 3
+
+(E
+
+v
+
+Lots
+
+Lot
+Lot
+Lot
+
+Units
+
+Pers
+Lot
+
+40
+
+40
+
+2,500
+
+2
+
+5,700
+
+11,000
+48,100
+16,000
+75,100
+
+800
+32,223
+
+228,000
+228,000
+
+Base cost
+1 ,407,876
+9,385,840
+600,000
+228,000
+11,621,716
+
+11,000
+48,100
+16,000
+75,100
+
+3,004,000
+
+Base cost
+3,004,000
+3,004,000
+
+2,000,000
+64,447
+2,064,447
+
+2,064,447
+Base cost
+
+2,064,447
+2,064,447
+
+22,800
+22,800
+
+Phy cont
+140,788
+938,584
+
+60,000
+22,800
+1,162,172
+
+1,100
+4,810
+1,600
+7,510
+
+300,400
+
+Phy cont
+300,400
+300,400
+
+200,000
+6,445
+206,445
+
+206,445
+Phy cont
+
+206,445
+206,445
+
+250,800
+250,800
+
+Sub-Total
+1,548,664
+10,324,424
+660,000
+250,800
+12,783,888
+
+12,100
+52,910
+17,600
+82,610
+
+3,304,400
+
+Sub-Total
+3,304,400
+3,304,400
+
+2,200,000
+70,891
+2,270,891
+
+2,270,891
+Sub-Total
+
+2,270,891
+2,270,891
+
+21 ,238
+21,238
+
+Price cont
+156,155
+709,998
+
+55,890
+21 ,238
+943,281
+
+1,025
+4,481
+1,490
+6,996
+
+279,823
+
+Price cont
+279,823
+279,823
+
+186,300
+6,003
+192,303
+
+192,303
+Price cont
+
+192,303
+192,303
+
+272,038
+272,038
+
+Total
+1,704,818
+11,034,422
+715,890
+272,038
+13,727,168
+
+13,125
+57,391
+19,090
+89,606
+
+3,584,223
+
+Total
+3,584,223
+3,584,223
+
+2,386,300
+76,895
+2,463,195
+
+2,463,195
+Total
+
+2,463,195
+2,463,195
+
+100%
+
+% of F.E.
+0%
+80%
+50%
+100%
+68.9%
+
+100%
+
+% of F.E.
+100%
+100%
+
+50%
+
+% of F.E.
+50%
+50.0%
+
+1.30%
+1.30%
+
+% of Total
+8.13%
+52.59%
+3.41%
+1.30%
+65.43%
+
+0.06%
+0.27%
+0.09%
+0.43%
+
+17.08%
+
+% of Total
+17.08%
+17.08%
+
+11.37%
+0.37%
+11.74%
+
+11.74%
+
+% of Total
+
+11.74%
+11.74%
+
+(E)
+
+(E)
+
+(D
+
+v
+
+(F)
+
+(D)
+(F)
+
+ 
+
+ICOMPONENT 4: CAPACITY BUILDING FOR SCHOOL MANAGEMENT
+
+ 
+
+Training
+
+Curriculum Management Courses
+
+Secondary Educ. Advisors (2 long—term, 6 short—term fellowships)
+Maintenance training, School Managers, Teachers, Mangt. Comm.
+Training Material
+
+Total: Training Comp. 4
+
+SUMMARY COSTS BY CATEGORY: COMPONENT 4
+Training
+TOTAL: COMPONENT 4
+
+ 
+
+ICOMPONENT 5: PROJECT MANAGEMENT
+
+ 
+
+Equipment
+
+Computer equipment and software
+Printers
+
+Photocopier
+
+Project vehicles
+
+Motor bicycles and spares
+General office equipment
+
+Total: Equipment Component 5
+
+Operating Costs
+
+Project Coordinator
+
+Architect
+
+Structural Engineer
+
+Project Accountant
+
+Procurement Officer/Quantity Surveyor
+
+Auditing services for yearly project accounts auditing
+Vehicle running costs (3 vehicles/4.5 years)
+Motor Bicycle running costs (10 bikes/4.5 years)
+Sundries/lncidentals/Supplies
+Telecommunication
+
+Total: Operating Costs Component 5
+
+SUMMARY COSTS BY CATEGORY: COMPONENT 5
+Equipment
+
+Operating Costs
+
+TOTAL: COMPONENT 5
+
+Lot
+Lot
+Lot
+Lot
+
+Nos
+Nos
+Nos
+Nos
+Nos
+Lots
+
+m nts
+m nts
+m nts
+m nts
+m nts
+Lots
+Lots
+Lots
+Lots
+Lots
+
+—L—L—L—L
+
+AOCO—LNN
+
+54
+54
+54
+54
+54
+
+0101010101
+
+100,000
+100,000
+90,000
+15,000
+
+3,000
+1,500
+7,000
+19,000
+7,000
+5,000
+
+2,000
+1,500
+1,500
+1,500
+1,300
+1,400
+10,000
+1,500
+7,500
+10,000
+
+100,000
+100,000
+90,000
+15,000
+305,000
+
+Base cost
+305,000
+305,000
+
+6,000
+3,000
+7,000
+57,000
+70,000
+5,000
+148,000
+
+108,000
+81 ,000
+81 ,000
+81 ,000
+70,200
+7,000
+45,000
+6,750
+33,750
+45,000
+
+558,700
+
+Base cost
+148,000
+558,700
+706,700
+
+10,000
+10,000
+9,000
+1,500
+30,500
+
+Phy cont
+30,500
+30,500
+
+600
+300
+700
+5,700
+7,000
+500
+14,800
+
+10,800
+8,100
+8,100
+8,100
+7,020
+700
+4,500
+675
+3,375
+4,500
+
+55,870
+
+Phy cont
+14,800
+55,870
+70,670
+
+110,000
+110,000
+99,000
+16,500
+335,500
+
+Sub-Total
+335,500
+335,500
+
+6,600
+3,300
+7,700
+62,700
+77,000
+5,500
+162,800
+
+118,800
+89,100
+89,100
+89,100
+77,220
+7,700
+49,500
+7,425
+37,125
+49,500
+
+614,570
+
+Sub-Total
+162,800
+614,570
+777,370
+
+9,315
+9,315
+8,384
+1 ,397
+28,411
+
+Price cont
+28,41 1
+28,411
+
+299
+150
+349
+2,843
+3,491
+249
+7,381
+
+11,016
+8,262
+8,262
+8,262
+7,160
+714
+4,590
+688
+3,442
+4,590
+
+56,987
+
+Price cont
+7,381
+56,987
+64,368
+
+119,315
+119,315
+107,384
+
+17,897
+363,911
+
+Total
+363,91 1
+363,911
+
+6,899
+3,450
+8,049
+65,543
+80,491
+5,749
+170,181
+
+129,816
+97,362
+97,362
+97,362
+84,380
+8,414
+54,090
+8,113
+40,567
+54,090
+
+671,557
+
+Total
+
+170,181
+671,557
+841,738
+
+50%
+
+% of F.E.
+50%
+50.0%
+
+100%
+
+0%
+0%
+0%
+0%
+0%
+0%
+
+1 00%
+1 00%
+70%
+1 00%
+21 .5%
+
+% of F.E.
+100%
+21.5%
+37.4%
+
+0.57%
+0.57%
+0.51%
+0.09%
+1.73%
+
+% of Total
+1 .73%
+1 .73%
+
+0.03%
+0.02%
+0.04%
+0.31%
+0.38%
+0.03%
+0.81 %
+
+0.62%
+0.46%
+0.46%
+0.46%
+0.40%
+0.04%
+0.26%
+0.04%
+0.19%
+0.26%
+3.20%
+
+% of Total
+0.81%
+3.20%
+4.01%
+
+ 
+
+ISUMMARY COSTS BY CATEGORY: TOTAL PROJECT
+
+ 
+
+(A) Professional Services (Design/Supervision)
+(B) Civil Works
+(C) Furniture
+(D) Equipment
+(E) Training
+(F) Operating Costs
+TOTAL PROJECT COSTS
+% of Base Cost
+% of Total Cost
+
+In UA
+
+ 
+
+Base cost Phy cont Sub-Total Price cont Total
+1,407,876 140,788 1,548,664 156,155 1,704,818
+9,385,840 938,584 10,324,424 709,998 11,034,422
+600,000 60,000 660,000 55,890 715,890
+3,380,000 338,000 3,718,000 308,442 4,026,442
+2,369,447 236,945 2,606,391 220,714 2,827,106
+558,700 55,870 614,570 56,987 671,557
+17,701,863 1,770,186 19,472,049 1,508,185 20,980,234
+100.0% 10.0% 110.0% 8.5% 118.5%
+84.4% 8.4% 92.8% 7.2% 100.0%
+
+14,063,161 1,406,316 15,469,477 1,198,171 16,667,647
+
+% of F.E.
+
+0.0%
+80.0%
+50.0%
+100.0%
+0.0%
+
+0.0%
+70.4%
+
+% of Total
+
+8.13%
+52.59%
+3.41%
+19.19%
+13.48%
+3.20%
+100.00%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(I)
+
+ 
+
+MALAWI EDUCATION IV PROJECT — IMPLEMENTATION SCHEDULE Annex VII
+YEARS 2002 2003 2004 2005 2006
+MONTHS MJJA MJJA MJJLAS MJJA MJJA ACTIONBY
+ACTIVITY '
+ADMINISTRATION :
+Appraisal I ADF
+Loan Negotiations I ADF/GOV
+Board Approval l ADF
+Loan Signature : GOV/ADF
+Entry into Force I GOV/ADF
+Proiect Launching I ADF/GOV
+Mid-Term Review 'E ADF/GOV
+I
+PROJECT MANAGEMENT :
+ADF Approval of Proiect Management I ADF
+Proiect Operations '5 GOV
+I
+PROFESSIONAL SERVICES :
+Recruitment of Consultants I GOV
+ADF Approval ADF
+Civil Works Consultants Services I: GOV
+I
+CONSTRUCTION :
+Rehab/New Construction CDSSs: I
+Approval of Tender Documents I ADF
+Tender Period l GOV
+Tenders Received : GOV
+Analysis/Recommendation I GOV
+ADF Approval I ADF
+Contract Signature/Mobilisation S IT R GOV
+Construction Period l; GOV
+I D
+FURNITURE AND EQUIPMENT I
+CDSS Schools: I
+Approval of Tender Documents I ADF
+Tender Period ' GOV
+Tenders Received : GOV
+Analysis/Recommendation L_ GOV
+ADF Approval I ADF
+Contract Signature ' GOV
+Delivery and Installation : GOV
+Equipment for Project Management: :
+ADF Approval of List and Supplier(s) I ADF
+Procurement : GOV
+TRAINING I
+ADF Approval of Programme I ADF
+Secondary Teacher Training I: GOV
+Community Maintenance Training _ GOV
+ADF SUPERVISION :
+Launching l ADF
+1stSupervision ' ADF
+2nd Supervision :_ ADF
+3rd Supervision L ADF
+4th Supervision I ADF
+5th Supervision l ADF
+PCR 5‘ ADF
+4
+
+ 
+
+NE
+0L
+0L
+N>
+NE
+0L
+0L
+63>
+NE
+0L
+0L
+NE
+0L
+0L
+01>
+NE
+0L
+0L
+03>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROVISIONAL LIST OF CATEGORHES OF EXPENDITURE
+
+ANNEX VIII
+
+ 
+
+ 
+
+1.1
+1.2
+1.3
+1.4
+
+Category
+
+Goods
+
+Furniture CDSS Schools Component 1
+
+Equipment CDSS Schools Component 1
+
+Educational Equipment CDSS Schools Component 2
+Equipment Project Management Component 5
+
+Works
+Civil Works CDSS Schools Component 1
+
+Services
+Prof. services (superv.) of civil works CDSS Schools Component 1
+
+Operating Costs
+Operating Costs Project Management Component 5
+
+Miscellaneous
+Training Component 3
+Training Component 4
+
+Base Cost
+Physical Contingencies
+Price Contingencies
+
+Total Cost
+
+ 
+
+ 
+
+ 
+
+------ --uso--------  CO-FINANCIERS
+F.E. L.C. TOT F.E. L.C. TOT ADF GOV
+0.300 0.300 0.800 0.238 0.238 0.477 0.238 0.238
+0.228 0.000 0.228 0.181 0.000 0.181 0.181
+3.004 0.000 3.004 2.387 0.000 2.387 2.387
+0.148 0.000 0.148 0.118 0.000 0.118 0.118
+7.509 1.877 9.388 5.985 1.491 7.457 6.281 1.178
+0.000 1.408 1.408 0.000 1.118 1.118 1.118
+0.120 0.438 0.559 0.098 0.348 0.444 0.444
+1.032 1.032 2.084 0.820 0.820 1.840 1.840
+0.153 0.153 0.305 0.121 0.121 0.242 0.242
+12.494 5.208 17.702 9.928 4.138 14.083 12.849 1.414
+1.249 0.521 1.770 0.993 0.414 1.408 1.285 0.141
+1.027 0.481 1.508 0.818 0.382 1.198 1.088 0.111
+14.770 8.210 20.980 11.734 4.934 18.888 15.000 1.887
+
+ 
+
+ 
+
+Annex IX
+
+ENVIRONMENTAL AND SOCIAL MANAGEMENT PLAN SUMMARY
+
+Project Title: Support to Community Day Secondary Schools (Education IV Project) Project Number:
+Country: Malawi
+Department: OCDS Division: OCDS.3
+
+ 
+
+a) Brief description of the project and key environmental and social components
+
+The project aims to improve the quality of secondary education at the Community Day Secondary Schools (CDSSs) in the
+Country. The project will focus attention on (i) infrastructure development, (ii) education materials provision, (iii) teacher
+education development, and (iv) capacity building for school management.
+
+ 
+
+b) Major environmental and social impacts
+Positive Impacts:
+
+Improved safe water drinking supply to community secondary schools and their communities;
+
+Improved sanitation facilities through the provision of ventilated latrines;
+
+Reduced incidence of water borne diseases like cholera, malaria, gastro-intestinal disorders, etc;
+
+Better opportunity for girls to attend schools; and
+
+Protection of forest resources by utilisation of stabilised soil blocks for construction instead of burned clay bricks.
+
+Potential Negative Impacts:
+
+0 Risk of soil disturbance during construction work; and
+o Slight risk of pollution of groundwater and soil contamination.
+
+ 
+
+c) Enhancement and mitigation program
+
+An ESMP will be developed by the project management team and cleared by the Bank before commencement of project
+
+physical implementation. The following mitigation measures represent the main outlines of the EMSP and will form an integral
+
+part of the project:
+
+0 Disturbance of soil is minimal since the scope of construction work is limited to small buildings within existing school
+premises;
+
+0 To avoid the contamination of water resources, the water points will be designed and constructed in such a way as to
+
+ensure proper drainage of wastewater so as to prevent any chance for water stagnation, which may pose the risk of
+
+groundwater contamination and development of breeding ground for mosquitoes, ﬂies and other insects. Such care will
+
+minimise the transmission of water borne diseases and malaria;
+
+0 To avoid contamination of soil and water resources from school laboratory waste, each school will be provided with a
+
+protected waste area or small incinerator, and septic tanks will be constructed for liquid waste;
+
+0 Efforts will also be made to train and sensitise teachers, school managers and students of the environmental health
+
+hazards associated with water infection and poor drainage and the need to keep the facilities clean; and
+
+0 Existing trees on all school sites will be preserved and students will be sensitised on the importance of tree planting
+
+and protection.
+
+ 
+
+d) Monitoring program and complementary initiatives
+
+0 The District Education Ofﬁces will lead the environmental monitoring activities and will provide regular reporting to
+the project management and MoEST; and
+0 Bank supervision missions will also follow up the implementation of the ESMP.
+
+ 
+
+e) Institutional arrangements and capacity building requirements
+
+0 The overall responsibility for implementation of the project ESMP will rest with the MoEST. In addition,
+environmental education is provided by the schools and is part of the regular curriculum.
+
+0 The Project Implementation Unit (PIU) is established and will supervise the implementation of the ESMP.
+
+ 
+
+1') Public consultations and disclosure requirements
+
+The project is designed to operate in a participatory approach where all activities will be implemented in close
+collaboration with local communities to increase their sense of ownership of the improved facilities to be introduced under
+the project.
+
+ 
+
+g) Estimated costs
+
+All measures are mainstreamed in the project design, so that cost is integrated in the cost of different activities.
+
+ 
+
+h) Implementation schedule and reporting
+
+The environmental management and monitoring will be implemented following the same project schedule as all activities
+were mainstreamed in the project design. Achievements/problems will be reported in the project quarterly progress reports
+and should be timely addressed by the project management and the Bank.
+
+BANK GROUP OPERATIONS IN MALAWI
+ON—GOING PROJECTS, As at September 2001
+
+Annex X
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date Date Date of Amount Amount Percentage
+Sector/Project (window) Approved Signed Entry in Net of Disbursed Disbursed
+Force Cancel'n
+IA. Agriculture
+1-National Livestock Dev. (ADF) 18/01/88 22/02/89 10/05/90 10978.9 5329.9 48.5
+2-Mwanza Rural Dev. Proj. (ADF) 27/08/91 13/05/92 11/03/93 8013.2 2625.8 32.8
+3-Lilongwe Forestry Proj. (ADF) 29/10/92 05/03/93 24/02/95 3868.4 2033.4 52.6
+4-Agric. Services Proj. (ADF) 03/09/93 01/10/93 05/10/94 9210.5 5691.9 61.8
+5-Rural Income Enhancement Proj. (ADF) 10/12/97 27/05/98 01/02/00 7060.0 247.4 3.5
+6-Macadamia Smallholder Dev. Proj. (ADF) 15/07/98 13/01/99 07/11/00 6850.0 0.0 0.0
+7-Smallholder Irrig. Proj. (ADF) 26/11/98 24/05/99 13/04/00 5020.0 0.0 0.0
+8-Sma|| Scale Irrig. Study (TAF) 26/11/98 13/01/99 19/11/99 1119.0 121.3 10.8
+9a-Horticulture & Food Crops Dev. (ADF) 15/12/98 24/05/99 01/02/00 6650.0 0.0 0.0
+9b-Horticulture & Food Crops Dev. (TAF) 15/12/98 24/05/99 01/02/00 840.0 0.0 0.0
+Sub-Total 59610.0 16049.7 26.9
+|B. Transport
+1-ROMAC Institutional Strengthrening (TAF) 15/02/90 29/05/90 23/05/91 2394.7 1967.0 82.1
+2-ROMAC || (ADF) 15/02/90 30/11/90 23/10/90 18421.0 11997.5 65.1
+3-Mchinji-Kasungu-Msulira Road (ADF) 18/12/91 31/01/91 28/02/91 15096.0 14751.4 97.7
+4-Msulira-Nkhotakota Road (ADF) 25/11/91 13/05/92 22/09/93 12065.8 3747.4 31.1
+5-Mchinji-Kasungu Supplementary Loan (ADF) 02/10/97 25/03/98 05/05/98 6600.0 4657.9 70.6
+Sub-Total 54577.5 37121.2 68.0
+C. Industry
+1-Line of Credit to INDEBANK (ADF) 12/12/96 08/01/98 31/03/99 5000.0 682.3 13.6
+|D. Public Utilities
+1-Blantyre Water Supply || Phase V|| (ADF) 21/04/92 05/03/93 30/12/93 7644.7 6918.3 90.5
+2-Telecommunications || (ADB) 22/05/91 02/08/91 10/02/94 15000.0 14999.9 100.0
+3-Telecommunications || (ADF) 22/05/91 13/05/92 10/02/94 11052.6 11053.0 100.0
+4-District Water Supply ||| (ADF) 03/12/97 27/05/98 23/12/99 12420.0 796.2 6.4
+5-District Centres Sanitation Study (TAF) 18/11/98 13/01/99 01/08/00 1280.0 186.2 14.5
+Sub-Total 47397.3 33953.6 71.6
+|E. Social
+1-Second Rural Health (ADF) 17/12/84 01/07/85 24/04/86 10131.6 7997.1 78.9
+2-Primary and Secondary Education (ADF) 23/09/86 17/03/93 10/08/87 15657.9 15588.1 99.6
+3-Women in Development (ADF) 29/10/93 05/03/93 08/07/94 4973.7 4673.9 94.0
+4-Education ||| (ADF) 05/05/97 29/05/97 05/08/98 12000.0 5159.0 43.0
+5-Health Study (TAF) 20/11/97 27/05/98 13/11/98 1000.0 487.5 48.8
+6a-Poverty reduction & |nstit. Support (ADF) 10/12/98 24/05/99 12/05/00 7000.0 558.2 8.0
+6b-Poverty reduction & |nstit. Support (TAF) 10/12/98 24/05/99 12/05/00 2000.0 364.7 18.2
+Sub-Total 52763.2 34828.5 66.0
+|F. Multi-Sector
+1-Structural Adjustment Loan (ADF) 15/12/98 13/01/99 16/02/99 15000.0 10000.0 100.0
+TOTAL 219348.0 132635.3 57.7
+
+ 
+
+ 
+
+List of Annexes in the Project Implementation Document
+
+ 
+
+Detailed Project Cost Estimates
+
+Project Implementation Schedule
+
+Provisional List of Categories of Expenditure
+Procurement Arrangements
+
+Supervision Plan
+
+Environmental and Social Management Plan Summary
+
+Job Descriptions of Project Management Staff
+
+Annex XI
+

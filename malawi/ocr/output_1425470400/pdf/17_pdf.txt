@@ -1,0 +1,1586 @@
+ 
+
+ 
+
+DOLLAR. CREDIT LINE AGREEMENT
+
+DATED MAY 14, 2008
+
+BETWEEN
+
+THE GOVERNMENT OF THE
+REPUBLIC OF MALAWI
+
+AND
+
+EXPORT-IM PORT BANK OF INDIA
+
+ 
+
+ 
+
+ 
+
+I N D E X
+Clause No. Particulars
+1. Deﬁnitions
+. Amount of the Credit
+
+3. Eligibility of Contract to be ﬁnanced out
+of the Credit
+
+4. Disbursements out of
+the Credit
+
+5. Interest
+
+6. Repayment
+
+7. Commitment Fee
+
+8. Default Interest
+
+9. Conditions Precedent
+
+10. General Conditions to form part of
+Credit Agreement
+
+SCHEDULE
+
+General Conditions
+
+ANNEXURES
+Annexure 1 Format of Contract Approval
+Annexure II Format of Payment Authon'sation
+
+Annexure 111 Format of Opinion of Borrower’s Legal Counsel
+
+ 
+
+ 
+
+ 
+
+THIS AGREEMENT made as of 14TH day of May 14, 2008 between the
+Government of the Republic of Malawi represented herein by Mr. Randson P. Mwadiwa,
+Secretary to the Treasury, Malawi (hereinafter referred to as "the Borrower" which
+expression shall, unless the context or subject otherwise requires, include its successors and
+permitted assigns) of the One Part and EXPORT—IMPORT BANK OF INDIA, a
+corporation established under the Export—Import Bank of India Act, 1981 (an enactment by the
+Parliament of India) and having its Head Ofﬁce at Centre One Building, Floor 2] , World Trade
+Centre Complex, Cuffe Parade, Mumbai-400 005, India (hereinafter referred to as "Exim
+Bank", which expression shall, unless the context or subject otherwise requires, include its
+successors and assigns) of the Other Part
+
+WHEREAS:
+
+(i) it has been agreed between the parties hereto for the provision by Exiin Bank of a
+Credit to the Borrower upto an aggregate sum of $ 30,000,000 (Dollars thirty million)
+for ﬁnancing supply of irrigation, storage, tobacco threshing plant and one Village- one
+project in the Borrower’s Country;
+
+(ii) the parties hereto are desirous of recording the terms and conditions of the Credit.
+
+,a’ "lull"
+
+lb
+
+  
+  
+ 
+
+ill l "" ""“m't
+
+ 
+
+ 
+
+NOW THEREFORE IT IS HEREBY AGREED by and between Exim Bank and the
+Borrower as follows:-
+
+Deﬁnitions:
+
+In this Agreement and in the Schedules hereto, unless the context shall otherwise
+require, the following expressions shall have the meanings respectively assigned to
+them as under :-
+
+“Advance” means each disbursement of a portion of the Credit in accordance with
+Clause 4 hereof, or as the context may require, the principal, amount thereof
+outstanding;
+
+“Borrower’s Country” means the Republic of Malawi;
+
+“Business Day” means any day on which Exim Bank and banks (as applicable) shall
+remain open for business in Mumbai, Blantyre (Malawi), New York and London for
+the purpose contemplated by the Agreement;
+
+“Buyer” means a buyer in the Borrower’s Country in relation to an Eligible Contract;
+
+“Credit” means the whole or any part of the Credit referred to in Clause 2 hereof, and
+where the context so requires, the principal amount thereof outstanding from time to
+time;
+
+“Dollars” and the sign “$” mean the lawful currency of the United States of America;
+
+“Effective Date of the Agreement” means the date on which this Agreement shall
+become effective in terms of Clause 9.1 hereof;
+
+“Eligible Contract” means a contract as is considered eligible under Clause 3 hereof
+to be ﬁnanced out of the Credit;
+
+“Eligible Goods” in respect of an Eligible Contract means any goods and services
+including consultancy services from India for supply of irrigation, storage, tobacco
+threshing plant and one village— one project in the Borrower’s Country, which may be
+agreed to be ﬁnanced by Exim Bank under this Agreement out of which goods and
+services of the value of at least 85% of the contract price shall be supplied by the Seller
+from India, and the remaining goods and services (other than consultancy services) may
+be procured by the Seller for the purpose of the Eligible Contract from outside India;
+
+“Eligible Value” means, in respect of an Eligible Contract, an amount upto 100% (one
+hundred per cent) of the FOB (free on board)/CFR (cost & freight)/CIF (cost,
+insurance & freight) contract price of the Eligible Contract, that may be made available
+
+ 
+
+ 
+
+by Exim Bank to the Borrower out of the Credit in respect of that contract;
+
+“Events of Default” means any of the events mentioned in Section K.l of the General
+Conditions or any event which with the giving of notice and/or lapse of time and/or
+fulﬁlment of any other requirement, may become one of the events mentioned in that
+Section;
+
+“FOB/CFR/CIF” means the seaway shipment terms as deﬁned in Incotemls 2000;
+
+“General Conditions” means the terms, conditions, covenants, stipulations and other
+provisions set out in SCHEDULE hereto which form an integral part of this
+Agreement and be deemed to be incorporated herein by reference;
+
+“Interest Payment Date” means each of the two dates during each calendar year that
+may be advised by Exim Bank to the Borrower after approval of the ﬁrst contract
+hereunder, on which interest and other payments in terms of this Agreement shall be
+payable by the Borrower;
+
+“Interest Period” means, in relation to an Advance or the Credit, as the case may be,
+the period ascertained in accordance with Section C of the General Conditions;
+
+“Interest Rate” means one point seven ﬁve per cent ( 1.75%) per annum at which
+interest shall be chargeable by Exim Bank on each Advance, or as the case may be, on
+the outstanding amount of the Credit;
+
+“Issuing Bank” means a bank in the Borrower’s Country which shall in that capacity
+be issuing letters of credit referred to in Clause 3.1 (c) hereof;
+
+“Negotiating Bank” means Exim Bank to which documents shall be presented by the
+Seller for negotiation under letters of credit and through which payment shall be made
+to a Seller in relation to an Eligible Contract;
+
+“Payment Authorisation” means the authorisation to be issued by the Borrower to
+Exim Bank as provided in Clause 4.13, irrevocably authorizing Exim Bank to make
+payment of the sum therein mentioned to the Negotiating Bank for account of the
+Seller, whenever a payment needs to be made to the Seller under an Eligible Contract
+for advance payment and / or for services rendered by the Seller in the Borrower’s
+Country;
+
+“Repayment Date” means, the due date of payment of each instalment of the Credit;
+“Seller” means a seller in India in relation to an Eligible Contract;
+
+“Shipment” means any mode of despatch, whether by sea or otherwise, agreed
+between the Seller and the Buyer;
+
+ 
+
+“Terminal Disbursement Date” means the date falling on expiration of a period of 48
+(forty—eight) months after the scheduled completion date in case of project exports and
+72 (seventy—two) months of execution of this Agreement in case of supply contracts.
+
+Amount of the Credit:
+
+Exim Bank agrees to extend to the Borrower and the Borrower agrees to avail from
+Exim Bank a Credit upto the maximum extent of $ 30,000,000 (Dollars thirty million)
+to ﬁnance purchase of the Eligible Goods upto the Eligible Value of each, Eligible
+Contract on the terms and conditions herein set out.
+
+Eligibility of contract to be ﬁnanced out of the Credit:
+
+3.1 A contract shall not be eligible to be ﬁnanced out of the Credit unless:—
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(6)
+
+(f)
+
+it is for the import of the Eligible Goods into the Borrower’s Country
+and in the case of any contract which includes rendering of consultancy
+services, it provides for sourcing consultancy services from India;
+
+the contract price is speciﬁed in Dollars and is not less than $ 50,000/—
+(Dollars ﬁfty thousand only) or such amount as may from time to time
+be agreed upon between the Borrower and Exim Bank;
+
+the contract requires the Buyer to make payment to the Seller of 100%
+(one hundred per cent) of FOB/CFR/CIF contract price of the Eligible
+Goods (other than services), pro-rata against shipments, to be covered
+under an irrevocable letter of credit in favour of the Seller;
+
+in the case of services to be rendered by a Seller in the Borrower’s
+Country, or where the contract requires advance payment to be made by
+the Buyer to the Seller which needs to be ﬁnanced out of the Credit, the
+contract provides for the Buyer to cause the Borrower to issue a
+Payment Authorisation to Exim Bank to enable the Seller to claim
+payment from Exim Bank of the Eligible Value apportionable to the
+amount of invoice for such services or, as the case may be, the amount,
+of advance payment;
+
+the contract contains a provision that the Eligible Goods shall be
+inspected before shipment on behalf of the Buyer and the documents to
+be furnished by the Seller to the Negotiating Bank under the letter of
+credit arrangement referred to in sub-clause (c) herein shall include an
+inspection certiﬁcate;
+
+the contract also contains a provision to the effect that Exim Bank shall
+
+   
+   
+ 
+
+- 5 t l  II llﬂlliilliillul
+,   .!!E||!|h 'l
+
+t It «1""wt
+
+3.2
+
+not be liable to the Buyer or the Seller for not being able to ﬁnance
+purchase of the Eligible Goods or any portion thereof by reason of
+suspension or cancellation of any undrawn amount of the Credit in terms
+of this Agreement;
+(g) the Borrower has sent to Exim Bank for its approval brief details of the
+contract in the format at Annexure I and such other documents and
+information as Exim Bank may require in this behalf, and Exim Bank
+has, in writing, approved of the contract as being eligible indicating the
+Eligible Value thereof.
+
+Details of any amendment to an Eligible Contract agreed to by the parties
+thereto shall also be furnished by the Borrower to Exim Bank alongwith
+evidence of approval of the amendment by the Borrower. Provided, however,
+that Exim Bank's approval hereunder may not be necessary if such amendment
+is only a variation of technical speciﬁcations of the Eligible Goods to be
+supplied under the contract that does not involve a material change in the scope
+or object of the contract. The Bon’ower shall. nevertheless, advise Exim Bank,
+of any such amendment.
+
+Disbursements out of the Credit:
+
+4.A
+
+4.A.1
+
+4.A.2
+
+Eligible Goods covered by letters of credit:
+
+All letters of credit in pursuance of Clause 3.1 (0) hereof shall be opened by
+the Issuing Bank in favour of the Seller within such period prior to the relevant
+Terminal Disbursement Date as may be agreed by Exim Bank after the
+relative contract is approved by Exim Bank. The letters of credit shall be
+advised and negotiated through the Negotiating Bank. The letters of credit
+shall be subject to the Uniform Customs and Practice for Documentary
+Credits (2007 Revision) published by the International Chamber of
+Commerce, (Publication No.600), and shall be irrevocable. Each letter of
+credit which shall be for an amount that shall cover the contract price and
+freight/insurance as applicable, shall provide for payment to be made to the
+Seller against presentation of documents as speciﬁed in the letter of credit and
+also an inspection certiﬁcate, and shall call for a set of extra copies of
+invoice(s), document(s) evidencing shipment(s) and inspection certificate(s) for
+being forwarded by the Negotiating Bank to Exim Bank.
+
+Upon presentation of documents by the Seller to the Negotiating Bank, the
+Negotiating Bank shall pay to the Seller, an amount being not more than one
+hundred per cent (100%) of FOB/CFR/CIF contract value apportionable to the
+relative shipment as reduced by the amount of advance payment, if any, in
+equivalent amount at the spot rate of exchange of the Negotiating Bank, by
+credit to the account of the Seller with such bank as may be speciﬁed by it,
+
+   
+    
+   
+
+ 
+
+4.B.4
+
+4.C
+
+The amount remitted by Exim Bank to the Seller as per the Seller’s payment
+instructions pursuant to the Payment Authorisation for account of the Seller as
+aforesaid shall be deemed to be an Advance made by Exim Bank to the
+Borrower out of the Credit, and the date on which Exim Bank shall pay or remit
+the said amount from Mumbai to the designated account of the Seller shall be
+deemed to be the date of such Advance. Exim Bank, shall thereafter, advise the
+Borrower of the date and amount of Advance. The records of Exim Bank as to
+the amount of disbursement(s) and particulars in the Borrower’s account shall
+be ﬁnal and binding on the Borrower save for manifest error.
+
+Notwithstanding anything contained hereinabove, Exim Bank shall not be
+obliged to make any payment to the Seller after the relevant Terminal
+Disbursement Date or otherwise in excess of the aggregate amount of the
+Credit facility. The Borrower shall therefore, ensure that Eligible Contracts
+shall be concluded in such a manner that letter(s‘) of credit in respect of the
+Eligible Contracts shall be opened within the period speciﬁed in Clause 4.A.1 or
+as the case may be, Payment Authorisation shall be received by Exim Bank and
+disbursements in respect thereof can be made by Exim Bank on or before the
+relevant Terminal Disbursement Date and that the aggregate Eligible Value of
+the Eligible Contracts does not exceed the limit of the Credit.
+
+Interest:
+
+5.1
+
+5.2
+
+5.3
+
+5.4
+
+On each Interest Payment Date, the Borrower shall pay to Exim Bank interest
+accrued on the principal amount of each Advance or, as the case may be, on the
+amount of the Credit outstanding during the Interest Period relating thereto at
+the Interest Rate.
+
+Interest shall accrue from the date of each Advance and shall be calculated on
+the basis of the actual number of days elapsed (including the ﬁrst day of the
+period during which it accrues) using 360 days a year factor.
+
+Interest on other monies which may not be paid when due under the provisions
+of this Agreement shall also be payable on the relevant Interest Payment Date in
+the manner speciﬁed for payment of interest.
+
+All interest on the outstanding amount of an Advance or the Credit, as the case
+may be, and on all other monies accruing due under the Credit Agreement
+shall, if not paid on the respective due dates, carry further interest at the same
+rate as speciﬁed above, computed from the respective due dates and shall
+become payable upon the footing of compound interest with rests taken or made
+half—yearly, without prejudice to the provisions of Clause 8 below.
+
+ 
+
+ 
+
+Repayment:
+
+The Borrower hereby agrees and covenants to repay to Exim Bank the outstanding
+principal amount of the Credit after a moratorium of ﬁve years from the date of ﬁrst
+Advance, in successive half-yearly substantially equal installments over such period not
+exceeding twenty years (including the moratorium period) from the date of ﬁrst
+Advance as may be agreed between Exim Bank and the Borrower at the time of
+approval of the first Eligible Contract, the ﬁrst of such installments falling due for
+payment on the date immediately following the date of expiry of the aforesaid
+moratorium period. Exim Bank shall advise the Borrower of the repayment schedule
+relating to the Credit soon after disbursement of the ﬁrst Advance. Provided However
+that if for any reason the aggregate amount of Advances ﬁnally disbursed by Exim
+Bank shall be less than the amount of Credit facility agreed to be provided by Exim
+Bank to the Borrower under this Agreement, the amount of the aforesaid repayment
+instalments of the Credit shall stand reduced in the inverse order of their maturity.
+
+Commitment Fee:
+
+7.1 The Borrower shall pay to Exim Bank a commitment fee at the rate of 0.50%
+(ﬁfty basis points) per annum on the amount of Credit remaining undrawn in
+respect of each Eligible Contract. The commitment fee shall begin to accrue
+from expiration of twelve months from the date of approval of the relevant
+contract by Exim Bank and shall cease on the date of final disbursement of the
+Eligible Value of the Eligible Contract or on the Terminal Disbursement Date
+relating thereto, whichever is earlier. The commitment fee shall be payable on
+each Interest Payment Date alongwith half—yearly interest as speciﬁed in clause
+5 hereof following the expiry of the said period of twelve months. Provided
+however that commitment fee on the amount of Eligible Value of each Eligible
+Contract that may have remained undrawn on the relevant Terminal
+Disbursement Date shall be payable within ten Business Days from such
+Terminal Disbursement Date.
+
+7.2 No portion of commitment fee shall be refundable by Exim Bank to the
+Borrower even if disbursement of the whole or any part of the Eligible Value of
+an Eligible Contract may not materialise for any reason whatsoever.
+
+Default Interest
+
+8.1 If there shall be a default by the Borrower in the payment of any sum when due
+under this Agreement, the Borrower shall pay to Exim Bank additional interest
+by way of liquidated damages on the defaulted amount(s) from the due date to
+the date of actual payment (as well after as before judgement) at the rate of 2%
+pa. (two per cent per annum) over and above the Interest Rate.
+
+8.2 Interest at the rate as aforesaid shall accrue from day to day, shall be calculated
+on the basis of the actual number of days elapsed and 360 days a year factor.
+
+ 
+  
+ 
+  
+
+.‘ “"l' l
+l.  .l‘ IIIIIII
+
+ 
+
+ 
+
+i "m'lpl
+will l t
+
+ 
+
+Conditions Precedent:
+
+9.1
+
+9.2
+
+9.3
+
+This Agreement shall become effective upon Exim Bank conﬁrming to the
+Borrower in writing that it has received. the following documents/documentary
+evidence from the Borrower in form and substance satisfactory to it :—
+
+(a)
+
+(b)
+
+an opinion of the Borrower’s legal counsel substantially in the form
+given at Annexure III, with respect to governmental and corporate
+authorisations, sanctions, consents and licences alongwith certiﬁed true
+copies thereof where available, that may be required for execution of
+this Agreement and all documents pursuant thereto, the execution,
+validity and enforceability of this Agreement and other documents in
+implementation thereof and such other matters pertaining to the
+transactions contemplated by this Agreement as Exim Bank may
+reasonably request;
+
+authenticated specimen signatures of the persons who are authorised to
+sign this Agreement and all documents thereunder including Payment
+Authorisations and to represent the Borrower in connection with
+implementation of this Agreement; such specimen signatures shall be
+binding on the Borrower until Exim Bank receives notice of express
+revocation from the Borrower.
+
+The Borrower hereby agrees to furnish the documents/documentary evidence
+mentioned in Clause 9.1 within 60 days from the date of this Agreement or
+within such extended period as may be agreed by Exim Bank.
+
+Exim Bank shall approve a contract as eligible for being ﬁnanced under this
+Agreement only after the Agreement has become effective, and Exim Bank shall
+disburse moneys for account of the Borrower subject to the following:-
+
+(a)
+
+(b)
+
+(C)
+
+fee, interest and costs, charges and expenses, if any, payable by the
+Borrower under this Agreement shall have been paid to Exim Bank
+when due;
+
+Exim Bank shall have received from the Negotiating Bank a claim for
+reimbursement in terms of Clause 4.A.3, or, as the case may be,
+Payment Authorisation of the Borrower in terms of Clause 4.B.3, prior
+to the relevant Terminal Disbursement Date;
+
+all representations and warranties made by the Borrower in the General
+Conditions of this Agreement shall have remained true and correct on
+the date of each Advance under the Credit as if all of them as may be
+relevant shall have been repeated with respect to the facts and
+
+   
+  
+  
+
+—l()-
+
+     
+
+.ll|!l""'l"| 
+
+0 .V‘ “JV  ‘
+“.1 MIN
+. "I"
+
+10.
+
+circumstances existing on the date thereof;
+((1) no Event of Default shall have happened and be continuing.
+General Conditions to form part of Credit Agreement :
+This Agreement shall be read with the General Conditions contained in SCHEDULE
+hereto which shall form an integral part of this Agreement and be deemed incorporated
+
+herein by reference and the parties hereto agree to accept and be bound by the
+provisions thereof.
+
+“l n
+
+ 
+
+amapwozzrarrmommcow>
+
+ 
+
+THE SCHEDULE ABOVE REFERRED TO
+
+General Conditions
+
+Deﬁnitions & Interpretations
+Borrower’s liability
+Interest Period
+
+Taxes
+
+Currency of Account and Place of Payment
+Appropriation of Payments
+Indemnity
+
+Representations
+Afﬁrmative Covenants
+Inspection by Exim Bank
+Events of Default
+
+Evidence of Debt
+
+Waiver
+Assignment/Transfer
+Certiﬁcation by Exim Bank
+Partial Invalidity
+
+Language of documents
+Law
+
+Arbitration
+
+Notices
+
+ 
+
+
+
+GENERAL CONDITIONS
+
+Deﬁnitions & Interpretations:
+
+Except as expressly speciﬁed herein, all expressions used in the General Conditions
+and deﬁned in the Credit Agreement of which the General Conditions fomi a part, shall
+have the same meanings as given to them in the Credit Agreement. In the event of any
+inconsistency between any provision of the Credit Agreement and the General
+Conditions, the relative provision of the Credit Agreement shall prevail.
+
+Borrower's liability:
+
+The liability of the Borrower to make any payment hereunder shall in no way be
+conditional upon due performance by the Seller in temis of an Eligible Contract and
+shall not be affected by reason of any dispute between a Buyer and a Seller or any right
+which a Buyer may have or claim to have against a Seller nor shall the Borrower be
+entitled to raise any defence or objection emanating from its business or contractual
+relations with a Buyer, for making any payment to Exim Bank under the Credit
+Agreement.
+
+Interest Period:
+
+(1) The period for which an Advance or the Credit, as the case may be, is outstanding
+shall be divided into successive periods (each an “Interest Period”), having
+duration of six months each or as otherwise mentioned.
+
+(2) The ﬁrst Interest Period in respect of each Advance shall commence on the date
+on which an Advance is made, and in the case of ﬁrst Advance relating to the
+ﬁrst Eligible Contract, the ﬁrst Interest Period shall end on the Interest Payment
+Date following the commencement of such Interest Period.
+
+(3) The ﬁrst Interest Period in respect of each subsequent Advance relating either to
+the same or another Eligible Contract shall end on the last day of the then
+current Interest Period relating to the ﬁrst Advance pertaining to the ﬁrst
+Eligible Contract.
+
+(4) Each Interest Period (other than the ﬁrst Interest Period in relation to each
+Advance) shall commence on the day immediately following the preceeding
+Interest Period and shall end on the Interest Payment Date nearest to it.
+
+ 
+
+ 
+
+(5)
+
+(6)
+
+Taxes:
+
+D.1
+
+D2
+
+D3
+
+D4
+
+Any Interest Period that would otherwise end during the month preceding or
+extend beyond the ﬁnal Repayment Date shall be of such duration that it shall
+end on that date subject to adjustment in accordance with Section E.4.
+
+Where two or more Interest Periods begin and also end on the same day, the
+Advances to which these Interest Periods relate, shall constitute and be referred
+to as one Advance.
+
+A11 sums payable by the Borrower under the Credit Agreement shall be paid in
+full without set-off or counter-claim or any restriction or condition and free and
+clear of any deduction for or on account of any present or future taxes or other
+deductions or withholdings of any nature whatsoever, now or hereafter imposed
+by the government of the Borrower’s Country (“the Taxes”). If (i) the Borrower
+shall be required by law to make any deduction or withholding from any sum
+payable by it hereunder; or (ii) Exim Bank shall be required by law to make any
+payment on account of tax (other than tax on its overall net income) on or in
+relation to any amount received or receivable by it hereunder, or otherwise
+payable by Exim Bank to its lender(s) from whom Exim Bank may have
+sourced funds to make available the Credit, then the sum payable by the
+Borrower in respect of which such deduction, withholding or payment may be
+required to be made, shall be increased to the extent necessary to ensure that
+after the making of such deduction, withholding or payment, Exim Bank shall
+receive and retain (free from any liability in respect of any such deduction,
+withholding or payment) a net sum equal to the sum which it would have
+received and so retained had no such deduction, withholding or payment been
+made.
+
+The Borrower shall deliver to Exim Bank within thirty days after it shall have
+made any payment from which it shall have been required by law to make any
+deduction or withholding, a receipt issued by the relevant taxing or other
+authorities evidencing the deduction or withholding of amounts required to be
+deducted or withheld from such payment.
+
+The Borrower shall hold Exim Bank harmless from and against any liability
+with respect to any tax on or in relation to any amount payable by the Borrower
+under the Credit Agreement (whether or not properly or legally asserted).
+
+If at any time the Borrower shall become aware that any such deduction,
+withholding or payment contemplated by sub-Section (1) above may need to be
+made, it shall immediately notify Exim Bank and provide all available details
+thereof.
+
+.14-
+
+ 
+
+E. Currency of Account and Place of Payment:
+
+El
+
+E2
+
+E3
+
+Dollar is the currency of account and payment for each and every sum at any
+time due by the Borrower under the Credit Agreement and accordingly, each
+sum shall be payable by the Borrower to Exim Bank in. Dollars.
+
+(i)
+
+(ii)
+
+If any sum due from the Borrower under this Agreement or under any,
+arbitral award or judgement on an award given or made in relation
+hereto, may need to be converted from the currency ("the First
+Currency") in which the same shall be payable hereunder or under such
+award or judgement into another currency ("the Second Currency") for
+the purpose of (i) making or ﬁling a claim or proof against the
+Borrower; (ii) obtaining an arbitral award or judgement on an award in
+any court or tribunal; or (iii) enforcing any such award or judgement
+given or made in relation hereto, then such conversion shall be made at
+the rate of exchange quoted to Exim Bank, by a commercial bank for
+freely transferable Dollars, at the close of business on the day before the
+day on which the claim or proof is ﬁled or award or judgement is
+rendered, and the Borrower shall indemnify Exim Bank and hold it safe
+and harmless from and against any loss suffered by it as a result of
+any ﬂuctuation between (a) the rate of exchange used for such purpose
+to convert the sum in question from the First Currency into the
+Second Currency and (b) the rate of exchange at which Exim Bank may
+in the ordinary course of business purchase the First Currency with the
+Second Currency upon receipt of a sum paid to it in satisfaction in
+whole or in part, of any such claim or proof or award or judgement.
+
+For the purpose of sub—Section E.2(i) and without prejudice to the
+indemnity therein contained, the Borrower further agrees, to the full
+extent permitted by law, that any award or judgement on an award made
+in the Second Currency shall be for such sum as would, at the rate or
+rates of exchange at which Exim Bank may in the ordinary course of
+business purchase the First Currency with the Second Currency as at the
+date of payment, enable Exim Bank to receive the sum due to it in
+the First Currency.
+
+All payments to be made hereunder by the Borrower to Exim Bank shall be
+made in Dollars by means of transfer/credit to the account(s) of Exim Bank with
+designated bank/s in India or abroad. The payments shall be so made as to
+enable Exim Bank to receive or realise at par the amount of payment on or
+before the relative due date thereof. Unless otherwise advised by Exim Bank,
+the Borrower shall make payment to the credit of Exim Bank A/c. No.
+36247347 with Citibank N.A., New York, U.S.A., CHIPS UID 173871. The
+payment obligations of the Borrower shall be deemed fulﬁlled only when and to
+the extent payments have been transferred without any deduction to the
+
+ 
+
+ 
+
+designated account of Exim Bank and are at its free disposal.
+
+E.4 If the date on which any sum under the Credit Agreement is due and payable
+shall not be a Business Day at the place of payment or for Exim Bank, as
+applicable, then the due date for payment of any such sum shall be the next
+succeeding Business Day, unless such succeeding Business Day falls in another
+calendar month, in which event, the due date shall be the immediately preceding
+Business Day, and if necessary, interest and fee shall be calculated accordingly.
+
+F. Appropriation of Payments:
+
+F.1 Unless otherwise required by Exim Bank, any payment under this Credit
+Agreement when made to or received/recovered by Exim Bank, shall be
+appropriated in the following order and the Borrower waives any right it may
+have to direct appropriation in any other order:
+
+(a) costs and expenses;
+
+(b) fee;
+
+(c) additional interest by way of liquidated damages;
+
+(d) compound interest;
+
+(e) interest; and
+
+(f) instalment(s) of principal due under the Credit Agreement.
+
+F.2 Notwithstanding anything contained in sub-Section (1) hereinabove, Exim Bank
+may at its discretion, appropriate such payment towards satisfaction of dues, if
+any, payable by the Borrower in respect of any other loan/ facility availed of
+from Exim Bank.
+
+G. Indemnity:
+
+The Borrower shall indemnify and keep Exim Bank indemnified from and against all
+losses, liabilities, damages, costs, charges and expenses which it may certify to have
+been incurred as a consequence of occurrence of any Event of Default or any other
+breach by the Borrower of any of its obligations under the Credit Agreement or by
+reason of any payment or repayment to or receipt or recovery by Exim Bank of any
+installment of the Credit or any overdue sum otherwise than on a Repayment Date or an
+Interest Payment Date relating thereto (including any loss incurred by Exim Bank in
+liquidating or redeploying funds acquired to maintain the Credit or arranged for the
+purpose of a proposed Advance and any interest or cost incurred in funding any unpaid
+sum).
+
+ 
+
+ 
+
+H.
+
+Representations:
+
+H.1
+
+The Borrower represents that:-
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+(V)
+
+the ofﬁcial(s) signing this Agreement has/have full power, capacity and
+authority to execute and deliver the Credit Agreement on behalf of the
+Borrower and that necessary action (statutory and any others) has been
+taken to authorise its borrowings hereunder and the execution, delivery
+and performance of the Credit Agreement and all documents in
+pursuance thereof;
+
+all acts, conditions and things required to be done, fulfilled and
+performed in order (a) to enable the Borrower lawfully to enter
+into, exercise its rights under and perform the obligations expressed to
+be assumed by it under the Credit Agreement and (b) to ensure that the
+obligations expressed to be assumed by it in the Credit Agreement are
+legal, valid and enforceable, have been done, fulﬁlled and performed in
+strict compliance with the laws of the Borrower’s Country and there has
+been no default in fulﬁlment of the conditions of any of them;
+
+the obligations expressed to be assumed by the Borrower in the Credit
+Agreement constitute legal and valid obligations enforceable in
+accordance with their terms and are direct unconditional and general
+obligations of the Borrower, ranking at least pari passu with all its other
+unsecured obligations;
+
+it is not necessary in order to ensure the legality, validity, enforceability
+or admissibility in evidence of the Credit Agreement and Payment
+Authorisation in the Borrower’s Country that it or any other document
+be ﬁled, notarised, registered, recorded or enrolled with any court or
+authority there or that any stamp, registration or similar tax be paid on
+or in relation to this Agreement;
+
+the Borrower is subject to civil and commercial law and to legal
+proceedings with respect to its obligations under the Credit Agreement
+and all documents executed pursuant thereto and the borrowing of the
+Credit execution and delivery of the Credit Agreement and the
+performance by the Borrower thereunder constitute/will constitute
+private and commercial acts and not governmental or public acts.
+Neither the Borrower nor any of its property, assets or revenues is
+entitled to any right of immunity or privilege from service of process,
+attachment (whether prior to the entry of or in aid of execution upon a
+judgement) or set-off, judgement, execution, or from any other legal,
+process in the Borrower’s Country on the grounds of sovereignty or
+otherwise, and the waiver contained in this Agreement of any right of
+
+ 
+
+H.2
+
+(vi)
+
+(vii)
+
+such immunity and privilege by the Borrower is irrevocably binding on
+the Borrower;
+
+in any proceedings taken in the Borrower’s Country for the enforcement
+of the Credit Agreement, the choice of the Indian law as the governing
+law of the Credit Agreement is a valid choice of law and any decree or
+judgment or an arbitral award in respect of the Credit Agreement will be
+recognised and enforced by the courts in the Borrower’s Country;
+
+Exim Bank shall not be deemed to be domiciled or carrying on business
+in the Borrower’s Country by reason only of the execution of the Credit
+Agreement.
+
+The Borrower further represents that:—
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+neither the execution or performance of the Credit Agreement or the
+Payment Authorisations nor the exercise by the Borrower of any of its
+rights hereunder will:
+
+(a) conﬂict with or result in any breach of or default under any law,
+authorisation, judgment, order, agreement, instrument or
+obligation applicable to, or which is binding upon or affects the
+Borrower or any of its present or future assets or revenues, or
+
+(b) result in the creation of or oblige the Borrower to create, any
+encumbrance on the whole or any part of its present or future
+assets or revenues;
+
+the Borrower is not in breach of or in default under any law,
+authorisation, agreement, instrument or obligation applicable to, or
+which is binding upon or affects, the Borrower or any of its assets or
+revenues, being a breach or default which might have material adverse
+effect on the ability of the Borrower to duly observe and perform its
+obligations under the Credit Agreement;
+
+there is no restriction imposed in the Borrower’s Country which limits
+or prevents the transfer of foreign exchange by the Borrower for the
+purpose of performing any of its payment obligations under the Credit
+Agreement;
+
+no event has occurred which is or may become speciﬁed (with the
+giving of notice and/or the passing of time and/or any ﬁnding of
+materiality) as one of those events mentioned in Section KI and no
+other event has occurred which entitles, or which, with the giving of
+notice and/or the passing of time, would entitle any creditor of the
+
+-18-
+
+ 
+
+ 
+
+Borrower to declare its indebtedness due and payable prior to its
+speciﬁed maturity or to cancel or terminate any credit facility or to
+decline to make advances thereunder; and
+
+(V) the information provided by the Borrower to Exim Bank before the date
+hereof in connection herewith is true and is not incorrect or misleading
+in any respect.
+
+Afﬁrmative Covenants:
+
+The Borrower agrees, covenants and undertakes to:-
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+(V)
+
+(vi)
+
+utilise the Credit facility for ﬁnancing purchase from India of Eligible Goods by
+Buyers in the Borrower’s Country;
+
+obtain, comply with the terms of and do all that is necessary to maintain in full
+force and effect all authorisations, approvals, licences and consents required by
+the laws and regulations of the Borrower’s Country to enable the Borrower
+lawfully to enter into the Credit Agreement and perform its obligations
+hereunder and thereunder and to ensure the legality, validity, enforceability or
+admissibility in evidence of the Credit Agreement in the Borrower’s Country;
+
+promptly inform Exim Bank of the occurrence of any event which is or may
+become (with the giving of notice and / or the passing of time and / or any
+ﬁnding of materiality) one of those events mentioned in Section K.l hereof;
+
+promptly infomi Exim Bank of any litigation, arbitration, administrative
+proceeding or contract claim brought or made against the Borrower or any of its
+subsidiaries, if any, or against any of the assets of the Borrower or of any of its
+subsidiaries, the consequences of which might materially or adversely affect
+the ﬁnancial condition of the Borrower or the ability of the Borrower to duly
+observe and perform any of its obligations under the Credit Agreement when
+executed;
+
+ensure that its obligations hereunder will at all times be direct, unconditional
+and general obligations ranking at least pari passu with all its other unsecured
+obligations except for statutory preferences;
+
+pay or cause to be paid all lawful claims of whatever nature, which, if unpaid,
+might become an encumbrance upon the assets, revenues, income or proﬁts of
+the Borrower, unless the validity thereof is being contested in good faith and
+such reserves or provisions as may be required by generally accepted accounting
+principles and practices in the Borrower’s Country shall have been made
+therefor;
+
+49.
+
+ 
+
+ 
+
+(vii) appoint a process agent in Mumbai, India, whenever called upon by Exim Bank
+and ensure that until payment is made by the Borrower of all moneys to Exim
+Bank under the Credit Agreement, such agency relationship shall not be
+terminated after its appointment unless another process agent acceptable to
+Exim Bank has been substituted, and to notify to Exim Bank about any change
+in the appointment of process agent(s) or in their addresses, and pending
+appointment of a process agent, service of process by mailing copies thereof to
+the Borrower by registered airmail, postage prepaid, at the address speciﬁed
+herein, shall be deemed personal service accepted by the Borrower, and shall be
+valid and binding on it for the purposes of reference to arbitration.
+
+Inspection bv Exim Bank:
+
+The Borrower covenants and agrees that until all amounts due under the Credit
+Agreement have been paid in full, the Borrower will facilitate inspection being
+taken by the representatives of Exim Bank of the Buyer’s facilities, activities, books
+and records and cause their ofﬁcers and employees to give full co—operation and
+assistance in connection therewith, it being understood that Exim Bank will exercise
+the right of inspection in limited circumstances and the inspection will be conﬁned to
+that portion of the Buyer’s project which may have utilised Exim Bank's funds. Such
+inspection may be subject to prior written approval of the concerned Buyer.
+
+Events of Default:
+K.1 For the purpose of this clause, there shall be an event of default if ——
+
+(a) any amount payable by the Borrower to Exim Bank, under the Credit
+Agreement is not paid when due;
+
+(b) the Borrower fails to perfonn or observe any of its other obligations
+under the Credit Agreement;
+
+(0) any information furnished or representation made by the Borrower to
+Exim Bank is found to be incorrect or incomplete in any material,
+respect;
+
+(d) the Borrower defaults in payment of any other external indebtedness on
+its due date or any external debt of the Borrower becomes due and
+payable prior to its stated maturity or a moratorium or embargo is
+declared on the payment of any external debt of the Borrower or any of
+its agencies, or any political event occurs by reason of which the
+Borrower's Country is declared to be on inimical terms with India;
+
+(e) any restriction shall have been imposed in the Borrower’s Country
+which limits or prevents the transfer of foreign exchange by the
+
+.20.
+
+ 
+
+ 
+
+K.2
+
+K.3
+
+K.4
+
+Borrower for the purpose of performing any of its payment obligations
+under the Credit Agreement.
+
+If an Event of Default occurs and remains unremedied within thirty (30) days
+after Exim Bank has notiﬁed the Borrower of such default, then Exim Bank
+may, by a notice in writing to the Borrower declare that:
+
+(a) access by the Borrower to availment of the Credit facility hereunder
+shall stand suspended in which event the Credit facility to the extent not
+availed of by the Borrower shall remain suspended until the event which
+gave rise to such suspension shall have ceased to exist to the satisfaction
+of Exim Bank and Exim Bank shall have notiﬁed the Borrower that
+access to the Credit facility has been restored; or
+
+(b) any undrawn portion of the Credit shall stand cancelled whereupon the
+same shall stand cancelled; and
+
+(c) the unpaid principal amount of all Advance(s) or the Credit, as the case
+may be, shall become immediately due and payable, whereupon the
+same shall become so payable by the Borrower to Exim Bank (anything
+to the contrary in the Credit Agreement notwithstanding) together with
+all interest accrued thereon and all other monies then owed by the
+Borrower to Exim Bank hereunder, without any further notice or
+demand of any kind whatsoever, all of which the Borrower hereby
+expressly waives in favour of Exim Bank.
+
+All expenses incurred by Exim Bank after an Event of Default shall have
+occurred in connection with preservation of the Borrower's assets and collection
+of amounts due under the Credit Agreement shall be forthwith payable by the
+Borrower, and until payment, shall carry interest at the Interest Rate, besides
+additional interest by way of liquidated damages at the rate provided in the
+Credit Agreement.
+
+Notwithstanding any suspension, cancellation or acceleration pursuant to any of
+the events of default referred to above, all the provisions of the Credit
+Agreement shall continue in full force and effect during the period any amount
+payable by the Borrower to Exim Bank remains outstanding, and independent
+of the Borrower‘s obligations under the Credit Agreement, the Borrower also
+agrees to indemnify Exim Bank against the consequences (direct or indirect) of
+any action that may be taken by a Seller or Buyer against Exim Bank by reason
+of suspension of the Credit facility or cancellation of the undrawn portion of the
+Credit as aforesaid.
+
+.21.
+
+ 
+
+NW?“
+
+I
+(A,
+
+ 
+
+Evidence of Debt:
+
+(a) Exim Bank will maintain, in accordance with its usual practice, a loan account
+in the name of the Borrower evidencing the amount(s) from time to time lent by
+and owing to Exim Bank as also amount(s) received or recovered by it, and an
+interest receivable account showing therein the amount of interest and other
+moneys payable under the Credit Agreement as also amount(s) received or
+recovered by Exim Bank in respect thereof.
+
+(b) In any proceedings arising out of or in connection with the Credit Agreement,
+entries made in the accounts maintained as aforesaid shall be prima facie
+evidence of the existence of the liability of the Borrower as therein recorded.
+
+Waiver:
+
+No delay in exercising or omission to exercise any right, power or remedy accruing to
+Exim Bank upon any default under the Credit Agreement or any other agreement or
+document executed pursuant thereto, shall impair any such right, power or remedy or
+shall constitute a waiver thereof or of any obligation of the Borrower hereunder or
+thereunder or be construed as an acquiescenCe in such default, nor shall the action or
+inaction of Exim Bank in respect of any default or any acquiescence by it in any
+default, affect or impair any right, power or remedy of Exim Bank in respect of any
+other default. The rights and remedies provided in the Credit Agreement are cumulative
+and not exclusive of any rights and remedies to which Exim Bank shall otherwise be
+entitled.
+
+Assignment/Transfer:
+
+Exim Bank shall be entitled at any time to transfer, assign, grant participation in or
+otherwise dispose of any of its rights and beneﬁts under the Credit Agreement to any
+person within or outside India. The Borrower however, shall not assign or transfer any
+of its rights or obligations arising under the Credit Agreement.
+
+Certiﬁcation bv Exim Bank:
+
+Where pursuant to any provision of the Credit Agreement, Exim Bank may certify or
+determine a rate of interest or an amount to be payable by the Borrower or express an
+opinion on any matter, such certiﬁcation, determination or opinion shall be conclusive
+and binding on the Borrower in the absence of manifest error.
+
+Partial Invaliditv:
+
+If at any time any provision of the Credit Agreement shall become illegal, invalid or
+
+unenforceable in any respect under the law of any jurisdiction, neither the legality, '
+
+validity, enforceability of the remaining provisions hereof nor legality, validity or
+
+-22-
+
+ 
+  
+
+l r
+,I ‘I It I
+
+ "IIIW I
+,,,,,, f WM
+
+lihwm llll
+
+enforceability of such provision under the law of any other jurisdiction shall in any way
+be affected or impaired thereby.
+
+Language of documents:
+
+All documents required under the Credit Agreement shall be in English language.
+Law:
+
+The Credit Agreement shall be governed by and construed in accordance with the laws
+of India.
+
+Arbitration:
+
+8.1 Any dispute or difference between the parties hereto arising out of this
+Agreement shall be settled by arbitration in accordance with the Indian
+Arbitration and Conciliation Act, 1996, by one or more arbitrators appointed in
+conformity with the said Act and an award in pursuance thereof shall be binding
+on the parties. The party which seeks to submit the dispute to arbitration shall
+notify the other party in writing not less than four weeks in advance of the
+proposed date of submission of the dispute to arbitration. The place of
+arbitration shall be Mumbai, India and the language in arbitration proceedings
+shall be English.
+
+8.2 The Borrower irrevocably and unconditionally waives any objection which it
+may now or hereafter have to the choice of Mumbai as the venue of arbitration
+arising out of or relating to the Credit Agreement and documents executed
+pursuant thereto. The Borrower also agrees that an arbitral award against it in
+any such arbitration proceedings shall be conclusive evidence of the fact and
+amount of its indebtedness and may be enforced and executed in the Borrower’s
+Country on the strength of a duly certified true copy thereof under its applicable
+laws for enforcement of a foreign arbitral award.
+
+83 The Borrower hereby consents generally in respect of any arbitration
+proceedings arising out of or in connection with the Credit Agreement and all
+documents executed in pursuance thereof, to the giving of any relief or the
+issue of any process in connection with such proceedings including without
+limitation, the making, enforcement or execution against any property
+whatsoever (irrespective of its use or intended use) of any award or judgement
+on such award which may be made or given in such proceedings.
+
+8.4 To the extent that the Borrower may hereafter be entitled in any jurisdiction to
+claim for itself or its property, assets or revenues, immunity from service of
+process, attachment (whether prior to the entry of or in aid of execution of an
+award or upon judgement or otherwise), set—off, judgement or from any other
+
+-23-
+
+ 
+  
+
+ 
+
+l
+.I" y I
+mun “untiluﬂl
+
+legal process on the grounds of sovereignty or otherwise, and to the extent
+that in any such jurisdiction there may be attributed such immunity to itself or
+its property, assets or revenues, the Borrower hereby irrevocably agrees not to
+claim and waives such right to immunity with respect to its obligations under
+the Credit Agreement to the fullest extent permitted by the laws of such
+jurisdiction.
+
+Notices:
+
+Any notice given and any request or demand made in relation to the Credit Agreement
+shall be sufﬁciently given or made if sent by registered air letter, cable, authenticated
+SWIFT or fax. Such notice, request or demand shall be deemed to have been duly
+given or made when it is duly dispatched / transmitted to the party to which it is
+required to be given or made at such party's address speciﬁed below or at such other
+place as such party may designate in writing. When any notice, request or demand is
+given or made by telex or fax, the party concerned shall also send within a reasonable
+time a conﬁrmatory copy of such telex or fax by airmail post.
+
+ 
+   
+
+-24-
+
+  
+
+,:::::;F’V" I, M
+
+ 
+
+ 
+
+BORROWER:
+
+EXIM BANK:
+
+The Government of the Republic of Malawi
+
+   
+
+ 
+
+Attention: 
+Telephone No: (
+Fax No. 
+SWIFT : ‘
+
+Export—Import Bank of India
+Centre One Building, Floor 21
+World Trade Centre Complex
+Cuffe Parade
+
+Mumbai-400 005
+
+Attention: .LOC Group
+Telephone No: (91—22) 22172810 / 22172600
+Fax No: (91—22) 22182460
+
+SWIFT : EIBIINBB
+
+ 
+
+ 
+
+IN WITNESS WHEREOF this Agreement has been signed in duplicate on behalf of the
+parties hereto by persons duly authorised in this behalf respectively on the date and place
+
+mentioned herein below.
+
+SIGNED AND DELIVERED on behalf of THE )
+
+llrlllzlllijl, a, "
+GOVERNMENT OF THE REPUBLIC OF ) l;'i....llll"i ....... All ‘15?"   """  "ll:
+MALAWI by the hand of Mr. Randson P. )
+
+Mwadiwa its Secretary to Treasury, on the 14th day )
+
+of May 2008. )
+SIGNED AND DELIVERED by EXPORT- )
+:1.tﬁ' M £34 kwﬂhnmtﬂhﬁhde‘li """ """ """""""""""" ﬂ
+IMPORT BANK OF INDIA at Maputo, )
+Mozambique by the hand of Mr. T. C. Venkat )
+
+Subramanian, its Chairman and Managing Director )
+
+on the 14th day of May 2008 )
+
+ 
+
+.26.
+
+ 
+
+ 
+
+10.
+
+5.29%!
+CONTRACT APPROVAL
+
+DETAILS OF THE EXPORT CONTRACT TO BE FINANCED UNDER
+CREDIT AGREEMENT DATED BETWEEN
+(NAME OF BORROWER) AND EXIM BANK
+
+No. and Date of
+Contract
+
+Name & Address of
+Importer
+
+Name and Address of
+Exporter
+
+Currency of Contract : US $
+Value of Contract FOB/CFR/CIF
+
+(i) FOB
+(ii) Freight
+
+(iii) Insurance
+(iv)Tota1 CFR/CIF
+
+(a) Deferred Credit (100%) :
+(b) Period of Deferred Credit :
+
+Description of Goods
+Delivery Period
+
+Pre~shiprnent inspection
+agency.
+
+Credit Period Required
+
+-27-
+
+ 
+
+ 
+
+W
+DRAFT OF PAYMENT AUTHORISATION
+
+Export—Import Bank of India
+Address
+
+Dear Sirs,
+
+Re: Dollar Credit Line of US$ 30 mn.
+Under the Dollar Credit Line Agreement dated
+Contract valued at US$ between
+, (Seller) and,
+Malawi (Buyer)
+
+ 
+
+ 
+
+We wish to inform you that the Seller has presented to us its invoice duly certiﬁed by the
+Buyer for an amount of US$ in respect of *advance payment under the above
+contract/ *services rendered by the Seller to the Buyer under the above contract.
+
+We hereby irrevocably authorize Exim Bank to make payment of the said amount of U S$
+
+to the designated account of the Seller in accordance with the payment instructions
+that may have been given by the Seller to Exim Bank. We agree that the amount so paid by
+Exim Bank to the Seller shall be deemed to be an Advance made by Exim Bank to us out of the
+Credit and the date on which Exim Bank shall pay / remit the amount from Mumbai shall be
+deemed to be the date of such Advance.
+
+We request Exim Bank to advise us the date and. the amount of the Advance soon after
+payment is made by Exim Bank as aforesaid.
+
+Yours faithfully,
+
+*Please delete whichever is not applicable.
+
+.23-
+
+ 
+
+ 
+
+Annexure III
+FORMAT OF OPINION OF LEGAL COUNSEL OF THE BORROWER
+Ref.No. Date:
+
+Export—Import Bank of India
+Centre One Building, Floor 21
+World Trade Centre Complex
+Cuffe Parade
+
+Mumbai - 400 005
+
+Re: Credit Line of
+to
+
+ 
+
+ 
+
+1, (NAME), a Counsel and Legal Adviser to the Ministry of ,
+Government of (“the Government”) have examined a copy of the Dollar
+Credit Line Agreement ("the Agreement") dated between Export—Import Bank of
+India (Exim Bank) and the Government for a Credit Line of (“the
+Credit”) agreed to be made available by Exim Bank to the Government.
+
+In connection with this opinion I have examined the constitution, laws, decrees, judicial
+decisions, rules and regulations of (“the Republic”) and such agreements,
+instruments, documents and other matters as I have considered necessary or desirable for the
+opinions hereinafter expressed.
+
+Based on the foregoing, I am of the opinion that :
+
+(a) the Government has full power and authority to execute and deliver the Agreement and
+to perform its obligations thereunder;
+
+(b) Mr. and / Mr. , the ofﬁcial(s) representing the Ministry
+of , Government of the Republic who has/have signed the Agreement
+on behalf of the Government has/have full power and authority to execute and deliver
+the Agreement and all documents pursuant thereto in the name and on behalf of the
+Government;
+
+(0) all legislative, administrative and other governmental actions and statutory and other
+approvals and permissions required in the Republic for (i) the execution and delivery
+by the Government of the Agreement and all documents in pursuance thereof, (ii) the
+borrowings by the Government under the Agreement and (iii) all payments to be made
+by the Government in accordance with the provisions of the Agreement, have been
+obtained and are in full force and effect without any restriction, and the Agreement as
+
+ 
+   
+
+“i.::::::i:ii”". 
+
+  
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+*(i)
+
+*(i)
+
+executed and delivered constitutes a valid and legally binding obligation of the
+Government enforceable in law and in accordance with its terms;
+
+the Government is subject to civil and commercial law and to legal/arbitration
+proceedings with respect to its obligations under the Agreement and all documents
+executed pursuant thereto, and the borrowing of the Credit, execution and delivery of
+the Agreement and the performance by the Government of its obligations thereunder
+constitute/will constitute private and commercial acts and not governmental or public
+acts;
+
+neither the execution and delivery of the Agreement nor the performance of its
+obligations under the Agreement nor compliance with the terms and conditions thereof
+will (i) conﬂict with any present law, regulation, treaty or rule of the Republic or any
+order of any judicial or other authority, (ii) result in any breach of any of the terms of,
+or constitute a default under, any agreement or other instrument to which the
+Government is a party or is subject or by which it or any of its property is bound, (iii)
+result in the creation or imposition of any encumbrance on any of the Government's
+property assets or revenues or (iv) require approval of any other lenders to the
+Government;
+
+the Government is not in default under any agreement to which it is a party or by which
+it may be bound;
+
+the obligations of the Government under the Agreement and all documents executed in
+pursuance thereof, constitute the direct, general and unconditional obligations of the
+Government and, with the exception of priority enjoyed by obligations which are
+mandatorily preferred by law, rank and will rank at least pari passu with all present and
+future unsecured indebtedness of the Government;
+
+it is not necessary in order to ensure the legality, validity, enforceability or
+admissibility in evidence of the Agreement in the Republic that it or any other
+document be ﬁled, notarised, registered, recorded or enrolled with any court or
+authority there or that any stamp, registration or similar tax be paid on or in relation. to
+the Agreement;
+
+there is no restriction imposed in the Borrower’s Country which limits or prevents the
+transfer of foreign exchange by the Borrower for the purpose of performing any of its
+payment obligations under the Credit Agreement;
+
+although there are foreign exchange restrictions under the laws of the Republic on the
+ransactions contemplated by the Agreement, the Government has made satisfactory
+arrangements to ensure that requisite amount of foreign exchange will be available to
+enable the Government to meet its liability for making payments when due under the
+Agreement;
+
+ 
+ 
+  
+ 
+
+.30-
+
+    
+
+Ht. r "I: ,.
+llll It "MI
+
+ 
+
+*(i)
+
+*(i)
+
+(k)
+
+(1)
+
+(m)
+
+(n)
+
+(0)
+
+under the existing applicable law, there is no income—tax or other tax in the Republic
+imposed by withholding, which the Government would be otherwise required to deduct
+from or pay on any amount of payment to be made by the Government under the
+Agreement;
+
+under the existing applicable law, there is income—tax in or of the Republic imposed by
+withholding or otherwise, which the Government would be required to pay in respect of
+any payment when made by the Government under the Agreement or is imposed on or
+by virtue of execution, delivery or performance of the Agreement; it is however
+permissible under the laws of the Republic to gross up such payments so that Exim
+Bank can receive such payment from the Government which it would otherwise receive
+had there been no withholding of tax to be made by the Government;
+
+it is not necessary under any law, rule or regulation of the Republic
+(a) in order to enable Exim Bank to enforce its rights under the Agreement or
+
+(b) by reason of Exim Bank entering into the Agreement or exercising its rights or
+performing its obligations thereunder
+
+that Exim Bank is required to be licenced, qualiﬁed or otherwise needs to carry on
+business in the Republic;
+
+Exim Bank shall not be deemed to be resident, domiciled or carrying on business in. the
+Republic by reason only of the entering into of the Agreement or the exercise of its
+rights or the performance of its obligations thereunder;
+
+neither the Government nor any of its properties, assets or revenues is entitled to any
+right of immunity or privilege from service of process, attachment (whether prior to the
+entry of or in aid of execution upon a judgement) or set—off, arbitration proceedings,
+judgement, execution, or from any other legal process in the Republic on, the grounds of
+sovereignty or otherwise, and the waiver contained in the Agreement of any right of
+such immunity and privilege by the Government is irrevocably binding on the
+Government;
+
+the choice of Indian law to govern the Agreement and all documents executed in.
+pursuance thereof is a valid choice of law and the agreement by the Government to
+submission of any dispute to arbitration is valid under the laws of the Republic;
+
+any arbitral award obtained by Exim Bank, in respect of any dispute arising under the
+Agreement shall be conclusive evidence of the amount of its indebtedness under the
+Agreement and will be recognised and enforced in the Republic on the strength of a
+duly certiﬁed true copy of the award in accordance with the ordinary procedure
+applicable under the laws of the Republic for enforcement of foreign arbitral award,
+without any requirement of ﬁling a suit on such award in the courts of the Republic.
+
+.31.
+
+ 
+
+The opinions herein expressed are limited to the matters governed by the laws of the Republic
+as applicable to the Government and I express no opinion as to the laws of any other
+jurisdiction.
+
+Yours faithfully,
+
+*Please delete whichever is not applicable.
+
+     
+
