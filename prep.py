@@ -1,5 +1,9 @@
 # call from bash script for each ocr output txt file
 # process raw text
+<<<<<<< HEAD
+=======
+# (may need to add separate processing for csv's)
+>>>>>>> bd1a1db6c32b50a5880ee603416b2762fca56ccd
 
 import sys
 import os
@@ -34,7 +38,11 @@ raw = ''.join(i for i in raw if ord(i)<128)
 
 # strip punctuation
 
+<<<<<<< HEAD
 # add spaces instead of removing punctuation (mainly for csv's)
+=======
+# add spaces instead of removing (mainly for csv's)
+>>>>>>> bd1a1db6c32b50a5880ee603416b2762fca56ccd
 #
 raw = raw.translate(None, string.punctuation)
 
@@ -54,6 +62,7 @@ tokens = nltk.word_tokenize(raw)
 # text = nltk.Text(tokens)
 
 
+<<<<<<< HEAD
 # *****
 # (may need to add separate processing for csv's)
 # *****
@@ -62,10 +71,19 @@ tokens = nltk.word_tokenize(raw)
 # split strings using uppercase letters as markers (start at end of word)
 # 
 
+=======
+# split strings using uppercase letters as markers (start at end of word)
+# 
+
+# get rid of strings with >50% uppercase
+# 
+
+>>>>>>> bd1a1db6c32b50a5880ee603416b2762fca56ccd
 
 # get rid of stopwords, all uppercase words, all lowercase words
 stopwords = nltk.corpus.stopwords.words('english')
 months = ('january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december')
+<<<<<<< HEAD
 # additional stopwords list (see junk2geo)
 general_stops = open('junk2geo/stopwords/stopwords_en_es_fr_pt_de_it.txt','r').read().split('\n')
 
@@ -118,6 +136,12 @@ content = sorted(set(content))
 
 
 
+=======
+content = [w for w in tokens if w.lower() not in stopwords and w.lower() not in months and not w.islower() and not w.isupper() and len(wordnet.synsets(w)) < 2]
+
+content = [w for w in content if len(wordnet.synsets(w)) == 0 or (len(wordnet.synsets(w)) == 1 and string.find(str(wordnet.synsets(w)[0].root_hypernyms()[0]), 'entity.n.01') != -1 ) ]
+
+>>>>>>> bd1a1db6c32b50a5880ee603416b2762fca56ccd
 
 # get rid of words base on frequency
 # may be useful if done earlier
@@ -144,7 +168,11 @@ content = sorted(set(content))
 # content = [w for w in content if w not in fover]
 
 
+<<<<<<< HEAD
 out = '\n'.join(content)
+=======
+out = ' '.join(content)
+>>>>>>> bd1a1db6c32b50a5880ee603416b2762fca56ccd
 foutput.write(out)
 
 finput.close()
